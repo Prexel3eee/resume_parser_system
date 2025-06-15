@@ -6,6 +6,7 @@ RUN apt-get update && apt-get install -y \
     poppler-utils \
     libmagic1 \
     git \
+    build-essential \
     && rm -rf /var/lib/apt/lists/*
 
 # Set working directory
