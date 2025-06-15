@@ -7,6 +7,7 @@ RUN apt-get update && apt-get install -y \
     libmagic1 \
     git \
     build-essential \
+    libgl1-mesa-glx \
     && rm -rf /var/lib/apt/lists/*
 
 # Set working directory
