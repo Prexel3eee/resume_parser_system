@@ -1,0 +1,126 @@
+{
+  "timestamp": "2025-06-15T08:35:39.260736",
+  "summary": {
+    "total_processed": 6,
+    "successful_extractions": 6,
+    "failed_extractions": 0,
+    "success_rate": 100.0,
+    "ocr_usage_percentage": 0.0,
+    "avg_extraction_time": 5.77182416121165
+  },
+  "field_analysis": {
+    "empty_fields": {},
+    "field_confidence": {}
+  },
+  "skills_analysis": {
+    "categories": {
+      "technical_skills": {
+        "count": 0,
+        "skills": []
+      },
+      "business_skills": {
+        "count": 0,
+        "skills": []
+      },
+      "creative_skills": {
+        "count": 0,
+        "skills": []
+      },
+      "communication_skills": {
+        "count": 0,
+        "skills": []
+      },
+      "industry_skills": {
+        "count": 0,
+        "skills": []
+      },
+      "soft_skills": {
+        "count": 0,
+        "skills": []
+      },
+      "other_skills": {
+        "count": 0,
+        "skills": []
+      }
+    },
+    "total_skills": 0,
+    "unique_skills": 0
+  },
+  "resume_details": [
+    {
+      "resume_path": "data\\input\\.Net - TX - Hassan.pdf",
+      "confidence_score": 0.0,
+      "used_ocr": false,
+      "extracted_fields": {
+        "skills": {
+          "rest": 0.9
+        },
+        "name": "Hassan Mwase",
+        "email": "",
+        "phone": "",
+        "location": {
+          "city": "",
+          "state": "",
+          "zip": ""
+        },
+        "work_authority": "",
+        "designation": "software developer",
+        "experience": "Professional Experience Secret Security",
+        "tax_term": "",
+        "confidence": 0.22695
+      }
+    },
+    {
+      "resume_path": "data\\input\\Affzal_SrDeveloperResumeS.pdf",
+      "confidence_score": 0.0,
+      "used_ocr": false,
+      "extracted_fields": {
+        "skills": {
+          "reporting": 0.9,
+          "sql": 0.9,
+          "sql server": 0.9,
+          "analysis": 0.9,
+          "business analysis": 0.9,
+          "safe": 0.9,
+          "version control": 0.9
+        },
+        "name": "AFFZAL ABDUL  \nD",
+        "email": "",
+        "phone": "",
+        "location": {
+          "city": "",
+          "state": "",
+          "zip": ""
+        },
+        "work_authority": "",
+        "designation": "Developer",
+        "experience": "PROFESSIONAL EXPERIENCE Anthem Inc.\n, Norfolk , VA Mar 2017\u2013 Till date Developer Sr.\nAnthem Inc .\nis an American health insurance company founded in the 1940s, prior to 2014 known as WellPoint, Inc.\nIt is the largest for -profit managed health care company in the Blue Cross and Blue Shield Association .\nIt covers 7 .7 million seniors, people with disabilities, low -income families and other state and federally sponsored beneficiaries, and federal employees in 26 states, making it the nation\u2019s largest provider of health care for public programs .\nResponsibilities: \u2022 Expertise in Provider dealing with legacy system to load files from states into the FACETS application.\nExpertise in Provider business domai n area and the flow of the FACETS application.\nin-depth knowledge of both providers in FACETS.\n\u2022 Apply the Business rules on the data coming from multiple operating markets.\nMaintain the business rules in a table for visibility to all required processes.\n\u2022 Actively worked in gathering requirements with SA and PO to convert them to technical documents for the deve lopment to initiate in Jira.\n\u2022 Used JIRA, SVN Tortoise & Bit bucket for code repository and logged / tracked the activities in the team.\nAlso CTU tool for code deployments.\n\u2022 Used Splunk for parsing complex files and Splunk language ( SPQL ) to make the searches and created dashboards on the data.\nAlso configured notifications as requested by the business.\n\u2022 Did POC for DevOps tools and deeper research on both Sisense and Tableau tools for utilizing them as data visualization purposes across the provider department.\n\u2022 Have hands on experience in pulling data from JIRA using REST calls thru PowerShell scripting and load them to SQL db.\nAlso did dashboards on the loaded data and provi ded support for the created dashboards in tableau .\n\u2022 Used Python to massage the data in REST calls using JIRA libraries and loading them to database.\nBuilt dashboards on top the loaded data for project management team.\n\u2022 Checked the configuration and performance of the existing databases including data file allocation, index, fill factor, fragmentation and the impact on system performance.\nAnalyzed potential problems (response delay, locking, server down time, etc.) to avo id and optimize.\n\u2022 Actively involved with production support ( 24*7) and Development environment.\n\u2022 Used Premise to trace the slow running queries and tried to Optimize SQL queries for improved performance and availability.\nAlso used precise tool for reviewin g the performance.\n\u2022 Actively involved in code reviews and mentoring the developers.\nAnd also involved in development activities.\n\u2022 Excellent Team Building, Project Management, Analytical, Interpersonal & Communication",
+        "tax_term": "",
+        "confidence": 0.265
+      }
+    },
+    {
+      "resume_path": "data\\input\\Data Entry - NY - Lauren.pdf",
+      "confidence_score": 0.0,
+      "used_ocr": false,
+      "extracted_fields": {
+        "skills": {
+          "medical": 0.9
+        },
+        "name": "Lauren Dubin",
+        "email": "",
+        "phone": "",
+        "location": {
+          "city": "BRONX",
+          "state": "NY",
+          "zip": "10468"
+        },
+        "work_authority": "S",
+        "designation": "Data",
+        "experience": "PROFESSIONAL EXPERIENCE Metropol itan Transportation Authority August 2017 -PRESENT Bronx, NY Data Entry/Office assistant \u2022 Comparing data entered with source documents.\n\u2022 Correcting errors when appropriate.\n\u2022 Maintaining required records of all completed work and compiling weekly reports.\n\u2022 Assist in maintaining filing system by organizing, purging, maintaining and retrieving files.\n\u2022 Clerical duties as assigned Acacia Network, Bronx, NY December 2016 \u2013 June 2017 Medical Scribe \u2022 Anticipate physician needs to facilitate the flow of clinics.\n\u2022 Accurately and thoroughly record patient medical history an d physical exam, procedures and treatments performed by healthcare professionals, including nurses and physician assistants.\n\u2022 Patient",
+        "tax_term": "",
+        "confidence": 0.4088666666666667
+      }
+    }
+  ]
+}

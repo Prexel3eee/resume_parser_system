@@ -1,0 +1,44 @@
+John Doe
+Software Engineer
+john.doe@example.com
+(555) 123-4567
+
+Location: New York, NY 10001
+Work Authorization: US Citizen
+
+Professional Summary:
+Experienced software engineer with expertise in Python, Java, and machine learning.
+Strong background in developing scalable applications and implementing NLP solutions.
+
+Experience:
+Senior Software Engineer
+Tech Company Inc.
+2018 - Present
+- Led development of machine learning pipeline processing 1M+ documents
+- Implemented NLP-based resume parsing system
+- Mentored junior developers and conducted code reviews
+
+Software Engineer
+Previous Company
+2015 - 2018
+- Developed REST APIs using Python and Django
+- Implemented automated testing and CI/CD pipelines
+- Optimized database queries improving performance by 40%
+
+Skills:
+- Programming: Python, Java, JavaScript
+- Machine Learning: TensorFlow, PyTorch, scikit-learn
+- NLP: spaCy, NLTK, BERT
+- Tools: Docker, Git, Jenkins
+- Databases: PostgreSQL, MongoDB
+
+Education:
+Bachelor of Science in Computer Science
+University of Technology
+2011 - 2015
+GPA: 3.8/4.0
+
+Certifications:
+- AWS Certified Developer
+- Google Cloud Professional Developer
+- Certified Scrum Master 

@@ -1,0 +1,106 @@
+{
+  "first_name": "Kallidumbil",
+  "last_name": "Raj Rajnarayanan",
+  "primary_email": "k.rajnarayanan@gmail.com",
+  "secondary_email": null,
+  "phone": "3016933175",
+  "city": "Frederick",
+  "state": "MD",
+  "zip": null,
+  "work_authority": "Messages Developed Mappings And Sessions Based On User Requirements And Business Rules To Load Data From Source Flat Files And Rdbms Tables To Target Tables Designed The Etl Processes Using Informatica To Load Data From Db",
+  "resume_link": ".Net - MD - Raj.docx",
+  "raw_resume": "Kallidumbil “Raj” Rajnarayanan\n\nPhone: 301 693 3175\n\nEmail: k.rajnarayanan@gmail.com\n\n\n\nSUMMARY\t\n\n\n\n13+ years of IT experience in Web and Client Server Development and Management.\n\nStrong at Object Oriented “Analysis and Design” and Programming skills along with ability to learn new emerging technologies and adapt quickly \n\nExpertise in JavaScript development using Node, jQuery, Angular, React and Backbone\n\nWebsite development using HTML5, CSS3, AJAX, JSON, LESS and SASS\n\nExperience in XML, XPATH, XQUERY, XSL, WSDL, SOAP, REST and XSLT\n\nExperience in web development using Drupal\n\nExtensive experience in Shell Scripting, Cron job scheduling in both Linux and Unix\n\nExperience in database development using DB2, Oracle, SQL Server, MySQL and MS Access\n\nExperience in NOSQL databases MongoDB, Dynamodb, Solr and ElasticSearch\n\nExperience in CDN configuration and management\n\nExperience in implementing enterprise search using Solr, ElasticSearch and RDBMS Full-Text\n\nExpertise in .NET forms, MVC, API and Core\n\nExperience in Core and JEE Platform development\n\nExperience in JSP, Servlets\n\nExpertise in JPA and Hibernate\n\nExperience in Spring MVC, Spring Boot, Maven and Apache Ant\n\nExpertise in ETL Development using Informatica and SSIS\n\nExperience in Data warehousing and Master Data Management\n\nExperience in using a variety of reporting tools such as Oracle Reports, Crystal Reports, Microsoft Reports, SSRS and Active Reports\n\nExcellent Interpersonal, Analytical and Communication skills\n\nKnowledge in various states of System Development Life Cycle (SDLC)\n\nWell versed in Agile Development Methodologies \n\nHigh proficiency in working with users to gather requirements, analyze them, and subsequently use design tools to model the requirements\n\n\n\nTECHNICAL SKILLS\n\n\n\nLanguages: \tJavaScript, Java, Python, VB.NET, C#, Scala, TypeScript\n\nWeb Technologies: \tHTML5, CSS3, Nodejs, ASP.NET, .NET Core, Spring Framework, Flask, Django, Drupal, REST, SOAP, XSL, XML, XPATH, Web Services, jQuery, Angular, React, Backbone, AJAX, LESS, SASS\n\nMobile:\tXamarin, ionic.\n\nCloud:\tAWS, AWS Lambda, Azure and Azure Functions\n\nDatabase Tools: \tSQL Enterprise Manager, SQL Profiler, Query Analyzer, TOAD, SQL Developer, phpMyAdmin\n\nORM Frameworks:\tHibernate, JPA, NHibernate, LINQ, Entity Framework\n\nRDBMS: \t\t\tIBM DB2, MS SQL Server, Oracle, MySQL, SQLite, Access, Postgres \n\nBigData/NOSQL:\t\tApache Spark, Mongodb, Dynamodb, \n\nSearch Technologies:\t\tSolr, Elastic\n\nOperating Systems: \t\tWindows, Mac OS X, Linux, Unix, IBM z/OS, Android and IOS\n\nTechnology: \tCOM+, CORBA, MSMQ, Web Services, WebDAV, Win Forms, WCF, WPF, WF, Servlets, Enterprise Java Beans, Struts, Spring, JPA, Flex\n\nDatabase Scripting: \t\tTSQL, PL/SQL",
+  "tax_term": null,
+  "source_by": null,
+  "skills": {
+    "programming": [
+      "python",
+      "java",
+      "javascript",
+      "typescript",
+      "scala",
+      "sql",
+      "pl/sql",
+      "nosql",
+      "sass",
+      "less",
+      "xml",
+      "json",
+      "crystal",
+      "k",
+      "ant",
+      "xslt"
+    ],
+    "frameworks": [
+      "react",
+      "angular",
+      "django",
+      "flask",
+      "spring",
+      "asp.net",
+      "jquery",
+      "rest",
+      "soap",
+      "ionic",
+      "xamarin",
+      "spring boot"
+    ],
+    "databases": [
+      "mysql",
+      "oracle",
+      "sql server",
+      "mongodb",
+      "elasticsearch",
+      "dynamodb",
+      "sqlite",
+      "db2",
+      "solr"
+    ],
+    "cloud": [
+      "aws",
+      "azure",
+      "lambda",
+      "dynamodb",
+      "functions",
+      "cdn"
+    ],
+    "devops": [
+      "functions",
+      "cdn"
+    ],
+    "methodologies": [
+      "agile",
+      "crystal"
+    ],
+    "soft_skills": [
+      "analysis"
+    ],
+    "business_skills": [
+      "reporting"
+    ],
+    "data_skills": [
+      "data management",
+      "etl",
+      "reporting",
+      "sql",
+      "pl/sql",
+      "nosql",
+      "mongodb",
+      "python",
+      "scala",
+      "java",
+      "spark",
+      "informatica"
+    ],
+    "domain_specific": [
+      "warehousing",
+      "design",
+      "bigdata"
+    ],
+    "sdlc": [
+      "agile development"
+    ]
+  },
+  "designation": "Senior Software Developer",
+  "experience": "13+"
+}

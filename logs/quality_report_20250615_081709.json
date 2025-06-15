@@ -1,0 +1,245 @@
+{
+  "timestamp": "2025-06-15T08:17:09.490695",
+  "summary": {
+    "total_processed": 12,
+    "successful_extractions": 12,
+    "failed_extractions": 0,
+    "success_rate": 100.0,
+    "ocr_usage_percentage": 0.0,
+    "avg_extraction_time": 8.47305166721344
+  },
+  "field_analysis": {
+    "empty_fields": {},
+    "field_confidence": {}
+  },
+  "skills_analysis": {
+    "categories": {
+      "technical_skills": {
+        "count": 0,
+        "skills": []
+      },
+      "business_skills": {
+        "count": 0,
+        "skills": []
+      },
+      "creative_skills": {
+        "count": 0,
+        "skills": []
+      },
+      "communication_skills": {
+        "count": 0,
+        "skills": []
+      },
+      "industry_skills": {
+        "count": 0,
+        "skills": []
+      },
+      "soft_skills": {
+        "count": 0,
+        "skills": []
+      },
+      "other_skills": {
+        "count": 0,
+        "skills": []
+      }
+    },
+    "total_skills": 0,
+    "unique_skills": 0
+  },
+  "resume_details": [
+    {
+      "resume_path": "data\\input\\.Net - TX - Hassan.pdf",
+      "confidence_score": 0.0,
+      "used_ocr": false,
+      "extracted_fields": {
+        "skills": {
+          "r": 0.9,
+          "rest": 0.9
+        },
+        "name": "Hassan Mwase",
+        "email": "",
+        "phone": "",
+        "location": {
+          "city": "",
+          "state": "",
+          "zip": ""
+        },
+        "work_authority": "",
+        "designation": "software developer",
+        "experience": "Professional Experience Secret Security",
+        "tax_term": "",
+        "confidence": 0.22695
+      }
+    },
+    {
+      "resume_path": "data\\input\\Affzal_SrDeveloperResumeS.pdf",
+      "confidence_score": 0.0,
+      "used_ocr": false,
+      "extracted_fields": {
+        "skills": {
+          "r": 0.9,
+          "SRS": 0.9,
+          "reporting": 0.9,
+          "sql": 0.9,
+          "sql server": 0.9,
+          "analysis": 0.9,
+          "business analysis": 0.9,
+          "safe": 0.9,
+          "version control": 0.9
+        },
+        "name": "AFFZAL ABDUL  \nD",
+        "email": "",
+        "phone": "",
+        "location": {
+          "city": "",
+          "state": "",
+          "zip": ""
+        },
+        "work_authority": "",
+        "designation": "Developer",
+        "experience": "PROFESSIONAL EXPERIENCE Anthem Inc.\n, Norfolk , VA Mar 2017\u2013 Till date Developer Sr.\nAnthem Inc .\nis an American health insurance company founded in the 1940s, prior to 2014 known as WellPoint, Inc.\nIt is the largest for -profit managed health care company in the Blue Cross and Blue Shield Association .\nIt covers 7 .7 million seniors, people with disabilities, low -income families and other state and federally sponsored beneficiaries, and federal employees in 26 states, making it the nation\u2019s largest provider of health care for public programs .\nResponsibilities: \u2022 Expertise in Provider dealing with legacy system to load files from states into the FACETS application.\nExpertise in Provider business domai n area and the flow of the FACETS application.\nin-depth knowledge of both providers in FACETS.\n\u2022 Apply the Business rules on the data coming from multiple operating markets.\nMaintain the business rules in a table for visibility to all required processes.\n\u2022 Actively worked in gathering requirements with SA and PO to convert them to technical documents for the deve lopment to initiate in Jira.\n\u2022 Used JIRA, SVN Tortoise & Bit bucket for code repository and logged / tracked the activities in the team.\nAlso CTU tool for code deployments.\n\u2022 Used Splunk for parsing complex files and Splunk language ( SPQL ) to make the searches and created dashboards on the data.\nAlso configured notifications as requested by the business.\n\u2022 Did POC for DevOps tools and deeper research on both Sisense and Tableau tools for utilizing them as data visualization purposes across the provider department.\n\u2022 Have hands on experience in pulling data from JIRA using REST calls thru PowerShell scripting and load them to SQL db.\nAlso did dashboards on the loaded data and provi ded support for the created dashboards in tableau .\n\u2022 Used Python to massage the data in REST calls using JIRA libraries and loading them to database.\nBuilt dashboards on top the loaded data for project management team.\n\u2022 Checked the configuration and performance of the existing databases including data file allocation, index, fill factor, fragmentation and the impact on system performance.\nAnalyzed potential problems (response delay, locking, server down time, etc.) to avo id and optimize.\n\u2022 Actively involved with production support ( 24*7) and Development environment.\n\u2022 Used Premise to trace the slow running queries and tried to Optimize SQL queries for improved performance and availability.\nAlso used precise tool for reviewin g the performance.\n\u2022 Actively involved in code reviews and mentoring the developers.\nAnd also involved in development activities.\n\u2022 Excellent Team Building, Project Management, Analytical, Interpersonal & Communication",
+        "tax_term": "",
+        "confidence": 0.265
+      }
+    },
+    {
+      "resume_path": "data\\input\\Data Entry - NY - Lauren.pdf",
+      "confidence_score": 0.0,
+      "used_ocr": false,
+      "extracted_fields": {
+        "skills": {
+          "r": 0.9,
+          "medical": 0.9
+        },
+        "name": "Lauren Dubin",
+        "email": "",
+        "phone": "",
+        "location": {
+          "city": "BRONX",
+          "state": "NY",
+          "zip": "10468"
+        },
+        "work_authority": "S",
+        "designation": "Data",
+        "experience": "PROFESSIONAL EXPERIENCE Metropol itan Transportation Authority August 2017 -PRESENT Bronx, NY Data Entry/Office assistant \u2022 Comparing data entered with source documents.\n\u2022 Correcting errors when appropriate.\n\u2022 Maintaining required records of all completed work and compiling weekly reports.\n\u2022 Assist in maintaining filing system by organizing, purging, maintaining and retrieving files.\n\u2022 Clerical duties as assigned Acacia Network, Bronx, NY December 2016 \u2013 June 2017 Medical Scribe \u2022 Anticipate physician needs to facilitate the flow of clinics.\n\u2022 Accurately and thoroughly record patient medical history an d physical exam, procedures and treatments performed by healthcare professionals, including nurses and physician assistants.\n\u2022 Patient",
+        "tax_term": "",
+        "confidence": 0.4088666666666667
+      }
+    },
+    {
+      "resume_path": "data\\input\\David Buchberger - Security - OH.pdf",
+      "confidence_score": 0.0,
+      "used_ocr": false,
+      "extracted_fields": {
+        "skills": {
+          "itil": 0.8,
+          "analysis": 0.8,
+          "attention to detail": 0.8,
+          "organization": 0.8,
+          "networking": 0.8,
+          "documentation": 0.8,
+          "defense": 0.8,
+          "education": 0.6,
+          "policy": 0.8,
+          "infrastructure": 0.8,
+          "engineering": 0.8,
+          "customer service": 0.8,
+          "technical support": 0.8,
+          "compliance": 0.8,
+          "risk management": 0.8,
+          "governance": 0.8,
+          "security": 0.8,
+          "information security": 0.8,
+          "incident response": 0.8,
+          "security operations center": 0.8,
+          "patch management": 0.8,
+          "security operations": 0.8,
+          "security engineering": 0.8,
+          "security tools": 0.8,
+          "nessus": 0.8,
+          "symantec": 0.8,
+          "mcafee": 0.8,
+          "carbon black": 0.8,
+          "fireeye": 0.8,
+          "access management": 0.8,
+          "siem": 0.8
+        },
+        "name": "David Buchberger",
+        "email": "",
+        "phone": "6142029370",
+        "location": {
+          "city": "Sugar Grove",
+          "state": "OH",
+          "zip": "43155"
+        },
+        "work_authority": "",
+        "designation": "Security Analyst",
+        "experience": "EMPLOYMENT HISTORY August 2018 \u2013 February 2020 Infinite Contract State of Ohio \u2013 Office of Information Security and Privacy Tier 1 Cyber Security Analyst \u2022 Respond to assigned tickets using ServiceNow \u2022 Remediate phishing attacks using Microsoft Defender Advanced Threat Protection, Office 365, and Symantec Management Center \u2022 Use Symantec Web Analytics to allow approved access to Web page URLS \u2022 Assist Tier 2 and Tier 3 with tickets as needed \u2022 Use McAffe ePO to detect malware on servers and desktops \u2022 Use Tanium to troubleshoot infected systems 2015 \u2013 2018 Battelle Columbus, OH Network Systems Analyst II (Security Operations Center/Vulnerability Management) \u2022 Scan Network with Nessus Manager and Professional \u2022 Create and monitor Scan schedule \u2022 Build Nessus Agent Groups \u2022 Perform credentialed, Non-credentialed and Agent scans on servers and workstations \u2022 Perform credentialed and Non-Credentialed WAS and DMZ scans \u2022 Perform internal and external Discovery scans \u2022 Work with clients to resolve Nessus plugin scan requirements \u2022 Prioritize network vulnerability threat with Kenna Security \u2022 Monitor Kenna Security Connector tunnel Nessus file upload integrity \u2022 Assign and track ServiceNow vulnerability remediation requests \u2022 Provide vulnerability remediation assistance to server Admins \u2022 Maintain Access Management CMDB \u2022 Create reports for upper management \u2022 Create detailed instructional documentation \u2022 SOC exposure to SIEM tools i.e.\nCarbon Black (Response and Defense), FireEye, 2013 \u2013 2015 Battelle Columbus, OH Network Systems Analyst II (Internal Network) \u2022 Maintain 2FA (RSA Token, Terminal Server and VMware) NIST FISMA and HIPAA environment \u2022 Verify VEEAM backup integrity, create reports and post to SharePoint for client review \u2022 Troubleshoot, install, and remove third party applications \u2022 Troubleshoot network connectivity issues \u2022 Troubleshoot printer issues \u2022 Install updates \u2022 Remediate vulnerabilities \u2022 Familiarity with Microsoft Group Policy objects as it applies to workstations \u2022 Experience with Microsoft Direct Access \u2022 Submit Firewall and Switch RFC \u2022 Assist remote Users \u2022 Create monthly internal network vulnerability report 2006 \u2013 2013 Battelle Columbus, OH Sr.\nComm/Equip Spec III (20,000+ User environment) Resume \u2013 David Buchberger 2 2002 \u2013 2006 Arlington Computer Products (Discover Card) Columbus, OH PC Technician (3,500+ User environment) 2001 \u2013 2002 TEKsystems (Columbia Gas) Columbus, OH PC Technician (1,000+ User environment) 2000 -2001 National Board of BPVI Columbus, OH Technical Support Specialist (100+ User environment) 1998 \u2013 2000 United Parcel Service Columbus, OH PC Technician (100+ User environment) KEY",
+        "tax_term": "CONTRACT",
+        "confidence": 0.5290322580645161
+      }
+    },
+    {
+      "resume_path": "data\\input\\David Musia - Mainframe - TX.pdf",
+      "confidence_score": 0.0,
+      "used_ocr": false,
+      "extracted_fields": {
+        "skills": {
+          "r": 0.9,
+          "sas": 0.9,
+          "customer service": 0.9,
+          "compliance": 0.9,
+          "scala": 0.9,
+          "problem management": 0.9,
+          "incident management": 0.9,
+          "change management": 0.9,
+          "lit": 0.9,
+          "time management": 0.9,
+          "planning": 0.9,
+          "analysis": 0.9,
+          "root cause analysis": 0.9
+        },
+        "name": "David Musia  \nDenton",
+        "email": "",
+        "phone": "",
+        "location": {
+          "city": "TX",
+          "state": "TX",
+          "zip": "76210"
+        },
+        "work_authority": "",
+        "designation": "Project Administration",
+        "experience": "WORK EXPERIENCE Senior Mainframe Operator DXC Technology (from EDS) 2000 \u2013 2019 Hewlett Packard Enterprises (HPE) merged with DXC Technology 2017 Hewlett Packard (HP) merged with HPE 2015 Electronic Data Systems (EDS) merged with HP 2008",
+        "tax_term": "",
+        "confidence": 0.30351666666666666
+      }
+    },
+    {
+      "resume_path": "data\\input\\DEXTER K. NDENGABAGANIZI  - PM Program Manager - OH.pdf",
+      "confidence_score": 0.0,
+      "used_ocr": false,
+      "extracted_fields": {
+        "skills": {
+          "r": 0.9,
+          "excel": 0.9,
+          "aerospace": 0.9,
+          "space": 0.9,
+          "chi": 0.9
+        },
+        "name": "PROFESSIONAL EXPERIENCE  \nC",
+        "email": "",
+        "phone": "2693258811",
+        "location": {
+          "city": "Pickerington",
+          "state": "OH",
+          "zip": "43147"
+        },
+        "work_authority": "",
+        "designation": "Program Coordinator",
+        "experience": "PROFESSIONAL EXPERIENCE Council on Foreign Relations (CFR) Washington, DC Assistant Director, Washington Meetings Program [May 2016 \u2013 Aug.\n2017] Program Coordinator , Washington Meetings Program [June 2015 \u2013 May 2016 ] Program Associate, Washington Meetings Program [Jan.\n201 4 \u2013 June 2015 ] Program Assistant , Washington Meetings Program [Nov .\n2012 \u2013 Jan.\n201 4] \uf0b7 Conceptualize d, manage d, and coordinate d internal and external events ranging from roundtables to multi -day 300+ daily attendee conferences with key policymakers across various stakeholder groups.\n\uf0b7 Create d and m anage d relationships with key domestic and international policymakers , subject matter experts, and business leaders to participate in CFR programming and initiatives for Council members.\n\uf0b7 Research ed, monitor ed, and evaluate d international trends to identify potential p rogramming for CFR members and the broader domestic and international political and policy community.\nResults for Development Institute Washington , DC Center for Health Market Innovations (CHMI) Intern [May 2012 \u2013 Nov.\n2012 ] \uf0b7 Assisted in the creation of s trategic plans to increase the visibility of dozens of health market innovations.\n\uf0b7 Conducted needs synthesis used in the formulation of CHMI\u2019s Web and Facebook Outreach Strategy.\nU.S.\nEmbassy: Foreign Commercial Service Singapore Foreign Commercial Service Intern [Aug.\n2011 \u2013 Jan.\n2012 ] \uf0b7 Conduct ed trade promotion for 1,300+ American companies and products in Singapore .\n\uf0b7 Interviewed corporate and policy leaders, researched, and produced official U.S.\nCommercial Service Market Research Report s used in U.S.-Singaporean business facilitation s.\nHouses of the Oireachtas: D\u00e1il \u00c9ireann (Irish National Parliament) Dublin, Ireland Research Assistant , Fine Gael [May 2011 \u2013 Aug.\n2011 ] \uf0b7 Researched and produced reports on various European economic policies , which were used by Members of Parliament in nationally televised parliamentary address es.\nADDITIONAL",
+        "tax_term": "",
+        "confidence": 0.5
+      }
+    }
+  ]
+}

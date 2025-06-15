@@ -1,0 +1,1211 @@
+{
+  "timestamp": "2025-06-15T07:51:06.090510",
+  "summary": {
+    "total_processed": 58,
+    "successful_extractions": 58,
+    "failed_extractions": 0,
+    "success_rate": 100.0,
+    "ocr_usage_percentage": 0.0,
+    "avg_extraction_time": 87.0730101856692
+  },
+  "field_analysis": {
+    "empty_fields": {},
+    "field_confidence": {}
+  },
+  "skills_analysis": {
+    "categories": {
+      "technical_skills": {
+        "count": 0,
+        "skills": []
+      },
+      "business_skills": {
+        "count": 0,
+        "skills": []
+      },
+      "creative_skills": {
+        "count": 0,
+        "skills": []
+      },
+      "communication_skills": {
+        "count": 0,
+        "skills": []
+      },
+      "industry_skills": {
+        "count": 0,
+        "skills": []
+      },
+      "soft_skills": {
+        "count": 0,
+        "skills": []
+      },
+      "other_skills": {
+        "count": 0,
+        "skills": []
+      }
+    },
+    "total_skills": 0,
+    "unique_skills": 0
+  },
+  "resume_details": [
+    {
+      "resume_path": "data\\input\\.Net - TX - Hassan.pdf",
+      "confidence_score": 0.0,
+      "used_ocr": false,
+      "extracted_fields": {
+        "skills": {
+          "r": 0.9,
+          "rest": 0.9
+        },
+        "name": "Hassan Mwase",
+        "email": "",
+        "phone": "",
+        "location": {
+          "city": "",
+          "state": "",
+          "zip": ""
+        },
+        "work_authority": "",
+        "designation": "software developer",
+        "experience": "Professional Experience Secret Security",
+        "tax_term": "",
+        "confidence": 0.22695
+      }
+    },
+    {
+      "resume_path": "data\\input\\Affzal_SrDeveloperResumeS.pdf",
+      "confidence_score": 0.0,
+      "used_ocr": false,
+      "extracted_fields": {
+        "skills": {
+          "r": 0.9,
+          "SRS": 0.9,
+          "reporting": 0.9,
+          "sql": 0.9,
+          "sql server": 0.9,
+          "analysis": 0.9,
+          "business analysis": 0.9,
+          "safe": 0.9,
+          "version control": 0.9
+        },
+        "name": "AFFZAL ABDUL  \nD",
+        "email": "",
+        "phone": "",
+        "location": {
+          "city": "",
+          "state": "",
+          "zip": ""
+        },
+        "work_authority": "",
+        "designation": "Developer",
+        "experience": "PROFESSIONAL EXPERIENCE Anthem Inc.\n, Norfolk , VA Mar 2017\u2013 Till date Developer Sr.\nAnthem Inc .\nis an American health insurance company founded in the 1940s, prior to 2014 known as WellPoint, Inc.\nIt is the largest for -profit managed health care company in the Blue Cross and Blue Shield Association .\nIt covers 7 .7 million seniors, people with disabilities, low -income families and other state and federally sponsored beneficiaries, and federal employees in 26 states, making it the nation\u2019s largest provider of health care for public programs .\nResponsibilities: \u2022 Expertise in Provider dealing with legacy system to load files from states into the FACETS application.\nExpertise in Provider business domai n area and the flow of the FACETS application.\nin-depth knowledge of both providers in FACETS.\n\u2022 Apply the Business rules on the data coming from multiple operating markets.\nMaintain the business rules in a table for visibility to all required processes.\n\u2022 Actively worked in gathering requirements with SA and PO to convert them to technical documents for the deve lopment to initiate in Jira.\n\u2022 Used JIRA, SVN Tortoise & Bit bucket for code repository and logged / tracked the activities in the team.\nAlso CTU tool for code deployments.\n\u2022 Used Splunk for parsing complex files and Splunk language ( SPQL ) to make the searches and created dashboards on the data.\nAlso configured notifications as requested by the business.\n\u2022 Did POC for DevOps tools and deeper research on both Sisense and Tableau tools for utilizing them as data visualization purposes across the provider department.\n\u2022 Have hands on experience in pulling data from JIRA using REST calls thru PowerShell scripting and load them to SQL db.\nAlso did dashboards on the loaded data and provi ded support for the created dashboards in tableau .\n\u2022 Used Python to massage the data in REST calls using JIRA libraries and loading them to database.\nBuilt dashboards on top the loaded data for project management team.\n\u2022 Checked the configuration and performance of the existing databases including data file allocation, index, fill factor, fragmentation and the impact on system performance.\nAnalyzed potential problems (response delay, locking, server down time, etc.) to avo id and optimize.\n\u2022 Actively involved with production support ( 24*7) and Development environment.\n\u2022 Used Premise to trace the slow running queries and tried to Optimize SQL queries for improved performance and availability.\nAlso used precise tool for reviewin g the performance.\n\u2022 Actively involved in code reviews and mentoring the developers.\nAnd also involved in development activities.\n\u2022 Excellent Team Building, Project Management, Analytical, Interpersonal & Communication",
+        "tax_term": "",
+        "confidence": 0.265
+      }
+    },
+    {
+      "resume_path": "data\\input\\Data Entry - NY - Lauren.pdf",
+      "confidence_score": 0.0,
+      "used_ocr": false,
+      "extracted_fields": {
+        "skills": {
+          "r": 0.9,
+          "medical": 0.9
+        },
+        "name": "Lauren Dubin",
+        "email": "",
+        "phone": "",
+        "location": {
+          "city": "BRONX",
+          "state": "NY",
+          "zip": "10468"
+        },
+        "work_authority": "S",
+        "designation": "Data",
+        "experience": "PROFESSIONAL EXPERIENCE Metropol itan Transportation Authority August 2017 -PRESENT Bronx, NY Data Entry/Office assistant \u2022 Comparing data entered with source documents.\n\u2022 Correcting errors when appropriate.\n\u2022 Maintaining required records of all completed work and compiling weekly reports.\n\u2022 Assist in maintaining filing system by organizing, purging, maintaining and retrieving files.\n\u2022 Clerical duties as assigned Acacia Network, Bronx, NY December 2016 \u2013 June 2017 Medical Scribe \u2022 Anticipate physician needs to facilitate the flow of clinics.\n\u2022 Accurately and thoroughly record patient medical history an d physical exam, procedures and treatments performed by healthcare professionals, including nurses and physician assistants.\n\u2022 Patient",
+        "tax_term": "",
+        "confidence": 0.4088666666666667
+      }
+    },
+    {
+      "resume_path": "data\\input\\David Buchberger - Security - OH.pdf",
+      "confidence_score": 0.0,
+      "used_ocr": false,
+      "extracted_fields": {
+        "skills": {
+          "itil": 0.8,
+          "analysis": 0.8,
+          "attention to detail": 0.8,
+          "organization": 0.8,
+          "networking": 0.8,
+          "documentation": 0.8,
+          "defense": 0.8,
+          "education": 0.6,
+          "policy": 0.8,
+          "infrastructure": 0.8,
+          "engineering": 0.8,
+          "customer service": 0.8,
+          "technical support": 0.8,
+          "compliance": 0.8,
+          "risk management": 0.8,
+          "governance": 0.8,
+          "security": 0.8,
+          "information security": 0.8,
+          "incident response": 0.8,
+          "security operations center": 0.8,
+          "patch management": 0.8,
+          "security operations": 0.8,
+          "security engineering": 0.8,
+          "security tools": 0.8,
+          "nessus": 0.8,
+          "symantec": 0.8,
+          "mcafee": 0.8,
+          "carbon black": 0.8,
+          "fireeye": 0.8,
+          "access management": 0.8,
+          "siem": 0.8
+        },
+        "name": "David Buchberger",
+        "email": "",
+        "phone": "6142029370",
+        "location": {
+          "city": "Sugar Grove",
+          "state": "OH",
+          "zip": "43155"
+        },
+        "work_authority": "",
+        "designation": "Security Analyst",
+        "experience": "EMPLOYMENT HISTORY August 2018 \u2013 February 2020 Infinite Contract State of Ohio \u2013 Office of Information Security and Privacy Tier 1 Cyber Security Analyst \u2022 Respond to assigned tickets using ServiceNow \u2022 Remediate phishing attacks using Microsoft Defender Advanced Threat Protection, Office 365, and Symantec Management Center \u2022 Use Symantec Web Analytics to allow approved access to Web page URLS \u2022 Assist Tier 2 and Tier 3 with tickets as needed \u2022 Use McAffe ePO to detect malware on servers and desktops \u2022 Use Tanium to troubleshoot infected systems 2015 \u2013 2018 Battelle Columbus, OH Network Systems Analyst II (Security Operations Center/Vulnerability Management) \u2022 Scan Network with Nessus Manager and Professional \u2022 Create and monitor Scan schedule \u2022 Build Nessus Agent Groups \u2022 Perform credentialed, Non-credentialed and Agent scans on servers and workstations \u2022 Perform credentialed and Non-Credentialed WAS and DMZ scans \u2022 Perform internal and external Discovery scans \u2022 Work with clients to resolve Nessus plugin scan requirements \u2022 Prioritize network vulnerability threat with Kenna Security \u2022 Monitor Kenna Security Connector tunnel Nessus file upload integrity \u2022 Assign and track ServiceNow vulnerability remediation requests \u2022 Provide vulnerability remediation assistance to server Admins \u2022 Maintain Access Management CMDB \u2022 Create reports for upper management \u2022 Create detailed instructional documentation \u2022 SOC exposure to SIEM tools i.e.\nCarbon Black (Response and Defense), FireEye, 2013 \u2013 2015 Battelle Columbus, OH Network Systems Analyst II (Internal Network) \u2022 Maintain 2FA (RSA Token, Terminal Server and VMware) NIST FISMA and HIPAA environment \u2022 Verify VEEAM backup integrity, create reports and post to SharePoint for client review \u2022 Troubleshoot, install, and remove third party applications \u2022 Troubleshoot network connectivity issues \u2022 Troubleshoot printer issues \u2022 Install updates \u2022 Remediate vulnerabilities \u2022 Familiarity with Microsoft Group Policy objects as it applies to workstations \u2022 Experience with Microsoft Direct Access \u2022 Submit Firewall and Switch RFC \u2022 Assist remote Users \u2022 Create monthly internal network vulnerability report 2006 \u2013 2013 Battelle Columbus, OH Sr.\nComm/Equip Spec III (20,000+ User environment) Resume \u2013 David Buchberger 2 2002 \u2013 2006 Arlington Computer Products (Discover Card) Columbus, OH PC Technician (3,500+ User environment) 2001 \u2013 2002 TEKsystems (Columbia Gas) Columbus, OH PC Technician (1,000+ User environment) 2000 -2001 National Board of BPVI Columbus, OH Technical Support Specialist (100+ User environment) 1998 \u2013 2000 United Parcel Service Columbus, OH PC Technician (100+ User environment) KEY",
+        "tax_term": "CONTRACT",
+        "confidence": 0.5290322580645161
+      }
+    },
+    {
+      "resume_path": "data\\input\\David Musia - Mainframe - TX.pdf",
+      "confidence_score": 0.0,
+      "used_ocr": false,
+      "extracted_fields": {
+        "skills": {
+          "r": 0.9,
+          "sas": 0.9,
+          "customer service": 0.9,
+          "compliance": 0.9,
+          "scala": 0.9,
+          "problem management": 0.9,
+          "incident management": 0.9,
+          "change management": 0.9,
+          "lit": 0.9,
+          "time management": 0.9,
+          "planning": 0.9,
+          "analysis": 0.9,
+          "root cause analysis": 0.9
+        },
+        "name": "David Musia  \nDenton",
+        "email": "",
+        "phone": "",
+        "location": {
+          "city": "TX",
+          "state": "TX",
+          "zip": "76210"
+        },
+        "work_authority": "",
+        "designation": "Project Administration",
+        "experience": "WORK EXPERIENCE Senior Mainframe Operator DXC Technology (from EDS) 2000 \u2013 2019 Hewlett Packard Enterprises (HPE) merged with DXC Technology 2017 Hewlett Packard (HP) merged with HPE 2015 Electronic Data Systems (EDS) merged with HP 2008",
+        "tax_term": "",
+        "confidence": 0.30351666666666666
+      }
+    },
+    {
+      "resume_path": "data\\input\\DEXTER K. NDENGABAGANIZI  - PM Program Manager - OH.pdf",
+      "confidence_score": 0.0,
+      "used_ocr": false,
+      "extracted_fields": {
+        "skills": {
+          "r": 0.9,
+          "excel": 0.9,
+          "aerospace": 0.9,
+          "space": 0.9,
+          "chi": 0.9
+        },
+        "name": "PROFESSIONAL EXPERIENCE  \nC",
+        "email": "",
+        "phone": "2693258811",
+        "location": {
+          "city": "Pickerington",
+          "state": "OH",
+          "zip": "43147"
+        },
+        "work_authority": "",
+        "designation": "Program Coordinator",
+        "experience": "PROFESSIONAL EXPERIENCE Council on Foreign Relations (CFR) Washington, DC Assistant Director, Washington Meetings Program [May 2016 \u2013 Aug.\n2017] Program Coordinator , Washington Meetings Program [June 2015 \u2013 May 2016 ] Program Associate, Washington Meetings Program [Jan.\n201 4 \u2013 June 2015 ] Program Assistant , Washington Meetings Program [Nov .\n2012 \u2013 Jan.\n201 4] \uf0b7 Conceptualize d, manage d, and coordinate d internal and external events ranging from roundtables to multi -day 300+ daily attendee conferences with key policymakers across various stakeholder groups.\n\uf0b7 Create d and m anage d relationships with key domestic and international policymakers , subject matter experts, and business leaders to participate in CFR programming and initiatives for Council members.\n\uf0b7 Research ed, monitor ed, and evaluate d international trends to identify potential p rogramming for CFR members and the broader domestic and international political and policy community.\nResults for Development Institute Washington , DC Center for Health Market Innovations (CHMI) Intern [May 2012 \u2013 Nov.\n2012 ] \uf0b7 Assisted in the creation of s trategic plans to increase the visibility of dozens of health market innovations.\n\uf0b7 Conducted needs synthesis used in the formulation of CHMI\u2019s Web and Facebook Outreach Strategy.\nU.S.\nEmbassy: Foreign Commercial Service Singapore Foreign Commercial Service Intern [Aug.\n2011 \u2013 Jan.\n2012 ] \uf0b7 Conduct ed trade promotion for 1,300+ American companies and products in Singapore .\n\uf0b7 Interviewed corporate and policy leaders, researched, and produced official U.S.\nCommercial Service Market Research Report s used in U.S.-Singaporean business facilitation s.\nHouses of the Oireachtas: D\u00e1il \u00c9ireann (Irish National Parliament) Dublin, Ireland Research Assistant , Fine Gael [May 2011 \u2013 Aug.\n2011 ] \uf0b7 Researched and produced reports on various European economic policies , which were used by Members of Parliament in nationally televised parliamentary address es.\nADDITIONAL",
+        "tax_term": "",
+        "confidence": 0.5
+      }
+    },
+    {
+      "resume_path": "data\\input\\Enterprise Architect - LA - Vijay.pdf",
+      "confidence_score": 0.0,
+      "used_ocr": false,
+      "extracted_fields": {
+        "skills": {
+          "r": 0.9,
+          "design": 0.9,
+          "business requirements": 0.9,
+          "prototype": 0.9,
+          "prototypes": 0.9,
+          "analysis": 0.9,
+          "gap analysis": 0.9,
+          "risk analysis": 0.9,
+          "lit": 0.9,
+          "traceability matrix": 0.9,
+          "pmp": 0.9,
+          "safe": 0.9,
+          "itil": 0.9,
+          "test strategy": 0.9
+        },
+        "name": "Vijay Kumar Kanamarlapudi",
+        "email": "",
+        "phone": "",
+        "location": {
+          "city": "",
+          "state": "",
+          "zip": ""
+        },
+        "work_authority": "",
+        "designation": "Business Architect",
+        "experience": "Professional Experience Blue Cross and Blue Shield of Louisiana , Baton Rouge, LA, US 10/2018 - Present ROLE: Enterprise Business Architect SUMMARY: Worked as a n Enterprise Business Architect analyzing enterprise level impacts on ideas and demands submitted by senior management team and prepared business architecture for impacts at an enterprise level.\nDocumented Business Capabilities; Value Streams; Processes th at are impacted for each idea and prepared Architecture Blue Prints for the Baseline and Target State Business Architecture.\nRESPONSIBILITIES: \u2022 Provide d strategic consultation to assigned line -of-business (LOB) or assigned functional area(s) of business in defining or designing business capabilities and processes, functions and organizational structures.\n\u2022 Participate d in divisional enterprise strategy development, including environmental analysis, opportunity identification, value cases and business innovati on portfolio development.\n\u2022 Acted as an advocate for business needs while in parallel providing ongoing feedback on developments and initiatives within IT \u2022 Communicate d IT SLA metrics to respective areas of assigned business functions.\n\u2022 Collaborate d, facilitat ed and consult ed with business stakeholders of the areas of responsibility in planning, business case development and proposal of business initiatives in alignment with desired business capabilities.\n\u2022 Work ed with other peer business architects and EA architects to identify shared capabilities and processes and opportunities to create efficiencies across the enterprise and facilitate development of cross -functional solutions \u2022 Provide d consultation to business a nalysts on an ongoing basis in communicating divisional capability plans \u2022 At the project execution level, collaborate d extensively with Business Analysts to ensure a tight alignment between the business capabilities and high -level use case scenarios identif ied in the Solution Blueprint document and corresponding detailed requirements identified in the Business Requirements Document (BRD) that support them.\n\u2022 Participate d in enterprise architecture development, including business architecture, information archi tecture, application portfolio and technical architecture.\n\u2022 Collaborate d with the enterprise program & project management office on reporting project status, issues, risks and benefits regarding areas of responsibility.\nVijay Kumar Kanamarlapudi, TOGAF\u00ae, PMP\u00ae, CBAP\u00ae, ACP\u00ae, SAFe\u00ae4 POPM, SSM, PAHM, ITIL, SSBBP 3 \u2022 Explored ways to apply new technology to, and reuse existing technology for, business processes; research and provide information on technical trends and competitors' practices relevant to assigned LOB or assigned functional area(s) of business customers.\n\u2022 Assess ed near -term needs, using struc tured interview processes, to establish business priorities; consult with technical subject matter experts and develop alternative technical solutions; advise on options, risks, costs vs.\nbenefits, and impact on other business processes and system prioriti es.\n\u2022 Collaborate d with other IT functional areas to remain apprised of project status, and inform LOB customer management of progress; conversely, keep IT's technology and service managers aware of key LOB customer issues, identifying and resolving potentia l problems and conflicts.\n\u2022 Develop ed, motivate d and direct ed staff to create a team environment, and enable staff to fulfill the LOB customer operating objectives.\nMY DELIVERABLES: Business Architecture Blue print; Capability Mapping; Value Stream Mapping; Business Process Flow Diagram s; Business Need Analysis Document ; Data Requirements Specifications; User Interface Specifications; Gap Analysis; Prototypes; Storyboarding; User Interface Screen Flow Diagram; Business Rule Definitions .\nDELIVERABLES CONTRIBUTED TO: Non -Functional Requirements Specification; Logical Data Model; Business Need Analysis Document; Work Breakdown Structure; Test Data Sheet; Test Plan; Test Scripts; Test Strategy; Test Results Summary; Information Architecture; Project Deliverables List; Risk Register; Implementation Plan/Checkout activities ; Design Specifications; Technical Requirement Specifications ; SSO Specifications.\nBlue Cross and Blue Shi eld of Louisiana , Baton Rouge, LA, US 10/2014 \u2013 10/2018 ROLE: Lead Business Analyst; Senior Corporate Business Analyst; Senior Enterprise Business Analyst; Scrum Master SUMMARY: Work ed as a program level business analyst overseeing the foundation to put together the operations of benefits administration of Medicare Advantage platform that Blue Cross Blue Shield of Louisiana is working to put together.\nWorked on various IT efforts to send data from BCBSLA to vendors and to receive and sto re data from external vendors.\nRESPONSIBILITIES: \u2022 Worked closely with clients to identify business needs (requirements) and the costs and benefits of implementing a proposed solution, as a project, in -order to produce an accurate business case for the proj ect \u2022 Collaborated with business owners and subject matter experts to develop an understanding of business processes and functions to aide in completing the standard project business case related to a proposed project, analyzing business requirements and ide ntifying potential business solutions; completes appropriate documentation of business case, requirements and solutions.\n\u2022 Participate d in divisional enterprise strategy development, including environmental analysis, opportunity identification, value cases and business innovation portfolio development.\n\u2022 Performed project feasibility analysis, scopes project and helps client identify altern ative solutions; assist with the development of financial worksheets related to project costs and benefits \u2022 Worked with clients to develop business process flows and to obtain a clear understanding of their business models to identify potential pro cess improvements and efficiencies Vijay Kumar Kanamarlapudi, TOGAF\u00ae, PMP\u00ae, CBAP\u00ae, ACP\u00ae, SAFe\u00ae4 POPM, SSM, PAHM, ITIL, SSBBP 4 \u2022 Ensured adherence to BCBSLA project and program processes and lifecycles to ensure business and functional requirements are understood, agreed to, documented and can be traced to measurable project success criteria.\n\u2022 Analy zed business information and process flows, gather requirements and translate to Technical specifications required for application programming and test strategy development.\n\u2022 Assisted Project Manager in preparing an appropriate transition plan for",
+        "tax_term": "",
+        "confidence": 0.275
+      }
+    },
+    {
+      "resume_path": "data\\input\\Horace Royal - Resume.pdf",
+      "confidence_score": 0.0,
+      "used_ocr": false,
+      "extracted_fields": {
+        "skills": {
+          "seo": 0.9,
+          "go": 0.9,
+          "negotiation": 0.9,
+          "r": 0.9,
+          "government": 0.9,
+          "contracts": 0.9,
+          "finance": 0.9
+        },
+        "name": "Horace Royal",
+        "email": "",
+        "phone": "2402811264",
+        "location": {
+          "city": "Washington",
+          "state": "DC",
+          "zip": ""
+        },
+        "work_authority": "",
+        "designation": "Support Specialist",
+        "experience": "Work Experience Contract Closeout Specialist CTR Management November 2018 to Present Contractor) Employer: CTR Management Client: Department of Transportation (DOT) \u2022 Performs the full range of contract closeout activities pursuant to FAR 4.804, with a specialized focus on the cognizant administration functions necessary to close flexibly-priced and Cost Accounting Standards (CAS) covered contracts.\n\u2022 Achieved closeout goals each month to efficiently and effectively eliminate the contract closeout backlog.\n\u2022 Verify and coordinate closeout activities utilizing PRISM.\n\u2022 Supports the reconciliation of complex invoices.\n\u2022 Resolves issues related to de-obligated and excess funding.\n\u2022 Manages government contract billing/invoicing.\n\u2022 Closeout with a focus on Firm-Fixed Price (FFP), Labor Hour, and Time and Materials (T&M).\nContract Support Specialist CACI November 2018 to Present Contractor) Employer: CACI Client: Department of Health & Human Services (DHHS) \u2022 Performed closeouts of simplified acquisitions and various contract types (T&M, Labor, Cost Types).\n\u2022 Reviewed, prepared and submitted closeout documents.\nInput information into Contract \u2022 Management System.\nRetrieved information from various systems.\n\u2022 Processed Quick.\nReviews and filled out all annual Prime Contractor Representations and \u2022 Worked jointly and coordinate with subsidiary company stakeholders to ensure all supporting policies and procedures are in-place to ensure compliance before making certification.\n\u2022 Collect, draft, review, maintain, and retained contract file documentation.\n\u2022 Draft acquisition/contract documentation for supported official(s) including requirements package documentation, Acquisition Strategy Panel (ASP) briefing slides, Acquisition Plan (AP), Business/Contract",
+        "tax_term": "CONTRACT",
+        "confidence": 0.505
+      }
+    },
+    {
+      "resume_path": "data\\input\\.Net - Data Lakes - Data Bricks - CA - Mehdi.doc",
+      "confidence_score": 0.0,
+      "used_ocr": false,
+      "extracted_fields": {
+        "skills": {
+          "r": 0.9
+        },
+        "name": "Mehdi Haghdad",
+        "email": "",
+        "phone": "9493931150",
+        "location": {
+          "city": "Newport Beach",
+          "state": "CA",
+          "zip": "92612"
+        },
+        "work_authority": "",
+        "designation": "Cloud Architect",
+        "experience": "EXPERIENCE IN ADVANCE ENGINEERING, 10 YEARS OF EXPERIENCE IN BIG DATA, 8 YEARS IN CLOUD, MULTI-CLOUD, AZURE, AWS, GCP, 7 YEARS IN ARTIFICIAL INTELLIGENCE, ML DL CNN.\nI HAVE WORKED FOR SOME OF THE MOST PRESTIGIOUS COMPANIES IN SILICON VALLEY AND OTHER LOCATIONS SUCH AS LOCKHEED MARTIN, SPACE SYSTEMS LORAL, MICROSOFT (4 TIMES AS A SENIOR SOLUTION ARCHITECT FOR DIFFERENT MULTI-BILLION DOLLAR CLIENTS), HEWLETT PACKARD, TEXAS INSTRUMENTS, OPTUM, ACXIOM, CITIBANK, UNITED HEALTHCARE, ERICSSON, ABB ATOM, ADAPTEC BROAD LOGIC, DELL, ARGONAUT TECHNOLOGIES, BAUSCH & LOMB, DARPA, DEPARTMENT OF DEFENSE (DOD) ETC.\nI have been responsible for the development of many systems and applications from the designing board to the commercial release.\nOBJECTIVE PRIMARILY LOOKING FOR CONSULTING AND CONTRACT WORK BUT ALSO OPEN TO PERMANENT POSITIONS.\nSenior solution architect Hands On!!, Senior developer, Architect, DevOps for advance engineering in Mulit-Cloud (Azure, AWS and GCP) Big Data, Artificial Intelligence.\nCan also help to build team and lead",
+        "tax_term": "CONTRACT",
+        "confidence": 0.5316666666666667
+      }
+    },
+    {
+      "resume_path": "data\\input\\Akin - PM  - OH.doc",
+      "confidence_score": 0.0,
+      "used_ocr": false,
+      "extracted_fields": {
+        "skills": {
+          "r": 0.9,
+          "consul": 0.9,
+          "infrastructure": 0.9,
+          "payment processing": 0.9,
+          "electron": 0.9,
+          "perl": 0.9,
+          "initiative": 0.9,
+          "design": 0.9,
+          "analysis": 0.9,
+          "technical requirements": 0.9,
+          "documentation": 0.9,
+          "chi": 0.9,
+          "rds": 0.9,
+          "lit": 0.9,
+          "clarity": 0.9,
+          "energy": 0.9,
+          "scrum": 0.9,
+          "gin": 0.9,
+          "agile": 0.9,
+          "waterfall": 0.9,
+          "git": 0.9,
+          "client interaction": 0.9,
+          "process improvement": 0.9,
+          "consulting": 0.9,
+          "SRS": 0.9,
+          "BRD": 0.9,
+          "requirement traceability": 0.9,
+          "requirement traceability matrix": 0.9,
+          "traceability matrix": 0.9,
+          "rest": 0.9,
+          "cap": 0.9,
+          "retail": 0.9,
+          "data integration": 0.9,
+          "authorization": 0.9,
+          "compliance": 0.9,
+          "rad": 0.9,
+          "security": 0.9,
+          "authentication": 0.9
+        },
+        "name": "Akin",
+        "email": "",
+        "phone": "",
+        "location": {
+          "city": "MBA",
+          "state": "OH",
+          "zip": "43081"
+        },
+        "work_authority": "",
+        "designation": "Project Manager",
+        "experience": "Experienced Project Manager offering Retail and Financial Services domain| |expertise | |Extensive experience managing PAYMENTS",
+        "tax_term": "",
+        "confidence": 0.30801666666666666
+      }
+    },
+    {
+      "resume_path": "data\\input\\Aleem Ahmed - resume.doc",
+      "confidence_score": 0.0,
+      "used_ocr": false,
+      "extracted_fields": {
+        "skills": {
+          "r": 0.9,
+          "xp": 0.9,
+          "version control": 0.9,
+          "svn": 0.9,
+          "git": 0.9,
+          "safe": 0.9,
+          "jenkins": 0.9,
+          "docker": 0.9,
+          "chef": 0.9,
+          "puppet": 0.9,
+          "ansible": 0.9,
+          "kubernetes": 0.9,
+          "rad": 0.9,
+          "aws": 0.9,
+          "ec2": 0.9,
+          "openshift": 0.9,
+          "java": 0.9,
+          "sql": 0.9,
+          "soap": 0.9,
+          "web services": 0.9,
+          "spring": 0.9,
+          "hibernate": 0.9,
+          "jdbc": 0.9,
+          "shell scripting": 0.9,
+          "python": 0.9,
+          "oracle": 0.9,
+          "lit": 0.9,
+          "utilities": 0.9,
+          "data integration": 0.9
+        },
+        "name": "IBM MQ",
+        "email": "",
+        "phone": "",
+        "location": {
+          "city": "",
+          "state": "",
+          "zip": ""
+        },
+        "work_authority": "",
+        "designation": "Application  Developer",
+        "experience": "Professional Experience: American Family Insurance, Madison WI (July 2015 \u00e2\u20ac\u201c Feb 2020) Sr.\nJava Developer Responsibilities: o Design, develop, and maintain web-based applications using Java, J2EE, Spring, Hibernate, and Oracle o Involved actively in the complete software development lifecycle, including performance analysis, design, development, and testing o Participate in design refactoring and enhancement of critical component o Developed the application using spring framework that leverages model view layer architecture, also configured Dependency Injection.\no Extensively used Hibernate in data access layer to access and update information in the database.\no Involved in the Development of Spring Framework Controllers o Developing application using Spring core module and worked on Messaging service.\no Developed user interface using JSP, JSP Tag libraries JSTL, HTML, CSS, JavaScript.\no Design highly usable GUIs using Spring Framework, JSPs, Struts MVC, HTML, JavaScript, and CSS o Worked on Single Page Applications using AngularJS which includes Routing, Directives, and Templates.\no Used JMS for the asynchronous exchange of critical business data and events amongJ2EE components and legacy system.\no Implemented a fully automated CI build and deployment infrastructure and processes for multiple",
+        "tax_term": "",
+        "confidence": 0.265
+      }
+    },
+    {
+      "resume_path": "data\\input\\Alexander Mai - SAS - VC.doc",
+      "confidence_score": 0.0,
+      "used_ocr": false,
+      "extracted_fields": {
+        "skills": {
+          "r": 0.9,
+          "shield": 0.9,
+          "organization": 0.9,
+          "design": 0.9,
+          "reporting": 0.9,
+          "lit": 0.9,
+          "cap": 0.9,
+          "unity": 0.9,
+          "sas": 0.9,
+          "sql": 0.9,
+          "excel": 0.9,
+          "presentation": 0.9,
+          "documentation": 0.9
+        },
+        "name": "MA                           HEDIS     M",
+        "email": "",
+        "phone": "7742326198",
+        "location": {
+          "city": "MA",
+          "state": "LA",
+          "zip": "02445"
+        },
+        "work_authority": "",
+        "designation": "Business  Administration",
+        "experience": "Experience Harvard Medical School Boston, MA Statistical Programmer & Data Analyst June 2016 \u00e2\u20ac\u201c Present \u00e2\u2013\u00aa Design and develop statistical and data management programs associated with grant funded",
+        "tax_term": "",
+        "confidence": 0.43318333333333336
+      }
+    },
+    {
+      "resume_path": "data\\input\\Enterprise Architect - NJ - Madan.doc",
+      "confidence_score": 0.0,
+      "used_ocr": false,
+      "extracted_fields": {
+        "skills": {
+          "r": 0.9,
+          "xp": 0.9,
+          "oracle": 0.9,
+          "sql": 0.9,
+          "pl/sql": 0.9,
+          "db2": 0.9,
+          "java": 0.9,
+          "c++": 0.9,
+          "jdbc": 0.9,
+          "rad": 0.9,
+          "svn": 0.9,
+          "git": 0.9,
+          "spring": 0.9,
+          "spring boot": 0.9,
+          "design": 0.9,
+          "design patterns": 0.9,
+          "soap": 0.9,
+          "rest api": 0.9,
+          "rest": 0.9,
+          "hibernate": 0.9,
+          "infrastructure": 0.9,
+          "kubernetes": 0.9,
+          "mesos": 0.9,
+          "docker": 0.9,
+          "aws": 0.9,
+          "ci/cd": 0.9,
+          "jenkins": 0.9,
+          "puppet": 0.9
+        },
+        "name": "Madan Vemurie",
+        "email": "",
+        "phone": "8563694341",
+        "location": {
+          "city": "",
+          "state": "",
+          "zip": ""
+        },
+        "work_authority": "",
+        "designation": "product manager",
+        "experience": "Professional Experience: Client Royal Caribbean Cruise Line Manager (Enterprise Architect), PA Jan 2019-Till Date Leading the project Architecture and project delivery in the Advisory and Architecture group for Royal Caribbean Cruise on Employee track.\nI am leading the initiative to improve Employee efficiency and experience and ease of doing business on cruise.\nEMPLOYEE Track Working on design of 3 major initiative 1.\nScheduling and ILO compliance Architecture and Design.\nI am working on design and complete Architecture which will be used by delivery and executives to bring in and integrate with out of box tool.\nThis will automate all the crew members Scheduling, Time Keeping and Compliance rules engine on the ships and help to ease the employee experience 2.\nStateroom Attendant App Architecture and Design.\nI am working on a design and Architecture of an app which will be developed by RCCL team.\nThis app will be used to assign to assign guest rooms and areas of the attendants for cleaning.\nIt provides them with checklist to ensure that all areas are covered.\nAnd once attendant completes the work these are send to floor supervisors for inspection.\nSupervisor has the ability update the status of inspection and may be reject it and reassign with comments.\n3.\nJDE HCM replacement with SAP HCM initiative and working on cut over strategy of all the Ship and Shore products which are dependent on HCM.\nAnd planning the gradual systems cut over with data synching strategy, risk analysis and roll back strategy.\nInnovation and Emerging Technology Track 1.\nStarted working with Innovation Team on initiative for Kids tracking on ship during voyage.\nThis is very important for kids safety and kids will wear a WOW band and they can use the band which has a Bluetooth beepers which can be tracked by Auruba/Cisco listeners on ship.\nThe location is compiled and tracked on guest app.\n2.\nMustering 2.0 was an initiative to remove the guest pain point by removing the safety mustering at one time and giving them provisions to view videos on app or stateroom TV.\nEnvironment: UML, draw.io, Spring Boot, REST Web Services, SOAP Web Services, GSON/JSON, XSD, AWS, VMware, Kafka, TIBCO, Kubernetes, Mesos Docker.\n\u00e2\u017e\u00a2 Prudential (Cognizant Technology Solutions) Sr.\nManager/Delivery Executive Nov 2017- Dec 2018 Working as Technical Delivery and Sr.\nArchitect with hands on experience for a project to convert Web Method Based Services to Spring Boot services and deploying on Docker AWS.\nMy team has delivered a very fast pacing project where we have converted 100 plus Documentum Services to Spring Boot Micro Services.\nIntroduced Swagger model to write swagger Jason file and convert it to Java Code and Publishing Swagger Jason file on WS02 for testing and viewing and discovering.\nThis whole project is converted to spring boot Micro Services with all the security, common feature and adding Apigee API Gateway based security with a very small team.\n\u00e2\u20ac\u00a2 Involved in Design, Planning, and Co-ordination with offshore team and helped in Coding of the application common features in Service layer environment.\n\u00e2\u20ac\u00a2 Involved in Design and coding involving core Spring Technologies.\n\u00e2\u20ac\u00a2 Involved in REST Web services development and design \u00e2\u20ac\u00a2 Trained the team with Mockito unit testing framework and Cucumber for automation testing and integration testing and implement the testing frame work with 85% of test coverage.\n\u00e2\u20ac\u00a2 Experience in TDD environment and created unit test cases before writing the business logic using Mockito.\nUsed Sonar with Jenkins for code coverage.\n\u00e2\u20ac\u00a2 Used Spring Boot framework for development and spring annotations.\n\u00e2\u20ac\u00a2 Created Custom Annotations and used Lombok Annotations for POJO\u00e2\u20ac\u2122s.\n\u00e2\u20ac\u00a2 CI/CD builds with Jenkins \u00e2\u20ac\u00a2 Worked with Dev Ops team for Dockerization of services and deploying on Kubernetes.\nEnvironment: UML, Core Java, J2EE, Spring Boot, REST Web Services, SOAP Web Services, GSON/JSON, XSD, Tomcat, GIT, STS IDE, Swagger IO, APIGEE, UNIX, CI/CD, Kubernetes \u00e2\u017e\u00a2 TD Ameritrade (Cognizant Technology Solutions) Sr.\nArchitect/Sr.\nManager May 2017- Nov 2017 Working as API Designer and Development lead for a Rest API Pilot project in BOS Service layer team in TD Ameritrade.\nWorked on a Pilot project to initiate API design standards and Spring framework in the project.\nIntroduced Swagger model to write swagger Jason file and convert it to Java Code and Publishing Swagger Jason file on WS02 for testing and viewing and discovering.\nThis was a Pilot project to set up the Spring Framework for REST API development and introduce the team with Agile Principals.\n\u00e2\u20ac\u00a2 Involved in Design, Coding of the application in Service layer environment.\n\u00e2\u20ac\u00a2 Involved in Design and coding involving core Spring Technologies.\n\u00e2\u20ac\u00a2 Involved in REST Web services development and design \u00e2\u20ac\u00a2 Experience with Mockito unit testing framework and Cucumber for automation testing and integration testing.\n\u00e2\u20ac\u00a2 Experience in TDD environment and created unit test cases before writing the business logic using Mockito.\nUsed Sonar with Jenkins for code coverage.\n\u00e2\u20ac\u00a2 Created and updated stories worked on stories on Jira tracker.\n\u00e2\u20ac\u00a2 Used Spring Boot framework for development and spring annotations.\n\u00e2\u20ac\u00a2 Created Custom Annotations and used Lombok Annotations for POJO\u00e2\u20ac\u2122s.\n\u00e2\u20ac\u00a2 Environment: UML, Core Java, J2EE, Spring Boot, REST Web Services, SOAP Web Services, GSON/JSON, XSD, Tomcat, GIT, STS , Swagger IO, WS02,UNIX \u00e2\u017e\u00a2 FDC (Cognizant Technology Solutions) Sr.\nArchitect/Sr.\nManager Aug 2016- April 2017 Solution design and Design work for integration with Fraud monitoring Solution with a third Party Machine Learning and Monitoring Response System Feedzai.\nDesign micro services which are currently in Production.\nAlso integration with another Smart Phone device Fraud alert system InAuth Service.\nThe client which this products are used are mainly from Exxon Mobile, Chickfilae, Tacobell.\nThis new integration is designed completely as an independent micro services which are deployed separately and have their own purpose.\nThese services are also currently on PCF (Pivotal Cloud Foundry) PaaS as a test services and intention was to move completely to PCF in future.\nResponsibilities: - \u00e2\u20ac\u00a2 Involved in Design, Coding of the application in Service layer environment.\n\u00e2\u20ac\u00a2 Involved in Design and coding involving core Spring Technologies.\n\u00e2\u20ac\u00a2 Involved in REST Web services development and design \u00e2\u20ac\u00a2 Experience with Mockito unit testing framework and Cucumber for automation testing and integration testing.\n\u00e2\u20ac\u00a2 Experience in TDD environment and created unit test cases before writing the business logic using Mockito.\nUsed Sonar with Jenkins for code coverage.\n\u00e2\u20ac\u00a2 Developing micro API\u00e2\u20ac\u2122s and REST web services for the businesses and vendors to use.\n\u00e2\u20ac\u00a2 Created and updated stories worked on stories on Jira tracker.\n\u00e2\u20ac\u00a2 Used Spring Boot framework for development and spring annotations.\n\u00e2\u20ac\u00a2 Created Custom Annotations and used Lombok Annotations for POJO\u00e2\u20ac\u2122s.\n\u00e2\u20ac\u00a2 Worked on POC for Pivotal Cloud Foundry PaaS as for deployments of applications on Cloud Infrastructure.\n\u00e2\u20ac\u00a2 Worked on POC for API Gateway Apigee on PCF.\n\u00e2\u20ac\u00a2 Used JPA (Java Persistence API) Spring Data for DB design and development.\nEnvironment: UML, Core Java, J2EE, Spring Boot, JPA, REST Web Services, SOAP Web Services, GSON/JSON, XML, XSL, XSD, Web Sphere, GIT, STS, Mocito, Apigee , UNIX \u00e2\u017e\u00a2 United Health Care, Horsham, PA Sr.\nArchitect/Software Engineer Mar 2015- June 2016 Digital Service Medicare and Retirement Solution Summary document for a new project was developed.\nProvider Web is a web site residing within the SHIP Comprehensive Policy Administration System (COMPAS) with self-service features for providers.\nWhen it was built 11 years ago, no enterprise-wide provider portal existed, so it was built into the Policy Administration system.\nToday, there are better options, specifically, leveraging the UHC-wide Provider Portal, also known as Optum Provider Touch Point (PTP).\nOur recommendation is to align to the enterprise standard by retiring the Policy Administration system Provider Web in favor of leveraging Optum PTP.\nIn addition, the Policy Administration system has an outstanding policy exception (PEX) with UHC Corporate IT for accessing the United Claim Processing System (UCPS) system directly in order to maintain information in the UCPS Provider Database.\nTo resolve the outstanding PEX issue, the Policy Administration system will integrate with ACES provider maintenance services in order to pass information between UCPS and the Policy Administration system.\nHands on a development of micro API Services and Restful Web Service, which provides services and to business and other teams for looking up claims, Provider Demographics, plans, eligibilities, preferences, fulfillments.\nUsed Spring Boot framework with extensive unit testing using mockito framework, automation testing using Cucumber and integration testing.\nResponsibilities: - \u00e2\u20ac\u00a2 Involved in Design, Coding of the application in SOA environment.\n\u00e2\u20ac\u00a2 Involved in Design and coding involving core Java technologies.\n\u00e2\u20ac\u00a2 Worked on REST Web services.\n\u00e2\u20ac\u00a2 Worked on writing unit test cases with Mockito framework and Cucumber for automation testing and integration testing.\n\u00e2\u20ac\u00a2 Developing micro API\u00e2\u20ac\u2122s and REST web services for the businesses and vendors to use.\n\u00e2\u20ac\u00a2 Created and updated stories worked on stories on Pivotal tracker.\n\u00e2\u20ac\u00a2 Used Spring Boot framework for development and spring annotations.\n\u00e2\u20ac\u00a2 Created Custom Annotations and used Lombok Annotations for POJO\u00e2\u20ac\u2122s.\n\u00e2\u20ac\u00a2 Worked on POC for Openshift automatic deployments of applications on Cloud Infrastructure.\n\u00e2\u20ac\u00a2 Used JPA (Java Persistence API) for DB queries Environment: UML, Core Java, J2EE, Spring Boot, JPA, REST Web Services, SOAP Web Services, GSON/JSON, XML, XSL, XSD, Web Sphere, GIT, IntelliJ , UNIX Bank Of America, Newark Sr.\nArchitect/ Technical Lead Jan 2013-Feb 2015 I am currently working as a Sr.\nArchitect and Technical Lead in Bank of America in Card Technologies and Common Services team.\nI work closely with Business team and other teams on quarterly releases.\nI have worked on Fraud Activity Verification project where Business is moving the Fraud Verification service in house.\nCTCS team is mainly an Orchestration Layer between different teams and we provide Wed Services, which are consumed by different teams.\nI have also worked on Batch processes project, which is used mainly for our Mailers and Agreement printing services for customers.\nResponsibilities: - \u00e2\u20ac\u00a2 Involved in Design, Coding of the application in SOA environment.\n\u00e2\u20ac\u00a2 Involved in Business requirements meeting to collect BRD requirements.\n\u00e2\u20ac\u00a2 Involved in Integration testing with all the teams in SOA environment.\n\u00e2\u20ac\u00a2 Involved in Design and coding involving core Java technologies.\n\u00e2\u20ac\u00a2 Worked on JBPM 6",
+        "tax_term": "",
+        "confidence": 0.41000000000000003
+      }
+    },
+    {
+      "resume_path": "data\\input\\Finance Manager - CA - Stepfan.doc",
+      "confidence_score": 0.0,
+      "used_ocr": false,
+      "extracted_fields": {
+        "skills": {
+          "siem": 0.9,
+          "r": 0.9,
+          "analysis": 0.9,
+          "planning": 0.9,
+          "financial planning": 0.9,
+          "lit": 0.9,
+          "manufacturing": 0.9,
+          "legal": 0.9,
+          "xp": 0.9,
+          "sales": 0.9,
+          "reporting": 0.9,
+          "program reporting": 0.9,
+          "collaboration": 0.9,
+          "organization": 0.9,
+          "go": 0.9,
+          "negotiation": 0.9,
+          "contracts": 0.9,
+          "gin": 0.9,
+          "order management": 0.9,
+          "engineering": 0.9,
+          "unity": 0.9,
+          "project control": 0.9,
+          "sem": 0.9,
+          "hyper": 0.9,
+          "accounting": 0.9,
+          "cap": 0.9,
+          "rds": 0.9,
+          "decision making": 0.9,
+          "influence": 0.9,
+          "construction": 0.9,
+          "audit": 0.9,
+          "SOX compliance": 0.9,
+          "compliance": 0.9,
+          "sox compliance": 0.9,
+          "financial analysis": 0.9,
+          "documentation": 0.9,
+          "consul": 0.9,
+          "regulatory requirements": 0.9,
+          "government": 0.9,
+          "rest": 0.9,
+          "rad": 0.9,
+          "express": 0.9,
+          "aws": 0.9,
+          "electron": 0.9,
+          "mining": 0.9
+        },
+        "name": "Stepfan Jiles",
+        "email": "",
+        "phone": "9016908956",
+        "location": {
+          "city": "San Ramon",
+          "state": "CA",
+          "zip": "94583"
+        },
+        "work_authority": "Meetings",
+        "designation": "Project Manager",
+        "experience": "EXPERIENCE Pacific, Gas & Electric (PG&E) Utilities Insight Global Inc.- Finance Consultant January 2020 - Present Sr.\nProject Control\u00e2\u20ac\u2122s Analyst San Ramon, Ca Schedule Development and Analysis: \u00e2\u20ac\u00a2 In coordination with Project Manager develop project schedule and cash flow/forecast plans with functional department input.\n\u00e2\u20ac\u00a2 Attend Project and Job kickoff and walk down meetings.\n\u00e2\u20ac\u00a2 Create, maintain and update schedules.\n\u00e2\u20ac\u00a2 Document, monitor and communicate project milestones and risks with appropriate stakeholders.\n\u00e2\u20ac\u00a2 Participate in project status meetings, collect progress data and revise project plan as needed.\n\u00e2\u20ac\u00a2 Monitor financial progress and maintain Project Manager\u00e2\u20ac\u2122s order group.\nDevelop, maintain and control project schedule plans using appropriate software (for ex: SAP Project System, SAP Work Management System, and MS Project).\nCost Plan Development and Analysis: \u00e2\u20ac\u00a2 Use the cost and schedule plan to determine if project objectives are achievable.\nCreate, maintain, and update monthly forecast budgets.\nPrepare various cost reports and maintain forecast accuracy.\nPrepare project performance analysis, cost, and schedule status reports.\nIdentify cost and schedule variances from objectives and recommend corrective action.\n\u00e2\u20ac\u00a2 Assess and report on project performance using established industry standards.\n\u00e2\u20ac\u00a2 Ensure that responses to project budget, and accruals\u00e2\u20ac\u2122 cost requests reflect accurate and current project cost information and stakeholders are in concurrence.\n\u00e2\u20ac\u00a2 Provide regular communication on project cost, schedule and risk status to project team members, stakeholders and public.\n\u00e2\u20ac\u00a2 Interface with design and planning resources and software systems.\n\u00e2\u20ac\u00a2 Review and assist in the preparation of Advance Authorizations, Job Estimates and Re-Authorizations and assist PM in routing for approval.\n\u00e2\u20ac\u00a2 Prepare journal entries and coordinate or process goods receipts in current software system.\n\u00e2\u20ac\u00a2 Ensure that responses to budget and cost requests reflect correct project cost information and stakeholders are in concurrence.\n\u00e2\u20ac\u00a2 Input data into various programs and prepare various cost and forecasting reports.\nProject Documentation & Reporting: \u00e2\u20ac\u00a2 Verify that project cost and schedule milestones were/were not attained and provide input to identify future process or business improvements and work with responsible parties to implement.\n\u00e2\u20ac\u00a2 Manage orders from inception through completion and all required documentation is entered in current software system (Ex: EDRS).\n\u00e2\u20ac\u00a2 Resolve all open items, ensure compliance requirements are met and settlement rules are entered, and close out order.\n\u00e2\u20ac\u00a2 Maintain scope change, contingency release, change order, and journal entry logs.\n\u00e2\u20ac\u00a2 Maintain written and electronic project documentation and records for required aspects of the project: Maintain project files in accordance with established guidelines and requirements (Ex: utilizing the electronic document management system or EDMS).\n\u00e2\u20ac\u00a2 Document change order requests, project status, key issues, risks and resolution, priority changes and approvals.\n\u00e2\u20ac\u00a2 Provide Project Manager with monthly report of project costs and/or schedule information including variance analysis according to an agreed upon level of detail and prioritization.\n\u00e2\u20ac\u00a2 Provide Project Team members with current status report containing schedule and cost information.\nComply with Utility Operations Policies, Standards and Guidelines.\n\u00e2\u20ac\u00a2 Assist PM with Post Job Critique.\nCentral Data Management Functions - Quality and Analysis.\n\u00e2\u20ac\u00a2 Prepare various monthly and weekly project management reports and report performance reports to management group including scorecards.\n\u00e2\u20ac\u00a2 Ensure quality of reports for the department, to report out to stakeholders.\n\u00e2\u20ac\u00a2 Validate weekly and monthly data sets.\n\u00e2\u20ac\u00a2 May provide support to project manager(s) as necessary.\n\u00e2\u20ac\u00a2 Fulfill ad-hoc requests for cost-related data analysis.\n\u00e2\u20ac\u00a2 Participate on (or lead) various process improvement initiatives within Project Management.\nCentral Financial Analysis Functions - Project Budget & Cycle Forecast Monitoring/Reporting \u00e2\u20ac\u00a2 Prepare various monthly and weekly project performance reports - budget and cycle forecast reports; and finance status reports, utilizing the financial tracking software (e.g.\nSAP/BW system and EPM).\n\u00e2\u20ac\u00a2 Coordinate and work with all stakeholders, on creating new reports, that best measure and support good business decisions, to meet the Year End Annual Budget target.\n\u00e2\u20ac\u00a2 Coordinate and summarize project cycle forecast variance explanations for the department, to report out to stakeholders.\n\u00e2\u20ac\u00a2 Ensure that all responses to budget, quarterly cycle requests reflect accurate and current project cost information and stakeholders are in concurrence.\n\u00e2\u20ac\u00a2 Post and update all the project performance; budget and cycle forecast; and status reports on the Project Management website.\nFinancial and Performance Management \u00e2\u20ac\u00a2 Monitor, analyze and report out on the Department\u00e2\u20ac\u2122s Forecasting Performance, with weekly performance reports, utilizing the financial tracking tools (e.g.\nSAP/BW).\n\u00e2\u20ac\u00a2 Analyze financial results on a monthly basis, providing explanations of significant cost drivers to PM Leadership \u00e2\u20ac\u201c reports such as the Green-Red Scorecard and Lessons Learned Reports.\nCordoba Corp.- Finance Consultant BART/ Santa Clara Valley Transit Authority Phase II Extension Project December 2017 \u00e2\u20ac\u201c January 2020 Project Finance Consultant San Jose, Ca \u00e2\u20ac\u00a2 Lead the tracking of the capital needs of the BART/ Santa Clara Valley Transit Authority Phase II Extension Project, including project commitments, project spend, project budgets, and overhead.\n\u00e2\u20ac\u00a2 Maintain and update annual GAAP and cash operating forecast models.\n\u00e2\u20ac\u00a2 Support the strategic planning process for the Project Controls\u00e2\u20ac\u2122 division.\n\u00e2\u20ac\u00a2 Support the Budget process and monitor the capital needs of the BART/ Santa Clara Valley Transit Authority Phase II Extension Project.\n\u00e2\u20ac\u00a2 Lead and track KPI's and financial metrics to inform senior leader decision making, measure divisional performance, and drive accountability.\n\u00e2\u20ac\u00a2 Lead Project FP&A to roll-up and map task and sub-task division models to corporate consolidated models.\n\u00e2\u20ac\u00a2 Prepare monthly project scope reviews and track actuals to budget; present and communicate to senior management.\n\u00e2\u20ac\u00a2 Perform various other financial analyses and industry related research, tracking and compiling industry trends and competitive analyses, to inform senior management strategic decision-making; effectively communicate findings to team/colleagues through presentations, memos, and other deliverables.\n\u00e2\u20ac\u00a2 Manage and assist in the preparation of annual project business reviews and variance analyses.\n\u00e2\u20ac\u00a2 Manage sub contract level ultimate\u00e2\u20ac\u2122s, tracking against actual activity from third party reporting.\n\u00e2\u20ac\u00a2 Track invoice rights and availabilities for project, supporting comprehensive agreement strategy.\n\u00e2\u20ac\u00a2 Support Program Management Team (PMT) Strategy and Analysis in the setup of the processes and procedures infrastructure for ongoing deal analysis for new third party venders and ongoing contracts.\n\u00e2\u20ac\u00a2 Perform finance/accounting, cost economics, customer and market research analysis.\nAnalyzing, interpreting and presenting data related to transportations and infrastructure market operations.\nCalifornia High Speed Rail Project April, 2017 \u00e2\u20ac\u201c November 2017 Sr.\nFinancial Analyst Sacramento, Ca \u00e2\u20ac\u00a2 Accounting duties - Performs complex accounting functions for High Speed Rail Finance and Budget department, internal office departments, and program.\nAnalyzes and assigns transaction codes in accordance with state reporting and local management requirements.\nReviews and reconciles account and fund balances; reviews documents and claims for accuracy, completeness, and uniformity to rules, regulations, and laws; coordinates, prepares and reviews year-end closing process and documents.\nPerforms periodic review of financial reports and verifies accuracy and project solvency.\n\u00e2\u20ac\u00a2 Budget Monitoring - Support the development of budgets for internal and external customer; support the creation of new budget coding; provides information and assists staff and administrators in budget preparation, implementation, and control; prepares, balances, compiles, and enters budget data.\nSupport the preparation of quarterly revisions and billings; in accordance with Federal Railroad Administration (FRA) guidelines, monitors and evaluates federal and state fund budgets and cash flow for appropriateness to ensure solvency and accountability for compliance with state law.\n\u00e2\u20ac\u00a2 Financial Reporting - Prepares complex financial reports as mandated by the administration, California High Speed Rail Authority, and other agencies; assists internal and external business customers in compiling data and interpreting legal reporting requirements and regulations.\nMonitors timelines to meet strict deadlines in reporting regulations; reviews grant letters, funding and entitlement reports; reviews and verifies statistical and financial information including independent reports and long-term debt documents.\n\u00e2\u20ac\u00a2 Research and Data Analysis - Researches and analyzes financial data for internal and external clients; creates, organizes, and maintains files using database and spreadsheet programs; retrieves and organizes data into required reporting formats; collects, retrieves and organizes data to identify financial discrepancies and resolve client inquiries; recommends solutions to clients and staff ensuring that corrections or changes are implemented properly.\n\u00e2\u20ac\u00a2 Communications and Technical Support - Maintains communication with internal and external clients regarding financial matters; provides information and technical support in the development and revision of policies and regulations; assists in the development and documentation of office process updates and revisions to procedures; reviews proposed contracts for adherence to rules and regulations.\nSupport procedures for monitoring grants.\nCBRE August, 2015 \u00e2\u20ac\u201c Jan., 2017 Sr.\nProject Analyst/Sr.\nFinancial Analyst San Francisco, Ca \u00e2\u20ac\u00a2 Manages a broad range of complex financial analysis and/or financial reporting activities to measure profitability for a region, line of business or large, complex client.\nIncludes the management of such functions as budgeting forecasting, financial reporting, strategic planning and management reporting processes and work product.\n\u00e2\u20ac\u00a2 Manages one or all of the following: capital budgeting process, capital forecasting process, capital strategic planning process, and standard management reporting.\nEstablishes overall departmental priorities and ensures that all deadlines are met.\n\u00e2\u20ac\u00a2 Supervises finance staff including training.\nReviews and approves certain HFM monthly journal entries.\nConducts other special financial and business studies and other duties as assigned by management.\n\u00e2\u20ac\u00a2 Produces a variety of routine and ad hoc financial reports, packages and pro forma analyses for senior management and planning unit.\nParticipates in the research, development and preparation of accounting policy and procedures, as required.\nMay act as consultant to management on financial policies, procedures, and applications.\nManages special",
+        "tax_term": "",
+        "confidence": 0.5666666666666667
+      }
+    },
+    {
+      "resume_path": "data\\input\\Grant Compliance Manager - MA - Joan.doc",
+      "confidence_score": 0.0,
+      "used_ocr": false,
+      "extracted_fields": {
+        "skills": {
+          "r": 0.9
+        },
+        "name": "Joan E.",
+        "email": "",
+        "phone": "4013392244",
+        "location": {
+          "city": "Fall River",
+          "state": "RI",
+          "zip": "02871"
+        },
+        "work_authority": "",
+        "designation": "cco",
+        "experience": "EXPERIENCE Primrose Center, Inc 2015-Present Orlando, FL Accounting and Grant Compliance Manager \u00e2\u2013\u00aa Accounts Receivable, including invoicing and collections \u00e2\u2013\u00aa Posting of payments to customer accounts \u00e2\u2013\u00aa Processing Credits \u00e2\u2013\u00aa Payroll & Benefit processing \u00e2\u2013\u00aa Supervision of Accounts Payable and Reception \u00e2\u2013\u00aa Journal Entries as needed \u00e2\u2013\u00aa Preparation of YE Audit Workpapers \u00e2\u2013\u00aa Grant Compliance, Federal, State and City Level \u00e2\u2013\u00aa",
+        "tax_term": "",
+        "confidence": 0.4483166666666667
+      }
+    },
+    {
+      "resume_path": "data\\input\\HD - VA - Ovais.doc",
+      "confidence_score": 0.0,
+      "used_ocr": false,
+      "extracted_fields": {
+        "skills": {
+          "sql": 0.8,
+          "agile": 0.6,
+          "itil": 0.8,
+          "safe": 0.6,
+          "accountability": 0.8,
+          "problem solving": 0.8,
+          "analysis": 0.8,
+          "planning": 0.8,
+          "productivity": 0.6,
+          "training": 0.8,
+          "consulting": 0.8,
+          "documentation": 0.8,
+          "strategic planning": 0.8,
+          "process improvement": 0.6,
+          "reporting": 0.8,
+          "education": 0.8,
+          "policy": 0.6,
+          "infrastructure": 0.8,
+          "design": 0.8,
+          "technical support": 0.8,
+          "security": 0.8,
+          "software development": 0.6,
+          "optimization": 0.8,
+          "performance improvement": 0.8,
+          "technical documentation": 0.8,
+          "it service management": 0.8,
+          "it security": 0.6,
+          "service delivery": 0.8,
+          "service management": 0.8,
+          "tenable": 0.8,
+          "digital guardian": 0.8
+        },
+        "name": "MAC       OS",
+        "email": "",
+        "phone": "7035052053",
+        "location": {
+          "city": "",
+          "state": "",
+          "zip": ""
+        },
+        "work_authority": "",
+        "designation": "system   support",
+        "experience": "Professional Experience: Washington Radiology \u00e2\u20ac\u201c FairFax, Virginia USA.\nAug 2021 \u00e2\u20ac\u201c Current Helpdesk Technical Support \u00e2\u20ac\u00a2 Generates top results in terms of resolving calls & tickets quickly, efficiently, and effectively.\n\u00e2\u20ac\u00a2 Unlocking accounts and resetting user password in Active Directory \u00e2\u20ac\u00a2 Installing and imaging new computers and loading of appropriate software for customers.\n\u00e2\u20ac\u00a2 Respond to user\u00e2\u20ac\u2122s tickets, e-mails and assist in resolving Office 365 related issues.\n\u00e2\u20ac\u00a2 Answering around 50 calls in timely manner and logging accurately.\n\u00e2\u20ac\u00a2 Closed 95% of trouble tickets on the first call without escalation.\n\u00e2\u20ac\u00a2 Escalating technical issues correctly and effectively to right area of support \u00e2\u20ac\u00a2 Work within a team to provide technology support to Radiologists \u00e2\u20ac\u00a2 Flexible working hours to accommodate a 24/7 shift, including rotating weekends and holidays Consult America Inc \u00e2\u20ac\u201c Great Falls, Virginia USA.\nNov 2018 \u00e2\u20ac\u201c Apr 2021 NIH Bethesda MD Technical Support Engineer \u00e2\u20ac\u00a2 Deploying, installing, and configuring PCs, printers, mobile devices, and other peripheral equipment \u00e2\u20ac\u00a2 Deployed new hardware and software, leveraging automated processes established.\n\u00e2\u20ac\u00a2 Installing and imaging new computers and loading of appropriate software for customers.\n\u00e2\u20ac\u00a2 Migrating data and user profiles \u00e2\u20ac\u00a2 Successful pc windows migration completed \u00e2\u20ac\u00a2 Working within customer SLA guidelines \u00e2\u20ac\u00a2 Commended for quickly resolving complex issues including application issues, system crashes, network slowdowns, connectivity problems, security breaches, virus infections and more.\n\u00e2\u20ac\u00a2 Consistently logged and monitored ticket status to ensure fast, quality resolution of every issue.\n\u00e2\u20ac\u00a2 Maintained bug status reports and drove to resolution including verification of fixes.\n\u00e2\u20ac\u00a2 Provide assistance for ongoing maintenance, backups, system health of local servers and network gear.\nSaapa Consulting Technology Abu Dhabi \u00e2\u20ac\u201c UAE Oct 2016 \u00e2\u20ac\u201c Aug 2018 Technical Engineer \u00e2\u20ac\u00a2 Provide a variety of highly visible, complex, and valuable Security consulting services in support of the SaapaTech",
+        "tax_term": "",
+        "confidence": 0.3782258064516129
+      }
+    },
+    {
+      "resume_path": "data\\input\\HealthRules - configuration  - GA - Violet Jones.doc",
+      "confidence_score": 0.0,
+      "used_ocr": false,
+      "extracted_fields": {
+        "skills": {
+          "r": 0.9
+        },
+        "name": "Violet Jones",
+        "email": "",
+        "phone": "",
+        "location": {
+          "city": "",
+          "state": "",
+          "zip": ""
+        },
+        "work_authority": "",
+        "designation": "Business Analyst",
+        "experience": "Experience \u00e2\u20ac\u00a2 10+ years Facets and NetworX Pricer experience (versions 2.96 to 5.10, both front and back end expertise for configuration and testing) \u00e2\u20ac\u00a2 10+ year experience in HSD Diamond 950, Xcelys, Amysis, Amysis Advance, QNXT and Health Rules \u00e2\u20ac\u00a2 Comprehensive experience in healthcare data analysis encompassing systems reporting and testing.\nSuperior claims adjudication and auditing expertise resulting in excellent performance evaluations.\nExperience: 10/2014-Present (Traveling Position) Jacobson Staffing; HCSC-Blue Cross/Blue Shield Of Texas Medicare Contract Office; Facets Benefits Consultant, UAT Testing Analyst, Configuration Analyst \u00e2\u20ac\u00a2 Ensure updates of CPT, HCPCS, DRG, and ICD-10 codes as well as pricing, billing rates, analysis, data entry, testing and documentation of configuration set up for all Facets applications.\n\u00e2\u20ac\u00a2 Translates business rules into effective and efficient Facets configuration \u00e2\u20ac\u00a2 Gathering and analyzing data in support of business cases, proposed",
+        "tax_term": "CONTRACT",
+        "confidence": 0.30975
+      }
+    },
+    {
+      "resume_path": "data\\input\\HealthRules - Data Analyst - MI - John.doc",
+      "confidence_score": 0.0,
+      "used_ocr": false,
+      "extracted_fields": {
+        "skills": {
+          "r": 0.9,
+          "java": 0.9,
+          "sql": 0.9,
+          "selenium": 0.9,
+          "soap": 0.9,
+          "reporting": 0.9,
+          "lit": 0.9,
+          "agile": 0.9,
+          "scrum": 0.9,
+          "waterfall": 0.9,
+          "sql server": 0.9,
+          "etl": 0.9
+        },
+        "name": "PROFESSIONAL SUMMARY",
+        "email": "",
+        "phone": "",
+        "location": {
+          "city": "",
+          "state": "",
+          "zip": ""
+        },
+        "work_authority": "",
+        "designation": "Data  Analyst",
+        "experience": "PROFESSIONAL EXPERIENCE: United Health Group, Phoenix AZ Sep 2018 - Present Data Analyst I have worked on the project for Health Claims Scanning and Data Extraction (OCR).\nI developed and managed needs analysis, requirements gathering, gap analysis, creation of vendor disaster recovery plan, design, layout, business rule development and associated software interface development and test documents, development, and EDI implementation insuring HIPAA compliance.\nThe project had a budget of $800K and the system was anticipated to have an annual volume 1.5M claims.\nResponsibilities: \u00e2\u20ac\u00a2 Assisted the project manager in the creation of the project charter & vision document during the inception phase of the project.\n\u00e2\u20ac\u00a2 Used\u00c2 Informatica\u00c2 Power Center to extract, transform and load data from various source systems to staging and target Data warehouse.\n\u00e2\u20ac\u00a2 Tuned the performance of mappings by following\u00c2 Informatica\u00c2 best practices and applied several methods to get best performance by decreasing the run time of workflow.\n\u00e2\u20ac\u00a2 Imported Source/Target Tables from the respective databases and created reusable transformations (Joiner, Routers, Lookups, Rank, Filter, Expression, and Aggregator) in a Mapplet and created new mappings using Designer module of Informatica.\n\u00e2\u20ac\u00a2 Developed Test Cases for Testing the Facets Model.\n\u00e2\u20ac\u00a2 Analyzed business Processes, Subscribers \u00e2\u20ac\u201c group \u00e2\u20ac\u201c plan \u00e2\u20ac\u201c county structure, current processes, Facets configurations and FACETS backend processes.\n\u00e2\u20ac\u00a2 Coordinated with the developers and IT architects to design the interface of the new system according to the X12 (270, 276, 278, 834, 837 (I,P,D) and 820) standards.\n\u00e2\u20ac\u00a2 Performed daily tasks including backup and restore by using SQL Server 2008 R2 tools like SQL Server Management Studio, SQL Server Profiler, SQL Server Agent, and Database Engine Tuning Advisor.\n\u00e2\u20ac\u00a2 Worked with Facets, e-Billing and EDI HIPAA Claims (837/835/834) processing \u00e2\u20ac\u00a2 Develop, design & implement department plan to operationalize new FACETS integrated processing system, to include but not limited to, workflow, management oversight and performance analysis.\n\u00e2\u20ac\u00a2 Translated business requirements into functional specifications and documented the work processes and information flows of the organization.\n\u00e2\u20ac\u00a2 Extensive use of OLAP Function as well as complex joins to extract data for reporting purposes.\n\u00e2\u20ac\u00a2 Designed the overall ETL solution including analyzing data, preparation of high level, detailed design documents, test plans and deployment strategy.\n\u00e2\u20ac\u00a2 Implemented ETL process to load and extract data.\n\u00e2\u20ac\u00a2 Written Test Cases for ETL to compare Source and Target database systems.\n\u00e2\u20ac\u00a2 Created ETL execution scripts for automating jobs.\n\u00e2\u20ac\u00a2 Created test cases and test procedures for various stages of the ETL process including source to extract, source to staging and staging to target using SQL, Quality Center 10.00 and TOAD for Oracle 10g.\n\u00e2\u20ac\u00a2 Administration of HL7 Interfaces (XML/CCD, Demographics, Appointments, Orders and Results, Billing, HIE) in various environments.\n\u00e2\u20ac\u00a2 Worked in all phases of SDLC in Waterfall and Agile environments with business stakeholders, platform leads, and test leads to define scope, gather user stories and requirements.\n\u00e2\u20ac\u00a2 HL7 v3 interface engineering to process ambulatory and acute EMR HL7 messages.\n\u00e2\u20ac\u00a2 Implemented HL7 interfaces to process EMR messages of medical POC (Point of Care) devices.\u00c2 \u00e2\u20ac\u00a2 Created views to make data available on need to know basis.\n\u00e2\u20ac\u00a2 Created queries to fetch data from different tables, using derived tables, Sub queries, as well as Correlated queries on SQL Server platform.\n\u00e2\u20ac\u00a2 Performed numerous SQL queries that were highly tuned using concepts like Explain, Stats and CAST.\n\u00e2\u20ac\u00a2 Used SAS to import and export data from and into SQL Server platform.\n\u00e2\u20ac\u00a2 Used UML Diagrams to graphically capture system functionalities.\n\u00e2\u20ac\u00a2 Periodically Designed Conceptual, Logical and Physical Models to effectively improve Business processes.\n\u00e2\u20ac\u00a2 Modified various data sources, writing complex new queries based on business needs.\n\u00e2\u20ac\u00a2 Maintained departmental reports on daily basis and managed performance issues.\nCareSource, Dayton, OH Oct 2016 \u00e2\u20ac\u201c Jul 2018 DATA ANALYST I worked as a Data Analyst on Provider information delivery team, Health care application Dashboard and involved in troubleshooting and resolving errors in 834 and 820 transactions for health insurance exchanges and performing root cause analysis.\nResponsibilities: \u00e2\u20ac\u00a2 Analyzed the source data coming from Legacy system, Oracle, DB2, SQL server and flat files.\nWorked with Data Warehouse team in developing Dimensional Data Model.\n\u00e2\u20ac\u00a2 Worked on solving the errors of EDI 834 load to Facets through MMS.\nCreated keyword files to have member data bulk loaded into the FACETS system through the MMS batch \u00e2\u20ac\u00a2 Built a\u00c2 python\u00c2 class where the objects were batch jobs depending on their severity.\n\u00e2\u20ac\u00a2 Worked with\u00c2 data\u00c2 investigation, discovery and mapping tools to scan every single\u00c2 data\u00c2 record from many sources.\n\u00e2\u20ac\u00a2 Optimized the performance of SSIS packages by filtering data at source level, using fast load options and tuning embedded SQL queries.\n\u00e2\u20ac\u00a2 Worked extensively on EDI transactions 837 and 835 Involved in writing test cases for different LOB\u00e2\u20ac\u2122s (ITS, FEP and Regular) for SIT, Parallel and UAT.\n\u00e2\u20ac\u00a2 Set Claim processing data for different FACETS Module.\n\u00e2\u20ac\u00a2 Analyzing Medicare, Medicaid healthcare programs and performs data transformations, data manipulations, data validations using SQL, Access, VLOOKUP, and Index Matches for dealing with data inconsistencies and maintain data systems with accurate data.\n\u00e2\u20ac\u00a2 Converted syntax of diverse queries from Oracle to MS SQL Server in order to reach the business requirements \u00e2\u20ac\u00a2 Accomplished the data mapping documentations for database updates \u00e2\u20ac\u00a2 Experienced in full life cycle MDM development including data analysis, database design, data mapping and data load in batch.\n\u00e2\u20ac\u00a2 The data was integrated with the Medicaid data after extensive analysis.\n\u00e2\u20ac\u00a2 Involved in Data\u00c2 Analysis, Data Cleansing, Requirements gathering, Business Analysis, Entity Relationship diagrams (ERD), Architectural design docs, Functional and Technical design docs, and Process Flow diagrams \u00e2\u20ac\u00a2 Handled and maintained model versioning using Erwin.\n\u00e2\u20ac\u00a2 Created entity / process association matrices, entity-relationship diagrams, functional decomposition diagrams and data flow diagrams.\n\u00e2\u20ac\u00a2 Analyzing the reference of data which is extract from source table and transform to the target table by using the SQL query.\n\u00e2\u20ac\u00a2 Experiences in Designing, modeling, and creating database and Normalizing or de-normalizing data according to business requirements and Creating Star and snowflake schemas.\n\u00e2\u20ac\u00a2 Designed Enterprise reports using SQL Server Reporting Services (SSRS) \u00e2\u20ac\u00a2 Did Transformation and data cleansing activities use various Control flow and data flow tasks in SSIS packages during data migration \u00e2\u20ac\u00a2 Created and managed Event Handlers, Package Configurations, Logging, System and User-defined Variables for SSIS Packages.\n\u00e2\u20ac\u00a2 Analyzed the FACETS Requirements and conducted gap analysis.\n\u00e2\u20ac\u00a2 Responsible for Medicaid Claims Resolution/Reimbursement for peach state health plan using MMIS.\n\u00e2\u20ac\u00a2 Used SSIS and T-SQL stored procedures to transfer data from OLTP databases to staging area and finally transfer into data marts and performed action in XML.\n\u00e2\u20ac\u00a2 Participated in Complete Formal Design process from initial specifications and requirement.\nInvolved in creating technical design documentation.\n\u00e2\u20ac\u00a2 Worked with data compliance teams, Data governance team to maintain data models, Metadata, Data Dictionaries.\n\u00e2\u20ac\u00a2 Analyzed results and EDI ANSI X12 file mapping and reported on standard analysis spreadsheet.\nReviewed EDI companion guides for all payers to ensure compliance, edit integrity and maintain up-to-date list of payer",
+        "tax_term": "",
+        "confidence": 0.34500000000000003
+      }
+    },
+    {
+      "resume_path": "data\\input\\Help Desk - VA - Andre Potts.doc",
+      "confidence_score": 0.0,
+      "used_ocr": false,
+      "extracted_fields": {
+        "skills": {
+          "r": 0.9
+        },
+        "name": "Andre L. Potts",
+        "email": "",
+        "phone": "5716068186",
+        "location": {
+          "city": "Woodbridge",
+          "state": "VA",
+          "zip": "16756"
+        },
+        "work_authority": "US Citizen",
+        "designation": "System\nAdministrator",
+        "experience": "Employment History Metronome \\ State Department \u00e2\u20ac\u201c Senior Computer Administrator Jan.\n2020 \u00e2\u20ac\u201c Oct 2021 \u00e2\u20ac\u00a2 Created user and admin accounts with the aid of Active Directory \u00e2\u20ac\u00a2 Assist teleworking clients with connection and general computer problem.\n\u00e2\u20ac\u00a2 Assist client at the shop with classnet \\ jwic \u00e2\u20ac\u00a2 Support client with computer need with major application \u00e2\u20ac\u00a2 Created clients email accounts in exchange for all 3 networks \u00e2\u20ac\u00a2 Utilize ITIL best practices to enhance and optimize the services provided to end users SSI \\ JSP DOD \u00e2\u20ac\u201c Senior System Engineer Support Oct.\n2018 \u00e2\u20ac\u201c Jan 2020 \u00e2\u20ac\u00a2 Lead a team of Deskside Support Technicians providing technical support for system users.\n\u00e2\u20ac\u00a2 Assist in Creating work schedules, updating the front-end voicemail when necessary, complete the daily attendance and shift handoff reports, and provide ideas for improvement in daily operations of the client Service Center.\n\u00e2\u20ac\u00a2 Assist in the development of performance measurements (goals/metrics/reports) utilizing the current service desk platform and facilitate a feedback system to team members on issues such as customer service, communication, and technical",
+        "tax_term": "1099",
+        "confidence": 0.6083333333333334
+      }
+    },
+    {
+      "resume_path": "data\\input\\.Net  Architect - DE - Muthu.docx",
+      "confidence_score": 0.0,
+      "used_ocr": false,
+      "extracted_fields": {
+        "skills": {
+          "go": 0.9,
+          "r": 0.9,
+          "sas": 0.9,
+          "chi": 0.9,
+          "consul": 0.9
+        },
+        "name": "Introduction",
+        "email": "",
+        "phone": "4433161103",
+        "location": {
+          "city": "",
+          "state": "",
+          "zip": ""
+        },
+        "work_authority": "",
+        "designation": "Senior System Architect",
+        "experience": "PROFESSIONAL EXPERIENCE GSA, Treasury, USDA, HUD Coe\u2019s Jul 14 \u2013 Till Now Enterprise Solutions Architect, SME Consultant As a Chief Enterprise Architect, responsible for enterprise portfolio of applications.\nI have worked on multiple systems and integrated many applications with technical systems such as Enterprise, Mobile, PEGA, JAVA, J2EE, Spring Framework & Technologies including SharePoint 2010-2013, API Gateway, Python, Enterprise Service Bus, .net 4.0, 4.5, 4.8, .net core 1.8 and 2.0 Visual Studio 2010, 2015, 2019 MS-SQL Server 2008, XML, JSON, REST API, JavaScript and Objective C, Business Objects.\nI worked independently and as a part of the team that builds and integrates interactive Web sites, applications, and services for both internal and public sites.\nWorked on the latest version of the mobile and deployed using Samsung Knox security suite for Androids.\nMy technical domain includes the ability to architect websites, designing data-driven applications, and developing efficient client-server solutions & systems administrations in a cloud and hybrid environment.\nCloud Centers of Excellence \u2013 Cloud CoE \u2013 Senior Solutions Architect Worked as Senior Solutions Architect for the GSA Centers of Excellence Worked in all aspects of Phase I of Cloud Adoptions in AWS and MS Azure Platforms Created and implemented TBM as part of GSA CoE.\nWritten multiple proofs of concepts in Azure, AWS and Serverless Architectures Worked on Hadoop Stack, EMR, HDInsight big data architectures Worked on HDP platform using Java, Python, HDFS, HBase, Hive, Nifi, Spark, Solr, Impala Enterprise Architect \u2013 EA Role Performed extensive work on As-Is analysis, Transition architecture and Future-State architecture Worked on Cost-Benefit analysis (CBA), TCO, budgeting and cost modelling Worked on Technical recommendations, evaluations and proposals Worked on Risk management, Control implementations and Change control boards Architected and Recommended solutions and implementation plans for mobile and desktop cross device cross platform browser-based application architecture using iPhone/iPad/iPod touch iOS devices and android devices and .NET windows nodes.\nAWS, Azure, SOA, PEGA & Admin Role: Worked on the team that helped RATB in moving enterprise systems to Amazon cloud technology (AWS) solutions to improve its security and agility, consolidate systems, and streamline IT infrastructure and overhead costs.\nWorked on Service Oriented Architecture using REST and SOAP methods.\nWorked on end-points using Mule ESB and worked on various Enterprise Integration Patterns.\nUsed various conversions methods using J2EE and .NET to various conversion formats such as XML, JSON, CSV etc., Worked on agency\u2019s cloud design includes leveraging Microsoft Office 365 for messaging services, and Amazon\u2019s virtual private cloud (VPC) for all other enterprise services.\nWork on the mobile product and architect them for the app store Worked on CA API Gateway Design/Architecture Worked on Python, J2EE/.NET application Architected, designed and developed solution with Micro services Work on mobile, web trends and cloud integration using Java/.NET Suites Hands-on on PEGA PRPC, Data Pages, UI/UX with Services and Agents Worked on multiple Share Point",
+        "tax_term": "",
+        "confidence": 0.41000000000000003
+      }
+    },
+    {
+      "resume_path": "data\\input\\.Net - MD - Raj.docx",
+      "confidence_score": 0.0,
+      "used_ocr": false,
+      "extracted_fields": {
+        "skills": {
+          "python": 0.8,
+          "java": 0.8,
+          "javascript": 0.8,
+          "typescript": 0.8,
+          "scala": 0.8,
+          "sql": 0.8,
+          "pl/sql": 0.8,
+          "shell scripting": 0.8,
+          "asp.net": 0.8,
+          "asp.net mvc": 0.8,
+          "asp.net web forms": 0.8,
+          "razor": 0.6,
+          "web services": 0.8,
+          "rest api": 0.8,
+          "soap": 0.8,
+          "microservices": 0.8,
+          "linq": 0.8,
+          "entity framework": 0.8,
+          "nhibernate": 0.8,
+          "jquery": 0.8,
+          "bootstrap": 0.8,
+          "kendo ui": 0.8,
+          "angular": 0.8,
+          "angularjs": 0.8,
+          "react": 0.8,
+          "node.js": 0.8,
+          "django": 0.8,
+          "flask": 0.8,
+          "spring": 0.8,
+          "hibernate": 0.8,
+          "jpa": 0.8,
+          "jdbc": 0.8,
+          "odbc": 0.8,
+          "ado.net": 0.8,
+          "mysql": 0.8,
+          "oracle": 0.8,
+          "sql server": 0.8,
+          "mongodb": 0.8,
+          "elasticsearch": 0.8,
+          "dynamodb": 0.8,
+          "firebase": 0.8,
+          "sqlite": 0.8,
+          "db2": 0.8,
+          "solr": 0.8,
+          "aws": 0.8,
+          "azure": 0.8,
+          "s3": 0.8,
+          "lambda": 0.8,
+          "cloud storage": 0.8,
+          "functions": 0.8,
+          "cdn": 0.8,
+          "docker": 0.8,
+          "jenkins": 0.8,
+          "render": 0.8,
+          "azure api management": 0.8,
+          "workflows": 0.8,
+          "test driven development": 0.6,
+          "tdd": 0.8,
+          "junit": 0.8,
+          "mocha": 0.8,
+          "git": 0.8,
+          "bitbucket": 0.8,
+          "github": 0.8,
+          "vue": 0.6,
+          "rest": 0.8,
+          "grpc": 0.8,
+          "d3.js": 0.8,
+          "ionic": 0.8,
+          "xamarin": 0.8,
+          "jasmine": 0.8,
+          "spring boot": 0.8,
+          "dotnet core": 0.8,
+          "agile": 0.8,
+          "scrum": 0.8,
+          "safe": 0.8,
+          "crystal": 0.8,
+          "xp": 0.8,
+          "presentation": 0.6,
+          "collaboration": 0.8,
+          "research": 0.8,
+          "analysis": 0.6,
+          "flexibility": 0.6,
+          "consulting": 0.8,
+          "documentation": 0.6,
+          "requirements analysis": 0.6,
+          "business requirements": 0.6,
+          "business intelligence": 0.8,
+          "data visualization": 0.8,
+          "reporting": 0.8,
+          "data analytics": 0.8,
+          "data management": 0.8,
+          "data security": 0.8,
+          "data integrity": 0.6,
+          "etl": 0.8,
+          "data marts": 0.8,
+          "excel": 0.8,
+          "highcharts": 0.8,
+          "nosql": 0.8,
+          "spark": 0.8,
+          "informatica": 0.8,
+          "erwin": 0.6,
+          "healthcare": 0.8,
+          "medical": 0.8,
+          "insurance": 0.8,
+          "ecommerce": 0.8,
+          "warehousing": 0.6,
+          "media": 0.8,
+          "gaming": 0.8,
+          "education": 0.8,
+          "government": 0.8,
+          "ngo": 0.8,
+          "public health": 0.6,
+          "architecture": 0.6,
+          "engineering": 0.8,
+          "design": 0.8,
+          "marketing": 0.6,
+          "sales": 0.8,
+          "crm": 0.8,
+          "customer service": 0.8,
+          "human resources": 0.8,
+          "compliance": 0.8,
+          "security": 0.8,
+          "travel": 0.8,
+          "design patterns": 0.8,
+          "sequence diagrams": 0.8,
+          "class diagrams": 0.8,
+          "agile development": 0.6,
+          "customer support": 0.6,
+          "LOINC": 0.8,
+          "project documentation": 0.6,
+          "e-commerce": 0.8,
+          "user experience": 0.6,
+          "user interface": 0.8,
+          "authentication": 0.6,
+          "authorization": 0.8,
+          "event management": 0.6
+        },
+        "name": "TECHNICAL SKILLS\n\nL",
+        "email": "",
+        "phone": "3016933175",
+        "location": {
+          "city": "",
+          "state": "",
+          "zip": ""
+        },
+        "work_authority": "",
+        "designation": "Senior Software Developer",
+        "experience": "PROFESSIONAL EXPERIENCE KTBSonline, Sparks,MD Senior Software Developer Jun 2019 - Present KTBSonline is a fully customizable web portal that facilitates the enrollment and management of employee benefits for employers of all sizes.\nSince 1998, KTBSonline has been renowned for its proven efficiencies and exceptional employer/employee experience, as well as the critical data it provides and uncompromising security.\nKTBSonline provides a benefits management system for HR professionals and a web portal for employees.\nThrough KTBSonline, employers reduce benefit spend, increase the value of their health care plans, and become more efficient and productive \u2014 while increasing compliance, data security, and employee engagement.\nSimply put, it helps increase the efficiency of any Human Resources department.\nIt is a fully customizable web portal that facilitates the enrollment and management of employee benefits and payroll for businesses of all sizes.\nResponsibilities: Develop ASP.net WebForms based application Port WebForms to Razor Port WCF services to GRPC Azure PaaS Implement and consume WCF and GRPC based web services Implement DevExtreme and Vue based user interface components Implement MSMQ and NServiceBus based Message queue SQL Server 2017 Programming Environment: C#, TypeScript, Vuejs, NodeJs, Dotnet Core, ASP.NET MVC, SQL Server 2017, LINQ, Entity Framework,CSS3, HTML5, jQuery, Visual Studio 2019, DevExtreme UI, , Agile, Scrum, MongoDB, NServiceBus, MSMQ, GRPC, WCF Harmonia Inc, Tysons Corner VA Senior Software Developer Sep 2017 - Jun 2019 FSIS APM APM is the Product recall module that intends to replace the current paper based process with a web based portal that will be integrated with FSIS.\nResponsibilities: Develop ASP.net Core based application Develop Xamarin based mobile application for Android and IOS Implement and consume REST based services using ASP.NET Core 2.0 Participate in architecture design process Identify and solve complex problems using design patterns such as factory, singleton, Strategy, observer and builder patterns Implement Telerik Kendo UI based user interface components Implement Anguklar7.0 based UI Implement IText7 based PDF generation and signing functionality SQL Server 2017 Programming Environment: C#, TypeScript, Angular, NodeJs, Dotnet Core, ASP.NET MVC, SQL Server 2017, LINQ, Entity Framework,CSS3, HTML5, jQuery,4.5, Visual Studio 2017, Telerik Kendo UI, IText 7, Agile, Scrum, Xamarin forms for Android, TDD, BOD FSIS Application Portal FSIS implemented the Public Health Information System (PHIS) as part of our effort to collect, consolidate, and analyze data.\nPHIS is a user-friendly, web-based application that replaces many of FSIS\u2019 existing systems Responsibilities: Develop ASP.net WebForms based application Azure PaaS Implement and consume WCF based web services Implement Telerik based user interface components Implement RabbitMQ and Masstransit based Message queue SQL Server 2014 Programming Environment: C#, WCF, ASP.NET MVC, ASP.NET Web Forms, SQL Server 2014, LINQ, Entity Framework, CSS3, HTML5, jQuery,4.5, Visual Studio 2015, Telerik, RabbitMQ, Masstransit, Agile, Scrum,m Azure LHNCB at National Library of Medicine, NIH Bethesda, MD Senior Web Developer Sep 2015- Sep 2017 Personnel Management System The project Personnel Management System help manage Researchers, Interns and Associates at the National Library of Medicine at NIH.\nIt tracks their academic achievements such as degrees and awards and helps the NLM management track their career development at NLM.\nThe system was originally developed in ASP and is in use for over 15 years.\nSupport for some components such as Crystal Reports and Windows 2003 are no longer available.\nThe system lacked user interface improvements due to the proliferation JavaScript and lacked important data security measures such as data encryption and secure login.\nResponsibilities: Convert ActiveX Based Crystal Reports to .NET Implement sensitive data encryption in the database Implement LDAP based authentication Implement XSS and SQL injection prevention throughout the website Add search and data download functionalities Environment: C#, ASP.NET MVC, ASP.NET Web Forms, Classic ASP, Crystal Reports, SQL Server 2012, CSS3, HTML5, jQuery, COM+, VB Script, .NET 4.5, Visual Studio 2015.\nLforms LForms is a lightweight, feature-rich, open-source widget that creates input forms for Web-based medical applications or to integrate into electronic health records (EHRs), personal health records (PHRs), and mobile health apps.\nLForms is a completely free widget toolkit that leverages LOINC's rich content model for panels, forms, and survey instruments.\nDeveloped by LHNCBC in collaboration with the Regenstrief Institute, LForms can read any of the 1,700+ panels defined in LOINC\u00ae and render a powerful data entry form.\nIt works across all the domains (laboratory panels, survey instruments, etc.) included in LOINC.\nLForms power comes through its support of detailed form attributes, including: data type, cardinality, default value, units of measure (if numeric), answer lists (if multiple choice), ability to make multiple choice answer lists function as \"select one\" or \"select all that apply,\" relationship (in a nested hierarchy) to other questions, default value settings, validation checks, skip logic and help messages.\nResponsibilities: Develop node js based REST services that serves data stored in the elastic index to the user.\nThe rest services can be customized to return specific fields only Develop ElasticSearch based indexes.\nThese indexes are tuned to maximize response time and handle high volume traffic Implement Elasticsearch based search on the Gene Index.\nCreate a Shell script using tools such as AWK, sed, sort and such to de-duplicate, group, truncate and sort raw data Create Jasmine and Mocha Tests based test for LForms Environment: Nodejs, Angular 2.0, Elasticsearch, REST, Mocha, Jasmine, Grunt, AWK, Shell Script, Red hat Linux, Oracle 11g, ASP.NET MVC, ASP.NET Web Forms, ASP, SQL Server 2012, SQL Server 2012, Jira, BitBucket Social Security Administration, Gwynn Oak MD Application Developer Jul 2014- Jul 2015 The purpose of this Project is to provide support to the Office of the Chief Strategic Officer (OSCO) at the Social Security Administration in connection with OCSO\u2019s executive information site and all related data tables and reports.\nLOCKHEED MARTIN will seamlessly update and transition Executive and Management Information System (EMIS) from the current version to a new one by suggesting improvements including intranet web interfaces, database design, report design, and user tools.\nResponsibilities: Develop tools that allow OSCO staff to update raw data Create new reports when necessary Develop a system that allows modifications to report structure, data elements, and charts/graphs without hard coding or new programming, through user-friendly interfaces Develop new program(s) with the flexibility for direct database access Develop interactive graphical user interfaces) (GUI) for the executive information site on EMIS, Agency Priority Goals (APG) and Strategic Objective data where, through data visualization (i.e., dashboards), users can easily identify overall progress and clearly see those areas or timeframes where additional information and analysis is required Provide business analyst support to document code, maintain, and archive program development and requirements changes by producing a data dictionary and a user manual Provide data analytics support as requested Environment: ASP.NET MVC, ASP.NET Web Forms, ASP, WCF, Web Services, SQL Server 2008, SQL Server 2012, SSIS, jQuery, Highcharts, Bootstrap, D3.js Library, JavaScript, CSS 3, HTML 5 C#, REST, ASP.NET Web API, Java, Spring 3.0, WebSphere, 508 Compliance.\nThe Great Courses, Chantilly VA Senior Web Developer Feb 2013- Jul 2014 The Great Courses is a series of college-level audio and video courses produced and distributed by The Teaching Company, Chantilly, Virginia company, via mobile apps, CD, DVD, or MP3 and MPEG-4 download formats Responsibilities: Maintain existing website and making frequent updates upon business requirements Work closely with the marketing team to implement new requirements and bug fixes Deploy website across dev, stage and pre-production environments Develop SQL stored procedures as needed for implementation Design, implement and maintain code that supports all browsers Implement tagging needed for tracking user behavior and conversion rates Implement split version of the website for testing purposes Implement user Interface using JavaScript and HTML5 Create and maintain SSIS packages for the MIS Data Mart Maintain and enhance Apache Solr Search Platform and integrate it with the Website Develop and integrate email campaign using Strong Mail Develop REST API for mobile integration Environment: ASP.NET MVC, ASP.NET Web Forms, ASP, Visual Basic 6, Windows Froms, SQL Server, 2008, SQL Server 2012, SSIS, Solr, jQuery, JavaScript, CSS3, HTML5, WCF, C#, VB.NET, VB Script, REST, ASP.NET Web API Maricom, a CSC Company, Windsor Mill MD ETL Developer Aug 2012-Feb 2013 Maricom, a CSC company, is an IT solutions firm, specializing in Data Management, Software Engineering, Business Intelligence, and",
+        "tax_term": "",
+        "confidence": 0.38036764705882353
+      }
+    },
+    {
+      "resume_path": "data\\input\\ABDIRAHIM MASLAH   - SD - OH.docx",
+      "confidence_score": 0.0,
+      "used_ocr": false,
+      "extracted_fields": {
+        "skills": {
+          "r": 0.9,
+          "chi": 0.9,
+          "safe": 0.9,
+          "security": 0.9,
+          "xp": 0.9,
+          "excel": 0.9,
+          "mcafee": 0.9
+        },
+        "name": "ABDIRAHIM MASLAH",
+        "email": "",
+        "phone": "6143774454",
+        "location": {
+          "city": "Columbus",
+          "state": "OH",
+          "zip": ""
+        },
+        "work_authority": "",
+        "designation": "system Administration",
+        "experience": "experienced in customer service protocols and processes.\nComfortable working directly with the customer/client to resolve their issues.\nAble to de-escalate problematic situations whether face-to-face or via phone.\nCalled upon to take the lead in multiple situations to train and mentor peers.",
+        "tax_term": "",
+        "confidence": 0.4146
+      }
+    },
+    {
+      "resume_path": "data\\input\\Abhishek-devops-mig.docx",
+      "confidence_score": 0.0,
+      "used_ocr": false,
+      "extracted_fields": {
+        "skills": {
+          "r": 0.9,
+          "azure": 0.9,
+          "kubernetes": 0.9,
+          "gin": 0.9
+        },
+        "name": "PROFESSIONAL SUMMARY\nA",
+        "email": "",
+        "phone": "7814864747",
+        "location": {
+          "city": "",
+          "state": "",
+          "zip": ""
+        },
+        "work_authority": "",
+        "designation": "Cloud Infrastructure",
+        "experience": "experience in Cloud Infrastructure and DevOps experience building CI/CD pipelines and automation.\nHands on experience with configuration management tools such as Chef, Ansible.\nVersion control using GIT, SVN.\nContainerization using Docker and Kubernetes, continuous integration using Jenkins, Bamboo and worked on build tools like ANT and Maven.\nExperience in Continuous Integration and deployment using various like Jenkins, Hudson, Bamboo, Chef, and Puppet.\nExpert in Jira Atlassian admin.\nHave worked extensively with Jira plugins like Tempo, WBS, Jira Automation, Docker.\nConfigures and administers Jira Software, Jira Core and/or Jira Service Desk, and related products such as apps.\nExperience in working on AWS and its services like AWS IAM, VPC, EC2, ECS, EBS, RDS, S3, Lambda, ELB, Auto Scaling, Route 53, Cloud Front, Cloud Watch, Cloud Trail, SQS, and SNS.\nExperienced in Cloud automation using AWS Cloud Formation templates to create custom sized VPC, subnets, NAT, EC2 instances, ELB and Security groups.\nManages global settings including users and groups, roles, global permissions, and schemes.\nCreates",
+        "tax_term": "",
+        "confidence": 0.4
+      }
+    },
+    {
+      "resume_path": "data\\input\\Adam Turner - .Net - VA.docx",
+      "confidence_score": 0.0,
+      "used_ocr": false,
+      "extracted_fields": {
+        "skills": {
+          "javascript": 0.8,
+          "sql": 0.8,
+          "t-sql": 0.8,
+          "asp.net": 0.8,
+          "asp.net mvc": 0.8,
+          "asp.net web forms": 0.6,
+          "web services": 0.8,
+          "soap": 0.6,
+          "linq": 0.8,
+          "entity framework": 0.8,
+          "jquery": 0.8,
+          "bootstrap": 0.8,
+          "angularjs": 0.8,
+          "ado.net": 0.8,
+          "oracle": 0.8,
+          "sql server": 0.8,
+          "batch": 0.8,
+          "unit testing": 0.8,
+          "git": 0.8,
+          "express": 0.8,
+          "crystal": 0.8,
+          "analysis": 0.8,
+          "training": 0.8,
+          "documentation": 0.8,
+          "batch processing": 0.8,
+          "excel": 0.8,
+          "logistics": 0.8,
+          "transportation": 0.8,
+          "education": 0.8,
+          "architecture": 0.8,
+          "design": 0.8,
+          "compliance": 0.8,
+          "security": 0.8,
+          "enterprise architecture": 0.8,
+          "software development": 0.8,
+          "inventory management": 0.6,
+          "application architecture": 0.8
+        },
+        "name": "Adam Turner",
+        "email": "",
+        "phone": "7176545847",
+        "location": {
+          "city": "Lemoyne",
+          "state": "PA",
+          "zip": "17043"
+        },
+        "work_authority": "",
+        "designation": "Application Architect",
+        "experience": "experience Experienced Lead Programmer with end-to-end project lifecycle (SDLC) Primary expertise in full stack multi-tier architecture.\nExperienced Trainer Comptia Security+ Certified Experience 10/16 \u2013 Present V Group Inc @ SERS Harrisburg, PA Senior .Net Developer (6-12 month contract) 2 \u00bd years later Complete redesign of public facing site https://employers.sers.pa.gov Developed ASP.net MVC Ad hoc app (AGC) to work with 3rd party CMS product (Process360) Developed two associated ASP.net Web Forms Applications OAP \u2013 Public facing site to apply for agency specific jobs.\nOAPA \u2013 Intranet site to administer the application Developed JNET WCF SSL Service.\nShared code with 2 other agencies and assisted them with setup.\nNew development and maintenance of .Net VTA\u2019s Developed a WinForms application and .dll to encrypt-decrypt sensitive data i.e.\nconnection strings (AES) ASP.net Web Forms & SOAP Web Services (ASMX & WCF) Maintenance and Bugs Fixes for intranet app\u2019s (DAWPM & CMS) Currently working with 2 teams for SERIS 2.0 migration as lead .net developer.\nTechnologies used: .Net Framework 2.0/4.0, Visual Studio 2015, VB.net & C#, JavaScript/JQuery TFS 2015 Web & Intergrated, T-SQL/Oracle, XPath, LINQ, AJAX, HTML, CSS, Bootstrap 4/16 \u2013 8/16 Accenture/Navy Depot Mechanicsburg, PA .Net SME/Trainer (6-12 month contract) Lead Trainer of a 4 week (160 hours) of training class of 9 experienced developers on the following topics in .Net (OOP Concepts and UML, Software Analysis Design & Build, SOLID Principles, Software Development Environment & Tools, Programming Language: C#, Error Handling/Assertions, Reuse: Procedural Classes & Objects, Programming Inheritance, Programming Polymorphism, Programming Collections, Programming Exception Handling, OOP Paradigm, Unit Testing, Assembly and Production Testing, Database Input/Output, Database Overview, Getting Started with LINQ, Getting Started with Entity Framework, Database Connectivity, Elements of Enterprise Architecture, Enterprise Architecture Patterns, Web Based Programming, XML & XSLT, MVC, Securing Applications, Working with MVC Models, Designing ASP.NET MVC Application Architecture, Coding Fundamentals for C#, Define, Revise, & Prepare Unit Test, And a few other smaller topics Following training, I'm provided over the shoulder support for the entire depot regarding .net technologies.\n(85+ developers) Personally created 6 hours of Powerpoint training slides for an Advanced Javascript class (over 500 slides).\n1/16 \u2013 4/16 NRA/Appalachia Technologies Harrisburg, PA Senior Software Developer (6-8 week contract) New Development on VB.net WinForms Application Technologies include: VB.net, SQL Server 2008R2, LINQ, CTE, GIT, XML 3/14\u201307/15 Deloitte Camp Hill, PA Senior Software Developer (Phase 1 Complete) Working Lead developer/mentor of 5+ developers on a team of 50+ Consultant for new development on CWIS project Expert on LiveCycle/XML Correspondence Generation Awarded 3 Performance Awards Technologies include: Oracle SQL, Bootstrap, Asp.net Webforms, C#, VB.net, jQuery, AngularJS, WCF, TFS 4/13\u201311/13 RR Donnelly Lancaster, PA Senior Software Developer (6 month contract) Maintenance and enhancements on intranet ASP.net/c# web applications.\nMaintenance and enhancements on WCF/Windows Services WCF, Windows Services, XML, XSL, XSLT, .NET 2.0-4.0, C#/VB.net, Javascript, AJAX, LINQ2SQL, ADO.net, SQL Server 2005-2008, MSMQ, SOA, ASP.net, IIS6, TFS 3/12\u20134/13 PA Dept.\nOf Transportation Harrisburg, PA Senior Software Developer on the MM team (1 year contract) Senior Software Engineer on the .net Managed Maintenance team.\nLead/mentor for 5+ mid-level/junior developers.\nPrimary Lead developer supporting 10+ applications for 1,000+ users Expert in Windows7 migration - Primary engineer for all departmental application migration from WindowsXP.\nPerformed documentation including, but not limited to, requirements, function point counting, user manuals, technical, and AKT's (Application Knowledge Transfer) Technologies: ASP.net, SQL Server, VB.net, C#, Web Services, MS Access, Javascript, AJAX, XML, Crystal Reports(BOBJ/BOXI) 12/10\u20132/12 PA Dept.\nOf Health Harrisburg, PA Senior Systems Engineer (Contract Team Replaced with internals) Maintenance and new development on QuickWIC intranet site Maintained public facing Vendor Assistance website Support and development on CheckScan and MICR readers for vendors.\nGeneral support and development for various departmental applications.\nSupporting 250+ ad hoc laptop/tablet synchronization for satellite clinics.\nDesigned adhoc application for laptop monitoring/tracking.\nSQL Server 2005/2008, ASP.net 3.5, VB.net, XML, Linq2SQL, DHTML, Javascript, OOP, MS Access 2007 11/09\u201310/10 Wells Fargo N.A.\nPhoenix, AZ Senior Systems Engineer (Contract terminated - Position eliminated) Maintained existing MS Access 97/2000 applications during migration process with Wachovia Maintained vb.net winforms financial application supporting 1,000 users Lead SQL Server 2005 Developer for back-end systems Solely responsible for development and support of 3 applications that support 2,000+ users Integral role in full SDLC business logic and ad-hoc development for financial services department.\nMinor Oracle queries accessed through a datalayer.\n4/09\u201310/09 Berry Wave Phoenix, AZ .Net Architect/Engineer (6 Month contract) Ad-Hoc software development N-tier Architecture design VS 2008 .net 3.0 Win/Web Forms development/C# Developed an FTP job application (winforms C#) SQL Server DBA Developing an application to communicate via text messaging bidirectionally with a PC ASP.net(Linq to SQL/JQuery) registration site 04/08\u201303/09 American Express Phoenix, AZ .Net Windows Developer (6-12 month contract) Automated manual processes via .net Windows Services and console applications with VB.net 2.0/3.5 Framework Developed and maintained ad hoc and existing ASP.net intranet pages supporting 50+ users - C# Developed and maintained .net 2.0/3.5 3-tier WinForms applications that communicated with Unix Servers Lead developer in SQL Server 2000/2005 optimizations in a highly transactional batch processing environment.\n(execution plans, transactional control, normalization, etc\u2026) Lead developer in investigating and optimizing existing application performance.\nIntegral author in documentation and enforcement of programming standards 01/07\u201302/08 Salt River Project Phoenix, AZ Contract Software Engineer (6 month contract) Migrated all functionality from several MS Access environments to SQL Server 2000/ASP.net(C#) Solely redesigned all project management proprietary/legacy software for the Project Services department into a single vb.net application.\nConverted paper contract system into an ASP.net/C# environment.\nAutomated manual validations that reduced man hours from hours into minutes Provided thorough documentation to management that outlined both high level and low level design.\nMigrated 4 VB6 applications to VB.net Winforms Minor interaction with Oracle 03/06\u201310/06 OEM Logistics Support Inc.\nTempe, AZ IT Manager/Software Developer (replaced in merger) Migrated MS Access inventory management system into SQL Server 2000/ASP.net C# Win/Web forms.\nSQL Server Administrator (DBA) \u2013 administrate and maintain SQL Server 2000 Network Administrator \u2013 administrate and maintain 150+ employee workstations, 2 Windows 2003 servers, and an in-house IIS web server MS Project Server Administrator \u2013 configure and maintain MS Project Server Software Developer \u2013 developed a company intranet from a nonexistent environment through JAD sessions Automation designer \u2013 automated all communication for Boeing procurement processes.\nTelco telephone administrator \u2013 responsible for all telephone related setup and troubleshooting.\nWebmaster and designer for www.kitmyschoolsupplies.com (currently removed) Migrated VB6 applications to VB.net 10/04\u201303/06 Global Fulfillment Services, Inc.\nPhoenix, AZ Programmer Analyst/Code Approver (Co.\nrelocated to Minnesota) Developed stand alone VB6 WinForms applications that generated reports in MS Excel, MS Word, (CDO objects) for MS Outlook.\nReviewed and approved code to be released into production for 13 analysts Automated repetitive tasks with VB6 applications and VBA macros that heightened the throughput of production while diminishing the common human errors.\nUsing SQL Server 2005 technologies, investigated and resolved batch exceptions, reported potential problem areas, and performed general SQL related tasks in response to immediate needs.\nComplex T-SQL.\nCode limits, compliance, and conditions to ensure rebate offers were paid/unpaid in accordance with client specifications.\nAlpha tested final offer to confirm all necessary flags are thrown prior to implementation.\nModified existing C# code to adjust batch importer file.\n2.0 Framework 04/02\u201302/04 University of Phoenix Online Phoenix, AZ Junior Software Engineer (Left for Analyst Position) Maintained C# .net WinForms applications using ADO.net, OOP, Regular Expressions, and mild T-SQL 2000/Oracle.\nMaintained ASP.net intranet using HTML, XML, Javascript and mild T-SQL 2000.\nIntegral involved in migrating VB6 applications into .net Wrote VBA macros for various MS Office applications for management.\nReceived an award for outstanding achievement for the 3rd quarter of 2002.\nParticipated in iHeat Beta Testing, TechWeb2 Focus Group, and the Supervisory Interview Panel.",
+        "tax_term": "CONTRACT",
+        "confidence": 0.5175675675675676
+      }
+    },
+    {
+      "resume_path": "data\\input\\Data Entry - PA - Christopher.docx",
+      "confidence_score": 0.0,
+      "used_ocr": false,
+      "extracted_fields": {
+        "skills": {
+          "r": 0.9
+        },
+        "name": "Christopher T. Krozel",
+        "email": "",
+        "phone": "8148865626",
+        "location": {
+          "city": "Gallitzin",
+          "state": "PA",
+          "zip": "16641"
+        },
+        "work_authority": "",
+        "designation": "it",
+        "experience": "experience with the hope of possibly advancing in the future.",
+        "tax_term": "",
+        "confidence": 0.44305000000000005
+      }
+    },
+    {
+      "resume_path": "data\\input\\Deborah Jefferson - BA - GA.docx",
+      "confidence_score": 0.0,
+      "used_ocr": false,
+      "extracted_fields": {
+        "skills": {
+          "r": 0.9,
+          "presentation": 0.9,
+          "analysis": 0.9,
+          "data analysis": 0.9,
+          "sales": 0.9,
+          "instruction": 0.9,
+          "medical": 0.9,
+          "audit": 0.9,
+          "lit": 0.9,
+          "rds": 0.9,
+          "tact": 0.9
+        },
+        "name": "DEBORAH JEFFERSON",
+        "email": "",
+        "phone": "8032383169",
+        "location": {
+          "city": "Savannah",
+          "state": "GA",
+          "zip": "31406"
+        },
+        "work_authority": "",
+        "designation": "BUSINESS ANALYST",
+        "experience": "experiences as a Medicare Fraud/Data Analyst for Palmetto GBA/BCBS of SC, Columbia, SC Bachelor of Arts, Fine Arts, Emmanuel College, Boston, MA Associate of Arts, Computer Science, Limestone College, Gaffney, SC Professional Memberships American Health Information Management Association (AHIMA)",
+        "tax_term": "CONTRACT",
+        "confidence": 0.5098
+      }
+    },
+    {
+      "resume_path": "data\\input\\Finance Manager - NC - Tamika.docx",
+      "confidence_score": 0.0,
+      "used_ocr": false,
+      "extracted_fields": {
+        "skills": {
+          "r": 0.9,
+          "expo": 0.9,
+          "xp": 0.9,
+          "reporting": 0.9,
+          "analysis": 0.9,
+          "planning": 0.9,
+          "research": 0.9,
+          "process improvement": 0.9,
+          "lit": 0.9,
+          "financial reporting": 0.9,
+          "cap": 0.9,
+          "training": 0.9,
+          "excel": 0.9
+        },
+        "name": "Tamika L. Porter",
+        "email": "",
+        "phone": "",
+        "location": {
+          "city": "Charlotte",
+          "state": "NC",
+          "zip": "28215"
+        },
+        "work_authority": "",
+        "designation": "Support CFO",
+        "experience": "Professional Experience: Bank of America (NTT Data), Charlotte, NC Finance Manager, Traded Product Liquidity Management 10/20 \u2013 Present Manage and consolidate the daily liquidity figures from multiple broker dealers across Global Liquidity.\nSupport CFO-Treasury Executive Operating Review by creating and providing deck materials.\nParticipate in periodic corporate audits to ensure compliance with Treasury Risk standards/corporate policies.\nProcess Improvement \u2013Partner with Treasury IT as business needs change on metadata revisions, test requirements and enhanced specifications to create a customizable view in LIBRA/Treasury Connect.\nWells Fargo Bank (Randstad), Charlotte, NC Financial Strategy Consultant 9/18 \u2013 09/20 Led the consolidation, analysis, and reporting of monthly actual and forecasted performance for a suite of complex",
+        "tax_term": "",
+        "confidence": 0.3336166666666667
+      }
+    },
+    {
+      "resume_path": "data\\input\\IT Security - Cyber Security - DC - Houman.docx",
+      "confidence_score": 0.0,
+      "used_ocr": false,
+      "extracted_fields": {
+        "skills": {
+          "r": 0.9,
+          "security": 0.9,
+          "pmp": 0.9,
+          "cissp": 0.9,
+          "itil": 0.9
+        },
+        "name": "Houman Hadaegh",
+        "email": "",
+        "phone": "3016020708",
+        "location": {
+          "city": "",
+          "state": "",
+          "zip": "27000"
+        },
+        "work_authority": "",
+        "designation": "operations support",
+        "experience": "EMPLOYMENT HISTORY: Chief Technology/Information Security Officer, October 2015 - Present Employer: IBSS Corp For the past five years, led the strategic vision for the IT services and capabilities.\nDeveloped a one-year, three-year, and five-year roadmap for IT capabilities and strategies across cybersecurity, enterprise infrastructure, and cloud computing verticals.\nThis involves reviewing the latest technologies from industry leaders and engaging with clients to discuss their technical challenges and goals.\nInternally, led the establishment of departmental performance goals, objectives, and operating procedures with KPIs that produce measurable results within budgets and timeframes.\nPlayed a key role in standing up IBSS\u2019s PMO to provide oversight of project and quality management for a diverse set of federal clients in IT, Scientific Engineering and Management Consulting services.\nCo-led IBSS to achieve externally-certified ISO 9001, ISO 20000, ISO 27001, and CMMI-SVC/ML3 processes to deliver secure IT services across federal clients.\nLed IBSS in winning opportunities, providing technical solutions to client needs, capture management of key personnel, and proposal development for $34 million in IT services in the past ten years.\nProgram Manager/Enterprise Architect, October 2009 - 2019 Employer: IBSS Corp Client: DoD",
+        "tax_term": "",
+        "confidence": 0.43333333333333335
+      }
+    },
+    {
+      "resume_path": "data\\input\\IT Security - Cyber Security - MD - Larry.docx",
+      "confidence_score": 0.0,
+      "used_ocr": false,
+      "extracted_fields": {
+        "skills": {
+          "r": 0.9,
+          "chi": 0.9,
+          "network performance": 0.9,
+          "training": 0.9,
+          "telecommunications": 0.9,
+          "security": 0.9,
+          "energy": 0.9,
+          "gin": 0.9,
+          "intrusion detection": 0.9,
+          "translate": 0.9,
+          "documentation": 0.9,
+          "information security": 0.9,
+          "security requirements": 0.9,
+          "security documentation": 0.9,
+          "snort": 0.9,
+          "analysis": 0.9,
+          "network security": 0.9,
+          "lit": 0.9,
+          "networking": 0.9,
+          "network monitoring": 0.9
+        },
+        "name": "Larry P. Bunch",
+        "email": "",
+        "phone": "4106888391",
+        "location": {
+          "city": ".",
+          "state": "MD",
+          "zip": "21085"
+        },
+        "work_authority": "To Connect Requirements\nDevelop And Document Security Design Artifacts And The Associated Security Controls That Are Meeting The Security Acceptance Criteria And Package The Accreditation And Authorization Documents In Support Of Each Domain C",
+        "designation": "security Engineer",
+        "experience": "WORK EXPERIENCE ADEPT Force Group LLC \u2013 Senior Cybersecurity Engineer (Site Lead) \u2013 Oct 2017 \u2013 Present Lead Security My responsibilities include but are not limited to: Analyze, assess, evaluate, integrate, improve, implement, test, sustain, and maintain the system cybersecurity posture and capabilities required by the network domain operations compliance requirements Provide cybersecurity network domain C&A support and execute activities that include network domain operations requirements for the following networks: Joint Worldwide Intelligence Communications System (JWICS), Secret Internet Protocol Router Network (SIPRNET) Develop and prepare the required security control documents or artifacts, and conduct security control assessments, and security test and evaluation required by the respective network authorities and C&A processes such as the Risk Management Framework (RMF) Perform all necessary cyber domain activities to ensure the system baselines follow the respective network domain mandated standards, and authorization to connect requirements Develop and document security design artifacts and the associated security controls that are meeting the security acceptance criteria and package the accreditation and authorization documents in support of each domain C&A process Validate and perform security test evaluations and audits Assess security risk, research and recommend countermeasures in accordance with Army and DoD requirements, conduct formal security engineering assessments and security assessments Support on-site accreditation testing for networks at CONUS and OCONUS locations Netorian LLC \u2013 Senior Cybersecurity Engineer (Lead) \u2013 Feb 2016 \u2013 Oct 2017 Lead Security Engineer on a new U.S.\nArmy cybersecurity initiative/platform currently in Research and Development that is scheduled to be fielded within the next few years.\nMy responsibilities include but are not limited to: Provide technical guidance for directing and monitoring information systems operations.\nDesigns, builds, and implements network systems Direct compilation of records and reports concerning network operations and maintenance.\nTroubleshoots network performance issues.\nAnalyzes network traffic and provides capacity planning solutions Monitor and responds to complex technical control facility hardware and software problems.\nInterfaces with vendor support service groups to ensure proper escalation during outages or periods of degraded system performance Manage the purchase, testing, installation, and support of network communications, including LAN/MAN/WAN systems Plan large-scale systems",
+        "tax_term": "",
+        "confidence": 0.5566666666666668
+      }
+    }
+  ]
+}

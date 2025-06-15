@@ -1,0 +1,45 @@
+MICHAEL JOHNSON
+PRODUCT MANAGER
+michael.j@example.com
+(555) 456-7890
+
+CURRENT LOCATION
+Seattle, WA 98101
+Work Status: Green Card
+
+PROFESSIONAL PROFILE
+Product leader with 8 years of experience in SaaS and enterprise software.
+Track record of launching successful products and leading cross-functional teams.
+
+CAREER HISTORY
+Product Manager
+Enterprise Solutions Corp.
+2019 - Current
+• Launched new product line generating $5M in first year
+• Managed team of 5 product managers
+• Implemented agile development processes
+
+Associate Product Manager
+Startup Inc.
+2017 - 2019
+• Developed product roadmap and feature prioritization
+• Conducted user research and market analysis
+• Collaborated with engineering on technical specifications
+
+TECHNICAL SKILLS
+• Product Management: JIRA, Confluence, ProductBoard
+• Analytics: Google Analytics, Mixpanel, Amplitude
+• Design: Figma, Sketch, Adobe XD
+• Development: Basic Python, SQL, Git
+• Cloud: AWS, Azure
+
+EDUCATION
+Bachelor of Business Administration
+University of Washington
+2013 - 2017
+Dean's List, GPA: 3.8/4.0
+
+CERTIFICATIONS
+• Certified Product Manager (CPM)
+• AWS Certified Cloud Practitioner
+• Scrum Master Certification 

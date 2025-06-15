@@ -1,0 +1,44 @@
+Jane Smith
+Data Scientist
+jane.smith@example.com
+(555) 987-6543
+
+Location: San Francisco, CA 94105
+Work Authorization: H1B Visa
+
+Professional Summary:
+Data scientist with 5+ years of experience in machine learning and big data analytics.
+Expertise in Python, R, and deep learning frameworks.
+
+Experience:
+Senior Data Scientist
+AI Solutions Inc.
+2020 - Present
+- Developed and deployed machine learning models for customer segmentation
+- Led a team of 3 data scientists on predictive analytics projects
+- Implemented NLP solutions for text classification
+
+Data Scientist
+Tech Analytics
+2018 - 2020
+- Built and maintained ETL pipelines
+- Developed recommendation systems
+- Conducted A/B testing and statistical analysis
+
+Skills:
+- Programming: Python, R, SQL
+- Machine Learning: TensorFlow, PyTorch, scikit-learn
+- Big Data: Spark, Hadoop, Kafka
+- Data Visualization: Tableau, Power BI
+- Cloud: AWS, GCP
+
+Education:
+Master of Science in Data Science
+University of California
+2016 - 2018
+GPA: 3.9/4.0
+
+Certifications:
+- AWS Certified Machine Learning Specialist
+- Google Cloud Professional Data Engineer
+- Databricks Certified Associate Developer 

@@ -1,0 +1,83 @@
+{
+  "first_name": "Mehdi",
+  "last_name": "Haghdad",
+  "primary_email": "mhaghdad2014@gmail.com",
+  "secondary_email": null,
+  "phone": "9493931150",
+  "city": "Newport Beach",
+  "state": "CA",
+  "zip": "92612",
+  "work_authority": "Data And Other Needs",
+  "resume_link": ".Net - Data Lakes - Data Bricks - CA - Mehdi.doc",
+  "raw_resume": "Mehdi Haghdad\n\n62 Parkcrest\n\nNewport Beach, CA 92612\n\nCell phone: (949) 393-1150\n\nmhaghdad2014@gmail.com\n\n\n\nEDUCATION\n\nPhD, UCLA/University of California Davis\tObtained on 6/2003\n\nPhD in Electrical and computer engineering (in Smart Antenna Systems for Low Earth Orbit (LEO) Satellites)\n\n\n\nThe Royal Institute Of Technology, Stockholm, Sweden\n\nM.S. Degree: Telecommunications Engineering.\n\nB.S. Degree: Electrical Engineering \n\nB.S. Degree: Computer Science.\n\n\n\nSUMMARY\n\nI have almost 20 years of experience in advance engineering, 10 years of experience in big data, 8 years in cloud, Multi-Cloud, Azure, AWS, GCP, 7 years in Artificial Intelligence, ML DL CNN. I have worked for some of the most prestigious companies in Silicon Valley and other locations such as Lockheed Martin, Space Systems Loral, Microsoft (4 times as a senior solution architect for different multi-billion dollar clients), Hewlett Packard, Texas Instruments, Optum, Acxiom, Citibank, United Healthcare, Ericsson, ABB Atom, Adaptec Broad Logic, Dell, Argonaut Technologies, Bausch & Lomb, DARPA, Department of Defense (DOD) etc.\n\nI have been responsible for the development of many systems and applications from the designing board to the commercial release.\n\n\n\nOBJECTIVE\n\nPrimarily looking for consulting and contract work but also open to permanent positions. \n\nSenior solution architect Hands On!!, Senior developer, Architect, DevOps for advance engineering in Mulit-Cloud (Azure, AWS and GCP) Big Data, Artificial Intelligence. Can also help to build team and lead projects from conceptual design to commercial release.\n\n\n\nSenior Big Data and Cloud Architect Consultant / BI Solutions Architect / Data Management and Cloud Lead/ DevOps\n\n\n\n\n\nSKILLS\n\n18 years of solid working experience with a PhD from University of California UCLA/Davis \n\n17 years of experience as Hands-On Solution Architect, Team Lead, Specialist, Developer, doing Senior Big Data and Cloud Architect Consultant / BI Solutions Architect / Data Management and Cloud Lead\n\nCloud Architecture, Big Data Engineering, Machine Learning, Deep Learning, Data Scientist, Business Intelligence (BI), Data Warehousing System Engineering multi-tiered applications.\n\n9+ years of experience in Big Data, Hadoop, Spark, MapR, Cloudera, Hortonworks, Storm, Kafka Confluent, Hive, Impala, Flume, Sqoop, MapReduce, Pig, HBase, NiFi, oozie, Tableau Power BI, Cloudera visualization, QlikView Scala SBT (My Preference), Java Maven etc.",
+  "tax_term": "CONTRACT",
+  "source_by": null,
+  "skills": {
+    "programming": [
+      "java",
+      "scala"
+    ],
+    "frameworks": [
+      "nifi"
+    ],
+    "databases": [
+      "hbase"
+    ],
+    "cloud": [
+      "aws",
+      "azure",
+      "gcp",
+      "cloud architecture"
+    ],
+    "devops": [
+      "cloud architecture"
+    ],
+    "methodologies": [
+      "devops"
+    ],
+    "soft_skills": [
+      "consulting"
+    ],
+    "business_skills": [
+      "business intelligence",
+      "tableau",
+      "power bi"
+    ],
+    "data_skills": [
+      "data management",
+      "data engineering",
+      "machine learning",
+      "business intelligence",
+      "tableau",
+      "power bi",
+      "qlikview",
+      "scala",
+      "java",
+      "spark",
+      "hadoop",
+      "hive",
+      "pig",
+      "kafka"
+    ],
+    "domain_specific": [
+      "healthcare",
+      "defense",
+      "warehousing",
+      "telecommunications",
+      "education",
+      "space",
+      "architecture",
+      "engineering",
+      "electrical engineering",
+      "design",
+      "big data",
+      "artificial intelligence",
+      "machine learning"
+    ],
+    "sdlc": [
+      "cloud architecture"
+    ]
+  },
+  "designation": "Cloud Architect",
+  "experience": "20"
+}

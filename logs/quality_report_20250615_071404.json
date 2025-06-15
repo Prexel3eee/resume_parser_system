@@ -1,0 +1,1115 @@
+{
+  "timestamp": "2025-06-15T07:14:04.852302",
+  "summary": {
+    "total_processed": 18,
+    "successful_extractions": 18,
+    "failed_extractions": 0,
+    "success_rate": 100.0,
+    "ocr_usage_percentage": 0.0,
+    "avg_extraction_time": 16.8649287753635
+  },
+  "field_analysis": {
+    "empty_fields": {
+      "primary_email": 2,
+      "secondary_email": 18,
+      "phone": 10,
+      "city": 6,
+      "state": 6,
+      "zip": 8,
+      "work_authority": 16,
+      "tax_term": 12,
+      "source_by": 18,
+      "experience": 6
+    },
+    "field_confidence": {
+      "primary_email": [
+        0.0,
+        0.9,
+        0.9,
+        0.0,
+        0.9,
+        0.9,
+        0.9,
+        0.9,
+        0.9,
+        0.9,
+        0.9,
+        0.9,
+        0.9,
+        0.9,
+        0.9,
+        0.9,
+        0.9,
+        0.9
+      ],
+      "secondary_email": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "phone": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.9,
+        0.0,
+        0.9,
+        0.9,
+        0.0,
+        0.9,
+        0.0,
+        0.9,
+        0.9,
+        0.0,
+        0.9,
+        0.9
+      ],
+      "city": [
+        0.0,
+        0.0,
+        0.7,
+        0.0,
+        0.0,
+        0.7,
+        0.9,
+        0.7,
+        0.7,
+        0.9,
+        0.7,
+        0.7,
+        0.0,
+        0.7,
+        0.7,
+        0.0,
+        0.7,
+        0.7
+      ],
+      "state": [
+        0.0,
+        0.0,
+        0.9,
+        0.0,
+        0.0,
+        0.9,
+        0.9,
+        0.9,
+        0.9,
+        0.9,
+        0.9,
+        0.9,
+        0.0,
+        0.8,
+        0.9,
+        0.0,
+        0.8,
+        0.9
+      ],
+      "zip": [
+        0.0,
+        0.0,
+        0.7,
+        0.0,
+        0.0,
+        0.7,
+        0.9,
+        0.7,
+        0.7,
+        0.9,
+        0.7,
+        0.7,
+        0.0,
+        0.0,
+        0.7,
+        0.0,
+        0.0,
+        0.7
+      ],
+      "work_authority": [
+        0.0,
+        0.0,
+        0.8,
+        0.0,
+        0.0,
+        0.8,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "resume_link": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "raw_resume": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "tax_term": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.9,
+        0.0,
+        0.0,
+        0.9,
+        0.0,
+        0.0,
+        0.0,
+        0.9,
+        0.9,
+        0.0,
+        0.9,
+        0.9
+      ],
+      "source_by": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "designation": [
+        0.9,
+        0.8,
+        0.8,
+        0.9,
+        0.8,
+        0.8,
+        0.9,
+        0.8,
+        0.9,
+        0.9,
+        0.8,
+        0.9,
+        0.9,
+        0.9,
+        0.9,
+        0.9,
+        0.9,
+        0.9
+      ],
+      "experience": [
+        0.9,
+        0.9,
+        0.9,
+        0.9,
+        0.9,
+        0.9,
+        0.9,
+        0.9,
+        0.0,
+        0.9,
+        0.9,
+        0.0,
+        0.0,
+        0.0,
+        0.9,
+        0.0,
+        0.0,
+        0.9
+      ]
+    }
+  },
+  "skills_analysis": {
+    "categories": {
+      "technical_skills": {
+        "count": 0,
+        "skills": []
+      },
+      "business_skills": {
+        "count": 0,
+        "skills": []
+      },
+      "creative_skills": {
+        "count": 0,
+        "skills": []
+      },
+      "communication_skills": {
+        "count": 0,
+        "skills": []
+      },
+      "industry_skills": {
+        "count": 0,
+        "skills": []
+      },
+      "soft_skills": {
+        "count": 0,
+        "skills": []
+      },
+      "other_skills": {
+        "count": 0,
+        "skills": []
+      }
+    },
+    "total_skills": 0,
+    "unique_skills": 0
+  },
+  "resume_details": [
+    {
+      "resume_path": "data\\input\\.Net - TX - Hassan.pdf",
+      "confidence_score": 0.27,
+      "used_ocr": false,
+      "extracted_fields": {
+        "skills": {},
+        "first_name": "Hassan",
+        "last_name": "Mwase",
+        "primary_email": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "secondary_email": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "phone": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "city": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "ner",
+          "structured_data": null
+        },
+        "state": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "zip": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "regex",
+          "structured_data": null
+        },
+        "work_authority": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "resume_link": {
+          "value": "data\\input\\.Net - TX - Hassan.pdf",
+          "confidence": 1.0,
+          "method": "file_path",
+          "structured_data": null
+        },
+        "raw_resume": {
+          "value": "  \nHassan Mwase  \n \nProudly presented by Hassan Mwase  IT professional with 1 6+ years of experience as a software developer/solution architect  on multiple \nlarge complex  project s and production support for a variety of clients  including most recent \nexperience developing Web applications . Proficient in analysis, design, development, testing, \nintegration and troubleshooting skills.  Result oriented back -end and front -end developer with \nexceptional analytical skills, team oriented, dependable and very flexible. Experience with \nWaterfall and JIRA Agile methodologies.  \n \nTechnical Skills  \n\uf0b7 Experienced Software development of Web applications using  Azure DevOps, Cloud, Git, \nASP.NET Web Applicati on, ASP.NET Web Forms , ASP.NET MVC,  C#, .NET \nFramework, Kendo UI , JavaScript,  Razor,  Angular  JS, CSS 3, jQuery , bootstrap, Ajax, \ndependency injection,  JSON, LINQ, HTML5,  Microsoft Visual Studio enterprise 201 7, \nActive Server  Pages extended files,  Eclipse , Test Driven Development (TDD ), Selenium \nFramework, Web Services, Postman, Visual Studio code , DevExpress, SQL Server \nManagement Studio . \n\uf0b7 Proficient in analysis, design, development, testing, integration and troubleshooting skills.  \n\uf0b7 Experience with Waterfal l and JIRA Agile methodologies .  \n\uf0b7 Result oriented back -end and front -end developer with exceptional analytical skills, team \noriented, dependable and very flexible.  \n\uf0b7 Familiarity with REST/ HTML/CSS 3.  \n\uf0b7 Excellent relational database experience using Oracle and  SQL Server  including writing \nPL/SQL, SQL stored procedures, functions, triggers and views.  \n\uf0b7 Experience developing using Oracle Database,  Oracle Forms, Oracle Reports,  SQL*Plus, \nPL/SQL, UNIX, Pro*C . \n\uf0b7 Knowledge of Java/J2EE architecture/technologies,  WebSphere , Test Driven \nDevelopment TDD  and Oracle ADF , ODBC  \n\uf0b7 Writing unit tests with NUnit and Moq  \n\uf0b7 Familiar with Regular Expression and Pattern Matching.  \n\uf0b7 SQL Server \u2013 Microsoft SQL Server Management Studio v.18.8 , Visual Studio 2017, \nMicrosoft SQL Server To ols for Visual Studio, GraphiViz 2.38 \u2013 This is used in the PMEF \nNEDAT and new NSIGHT application as an API for creating bubble visualization images.  \nMicrosoft Internet Information Services  (IIS) version 10  web server . OleDB API \nUncovered errors in timeshe et contracts and Provided guidance in resolving major issues \nfrom past years. Applied fix to application code.  \n \n \nProfessional Experience  \n \nSecret Security Clearance  11/2020 to 11/2030                        May. 2020  \u2013 Present  \nSenior Software Programmer/Analyst Consultant /Agile developer  \nTools : .NET, ASP.NET C#, Web Forms .Net Framework ver.4.6, JavaScript, CSS3,  jQuery, \nbootstrap v4.0.0 , JSON, LINQ, HTML5, Visual Basic 201 7, Microsoft Visual Studio enterprise,  \nHassan Mwase           Page 2 \nProudly presented by Hassan Mwase  Developer, Web Services, Web Forms, Databases: SQL Server  and Oracle , Microsoft team TSF  \ndevelopment environment  \n\uf0b7 Develop web applications using C#,  ASP.NET and JavaScript . \n\uf0b7 As a senior developer, I develop, enhance  and Support critical federal Government  \nprojects.  \n\uf0b7 Develop and maintain multiple web applications written in ASP.NET, C#, JavaScript,  \nand Web Forms.  \n\uf0b7 Participate in project meetings with other technical staff, business owners and subject \nmatter experts.  \n\uf0b7 Troubleshooting and debugging Defects  \n\uf0b7 Write automated UI test script using ServiceNow ATF  Framework . \n \n \nFarmers Insurance  \u2013 USA                                                                      Sept. 2018  \u2013 Aug. 2020  \nSenior Programmer/Analyst Consultant /Agile developer  \nTools : .NET, ASP.NET C#, MVC, Web Forms  .Net Framework ver.4.6, JavaScript,  CSS3,  jQuery, \nbootstrap  v4.0.0, JSON, LINQ, HTML5, Visual Basic 201 7,  Microsoft Visual Studio enterprise,  \nDeveloper, Selenium Framework, Web Services, Web Forms, Databases: SQL Server  and DB2 ,  \nMicrosoft team TSF  development environment  \n\uf0b7 Develop web applications using C#, Azure DevOps, Git, ASP.NET MVC , JavaScript, \njQuery, Razor MVC . \n\uf0b7 Develop and maintain multiple customer web applications written in C# , JavaScript and \nWeb Forms.  \n\uf0b7 Participate in project meetings with other technical staff, business owners and subject \nmatter experts.  \n\uf0b7 Troubleshooting and debugging Defects  \n\uf0b7 Write automated UI test script and fix defects using Selenium Framework . \n\uf0b7 Write unit tests with NUnit and Moq  \n \nBoeing  Company  \u2013 USA                                                                              Feb. 2018  \u2013 Sept.2018  \nSenior Programmer/Analyst Consultant /Agile developer  \nTools : .NET, ASP.NET MVC ,C#, MVC,  Dependency Injection DI,  .Net Framework ver.4.6, \nJavaScript, Razor,  Angular  JS,  CSS3, jQuery, bootstrap , JSON, LINQ, HTML5 ,  Microsoft Visual Studio \nenterprise 201 7, PL/SQL, SQL D eveloper, Databases: Oracle 12C and SQL Server  , JIRA  Agile , Microsoft \nteam TSF development environment  \n\uf0b7 Develop se rver side C# pages, create entities in the relation object mapping to modernize \nBoeing data ERP application  using  ASP.NET MVC framework .  \n\uf0b7 Manage Agile task board .  \n\uf0b7 Design and develop back -end Database stored procedures, functions, triggers and views . \n\uf0b7 Code C# interfaces, Classes, view models, API controllers  and data services web resources.  \n\uf0b7 Develop server side XHML5 web pages leveraging angular JS  and jQuery. \n\uf0b7 Code C# Dependency Injection processes \u2013 DI Manager interfaces, DI Manager classes, \nDependency  Injection configuration and API Controllers .   \nHassan Mwase           Page 3 \nProudly presented by Hassan Mwase   \n \nCliffs Natural resources  - Cleveland , OH                                                    July 2016  \u2013 Dec. 2017  \nSenior Programmer/Analyst Consultant  \nTool s: .NET, C#, MVC,  .Net Framework ver.4.6, JavaScript, Angular JS, CSS, JSON, LINQ, HTML5,  \nMicrosoft Visual Studio enterprise 2015,  PL/SQL, Postman , SQL Developer , Toad,  Databases: Oracle  \n12C and SQL Server   \n\uf0b7 Re-designed the Oracle ERP application and convert oracle  forms and reports  web application \nusing  ASP.NET MVC framework . \n\uf0b7 Create d Technical specs based on user desired functionality changes.  \n\uf0b7 Design and develop back -end Database stored procedures, functions, triggers and views . \n\uf0b7 Coded  C# interfaces, Classes, view models, JavaScript controllers  and data services web \nresources.   \n\uf0b7 Develop front end web content XHML 5 web pages  leveraging angular  JS. \n\uf0b7 Code system enhancements, defect fixes  and production support .   \n\uf0b7 Commit and publish finished web application solutions.  \n\uf0b7 Support project and business users to Create  Unit Test, integration, and UAT test scenarios and \nscripts, as well as, performing system and integration testing.   \n\uf0b7 Design, build and implement client and server side applications  as needed , as well as \nsupporting and enhancing custom applications.  \n \nGap Inc. - Columbus , OH                                               July 2015 \u2013 Nov. 2015 \nSenior Programmer/Analyst Consultant /Agile developer  \nTools : Oracle 11G, PL/SQL, SQL Developer, Toad, JDeveloper,  Oracle 11G Web logic environment, \nEclipse, JavaScript,  Ruby , Eclipse, WebSphere, Tomcat,  JIRA Agile development environment.  \n\uf0b7 Onsite team lead working with product managers and business users to re-design the on -\nline order fulfillment process from batch processing to on -demand and transform oracle \ninterface based application to Web UI .  \n\uf0b7 Technical lead for on -site/offshore developers and QA.  \n\uf0b7 Convert legacy forms application to Web  UI using Java Script. \n\uf0b7 Coded supporting stored  procedure s, functions, packages  and views . \n\uf0b7 Assisted to test conver sion of  character based SSH screens for RF devices to a stateless \nHTML user interface, update to the tech stack from Oracle Forms to Java6/HTML5, \ndesigned to  extend the life of a legacy Warehouse Management System(RWMS)   \n\uf0b7 Create  test cases , run automated system tests and validate  output of Ruby automated testing \nfor process online customer orders.  \n\uf0b7 Support warehouse order processing and shipment message queues (MQ) .  \n\uf0b7 Create d Unit Test , integration, and UAT test scenarios and  scripts, as well as, performing \nsystem and integration testing. Write integration testing cases.   \nCliffs Natural Resources - Cleveland , OH  June 2011  \u2013 April 2015  \nSenior Programmer  Consultant  \nTools : Oracle 11G, SQL Server, Oracle Forms, Oracle Forms, .NET, C#, MVC,.Net Framework, \nJavaScript, HTML5,  Microsoft Visual Studio enterprise 2015,  PL/SQL, SQL Developer, Toad  \n\uf0b7 Support business functions through the development, implementation, and maintenance \nof applications systems.  \nHassan Mwase           Page 4 \nProudly presented by Hassan Mwase  \uf0b7 Responsible for Maintenance and support of Company ERP application, support various \nenterprise applications enhancements and code extensions, build and apply fixes.  \n\uf0b7 Maintained and coded database objects such as procedures, functions, packages and \ninterfac e that support ERP applications, ASP.NET MVC, .Net Framework and Object \nBusiness Intelligence  Enterprise Edition (OBIEE).  \n\uf0b7 Coded PL/SQL subprograms that were called by the front -end application written in C#  \nand ORM Entity framework .  \n\uf0b7 Worked with applicatio n managers to g ather requirements and build solutions based off of \nuser requirements and build enhancements . \n\uf0b7 Proactively assess opportunities, risks, challenges for technology and business, define \nscope, plan and schedule of custom enhancements.  \n\uf0b7 Consistent ly exceeded project requirements and expectations on -time delivery.  \n \nWalt Disney World  - Orlando , FL Feb.2008  \u2013 Aug.2010  \nLead  Senior Programmer/Analyst Consultant  \nTools:  Oracle 10G, Oracle Retail supply chain, Oracle Retail Merchandizing, Oracle Database, Oracle \nForms, Oracle Forms, PL/SQL, S QL Developer, Toad  \n\uf0b7 As project Stream lead, managed  full lifecycle implementation effort. Engaged client managers to \nreview project plans, timelines and deliverables.  \n\uf0b7 SME lead Oracle WMS/RMS implementation/integration contractor and client developer  team . \n\uf0b7 Responsible for analysis, design and final delivery of functioning and technical integrated multiple \nfacility warehouse. Setup and configure environments.  \n\uf0b7 Designed, wrote code  and tested application enhancements, mod ifications, and interfaces. \nSupported post go -live including system integration stabilization, inventory stock on hand \nimbalance resolution between RWMS13.x and RMS13.x issue resolution and knowledge transfer \nto Disney IT personnel.  \nCato Corporation, 8100 Denmark Road, Charlotte, NC   Dec. 2007 \u2013 Aug. 2008  \nProject  Lead - Senior Programmer/Analyst Consultant  \nLead technical consultant, to upgrade  RMS . Plan and recom mend most efficient upgrade strategy of all \ncurrent Oracle retail application modules  to be web -based.   \nTesco Central Europe Prague , Czech Republic  Aug.2007 \u2013 Oct.2007  \nLead Senior Programmer/Analyst Consultant  \nLead functional and technical RWMS Project lead consultant,  build and deploy Oracle Retail \nWarehouse Management System for both Prevov Fresh DC and Ambient DC . Review foundation and \ntransactional data to ensure successful build, test and implementation process  of Slovakian DC in \nPresov  \nIBM - Circuit City Richmond , VA Aug.2006 \u2013 July 2007  \nSenior Analyst Consultant  \nTools: RWMS 10.3 , UNIX, Pro*C, Oracle Database, SQL*Plus, PL/SQL, Oracle Reports, Oracle Forms, \nOracle, RIB  \nLead technical analyst to assist RMS11 implementation and integration . Worked on Purchase \nOrder , Cost and Deals team .  \n \nGAP Inc.  \u2013 Columbus , OH 2005 \u2013 2006  \nSenior Analyst Consultant  \nHassan Mwase           Page 5 \nProudly presented by Hassan Mwase  Tools: RWMS 10.3 , UNIX, Pro*C, Oracle Database, SQL*Plus, PL/SQL, Oracle Reports, Oracle Forms, \nOracle, RIB  \nDevelopment team lead developer on the WMS system - a highly customized version of Oracle \nRetail WMS.   \n \nRetek /Oracle  \u2013 Minneapoli s, MN  2003 \u2013 2005 \nSenior Developer  \nTools: RWMS 10.3 , UNIX, Pro*C, Oracle Database, SQL*Plus, PL/SQL, Oracle Reports, Oracle Forms, \nOracle, RIB  \n\uf0b7 Technical lead/supervisor of Retek WMS Developer and customer product support.  \n\uf0b7 Developed RWMS 10.3 /RMS 10.3 and RIB hospital application support interface. On -site DC \noperation s support and technical lead for RWMS/RIB  at the Navy Exchange Norfolk \nVirginia   .  \n \n \n \nEducation  \n \nBachelor of Commerce  \nUniversity of Calgary, Calgary, Alberta  \n \nComputer Programming  \nYork University, Toronto, Ontario  \n \nCertification  \nOracle Certified Professional \u2013 Certified Oracle DBA  \n \n \n",
+          "confidence": 1.0,
+          "method": "full_text",
+          "structured_data": null
+        },
+        "tax_term": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "source_by": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "designation": {
+          "value": "software developer",
+          "confidence": 0.9,
+          "method": "ner",
+          "structured_data": null
+        },
+        "experience": {
+          "value": "6+",
+          "confidence": 0.9,
+          "method": "regex_total_experience_summary",
+          "structured_data": null
+        }
+      }
+    },
+    {
+      "resume_path": "data\\input\\Affzal_SrDeveloperResumeS.pdf",
+      "confidence_score": 0.48500000000000004,
+      "used_ocr": false,
+      "extracted_fields": {
+        "skills": {},
+        "first_name": "AFFZAL",
+        "last_name": "ABDUL",
+        "primary_email": {
+          "value": "Affzal.sql@gmail.com",
+          "confidence": 0.9,
+          "method": "regex",
+          "structured_data": null
+        },
+        "secondary_email": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "phone": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "city": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "ner",
+          "structured_data": null
+        },
+        "state": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "zip": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "regex",
+          "structured_data": null
+        },
+        "work_authority": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "resume_link": {
+          "value": "data\\input\\Affzal_SrDeveloperResumeS.pdf",
+          "confidence": 1.0,
+          "method": "file_path",
+          "structured_data": null
+        },
+        "raw_resume": {
+          "value": " \nAFFZAL ABDUL  \nDeveloper  Sr. \nEmail:Affzal.sql@gmail.com  \nM: 361 -330-0666  \n \nPROFESSIONAL SUMMARY  \n \n\u2022 Over 9 years  of experience ranging software development, testing, assurance, and implementation and working in \ncomplex engagements.  Prominently has experience in data warehousing and Business Intelligence technologies using \nMS SQL Server 2000/2005/2008R2/2012/2014 &  2016 on Azure.  \n\u2022 Solid 8 years in depth experience  in MS SQL Server database development and administration  in enterprise \nenvironment including server installation, configuration, upgrade, maintenance, performance tuning , optimization, \nbackup/restore, recovery, migration, monitoring, security planning and trouble -shooting.  \n\u2022 Good understanding in database and data warehousing concepts (OLTP & OLAP)  and also data analysis  along with \nvisualizations using Tableau  and Sisense . \n\u2022 Experience in bo th building and utilizing DevOps  pipelines for the projects which started brand new and legacy systems .  \n\u2022 Leverage strong communication and interpersonal skills to cultivate strong working relationships with clients, vendors \nand offshore partners.  \n\u2022 Worked in dependent and as a team with strong critical thinking, time  management  and proven handling of \nresponsibilities and projects.  \n\u2022 Experience in Information Technology field as a n SQL server Developer with strong expertise in  SQL server \ndevelopment, Physical/Logical design, designing Stored -Procedures/T -SQL coding, Troubleshooting, Backups and \nRestore of databases,  SSIS/SSRS, OLTP and OLAP.  \n\u2022 Experience in creating visualizations on the data and created cosmetic clear dashboards  on top of the analyzed data  in \nboth Tableau and PowerBI . \n\u2022 Transformed data from one source  to other destinations  using tools like SSIS , Informatica  PowerCenter . \n\u2022 Experience in Optimizing  Code and Improving Efficiency in databases including  Re-indexing, Updating Statistics, \nRecompiling Stored Procedures  and performing other maintenance tasks and DBCC Commands.  \n\u2022 Good understanding of Microsoft Reporting  Service  (SSRS) with Report authoring , Report management , Report \nformatting, Report distribution, Report delivery and Report security.  \n\u2022 Extensive time spent on POC for Sisense  to be used in data visualization purposes and thereby  have to stick with using \ntableau for visualization purposes of the business data.  \n\u2022 Experience in enhancing and deploying the SSIS Packages from development server to production server.  Migrated  \nDTS packages into SSIS packages using upgrade advisor tool.  \n\u2022 Used Database Monitoring tools like profiler, performance monitor  and Event viewer.  Good understanding in SQL user \nlogins, database user accounts, server roles, database roles and its permissions . \n\u2022 Experience in integrating the SSRS reports into web applications using Report viewer control, URL methods and \ncreating data driven subscriptions to different users using Report Manager.  \n\u2022 Expertise in PowerShell  Scripting / Python  and making REST  API calls to pull data and also load it to databases.   \n\u2022 Expert ex perience in handling huge volume of data and transforming and cleansing of data and raw data.  Involved in \nhuge data migrations, transfers using BCP, SSIS and Informatica PowerCenter  from SQL Analysis server, Teradata, \nOracle . \n\u2022 Experience in Agile methodology in the SDLC process ( both scrum & Kanban).  \n \n \nEducation Background  \n \n\u2022 Bachelor of Engineering (Information Technology) - Osmania University, India. (2005 -2009)  \n\u2022 Master\u2019s in Information Technology and Management \u2013 IIT, Chicago. (2010 -2012)  \n \n \nTECHNICA L SKILLS  \n \nSQL Server Tools   : Enterprise Manager, Profiler, Query Analyser, Memory Optimization Advisor  \nExport & Import (SSIS), SSRS . \nRDBMS   : MS SQL Server 2005/2008 , 2012 , 2014 , 2016.MS  Access, Oracle  11g, Teradata . \nETL   : SSIS, Informatica  Power Center (9.5 & 10.2) . \nProgramming Languages  : SQL, T -SQL, PL-SQL, Core Java, C #, UNIX , PowerShell  and Vbs  \nInternet Technologies  : IIS, XML, HTML.  \nProductivity Applications  : MS Office Suite along with Outlook.  JIRA . \n \nOperating System  : Windows95/98, Windows 2000/NT/XP , 2003 , 7, MS DOS.  \nReporting Tools   : Crystal Reports 11, SSRS , ARMS reporting , Sisense, and Tableau . \nDesign Documentation              :           UML, MS Visio  \nOther  Tools    :            Tidal , Control -M, VSS, TFS, GIT,  SVN.  \n \n \nPROFESSIONAL EXPERIENCE  \n \nAnthem Inc. , Norfolk , VA                                                                         Mar 2017\u2013 Till date  \nDeveloper  Sr. \n \nAnthem Inc . is an American  health insurance company  founded in the 1940s, prior to 2014 known as  WellPoint, Inc. It is \nthe largest for -profit  managed health care  company in the  Blue Cross and Blue Shield Association . It covers 7 .7 million \nseniors, people with disabilities, low -income families and other state and federally sponsored beneficiaries, and federal \nemployees in 26 states, making it the nation\u2019s largest provider of health care for public programs . \n \nResponsibilities:  \n \n\u2022 Expertise in Provider  dealing with legacy system to load files from states into the FACETS application.  Expertise in \nProvider business domai n area and the flow of the FACETS  application. in-depth knowledge of both providers in \nFACETS.  \n\u2022 Apply the Business rules on the data coming from multiple operating markets. Maintain the business rules in a table for \nvisibility to all required processes.  \n\u2022 Actively worked in gathering requirements with SA and PO to convert them to technical documents for the deve lopment \nto initiate in Jira.  \n\u2022 Used JIRA, SVN Tortoise  & Bit bucket  for code repository and logged / tracked the activities in the team. Also CTU tool \nfor code deployments.  \n\u2022 Used  Splunk  for parsing complex files and  Splunk language ( SPQL ) to make the searches and created dashboards on \nthe data. Also configured notifications as requested by the business.  \n\u2022 Did POC  for DevOps tools and deeper research on both Sisense  and Tableau  tools for utilizing them as data \nvisualization purposes across the provider department.  \n\u2022 Have hands on experience in pulling data from JIRA using REST calls thru PowerShell scripting and load them to SQL \ndb. Also did dashboards on the loaded data and provi ded support for the created dashboards in tableau . \n\u2022 Used Python  to massage the data in REST calls using JIRA libraries and loading them to database. Built dashboards \non top the loaded data for project management team.  \n\u2022 Checked the configuration and performance of the existing databases including data file allocation, index, fill factor, \nfragmentation and the impact on system performance. Analyzed potential problems (response delay, locking, server \ndown time, etc.) to avo id and optimize.  \n\u2022 Actively involved  with production support ( 24*7) and Development environment.  \n\u2022 Used Premise  to trace the slow running queries and tried to Optimize SQL queries for improved performance and \navailability. Also used precise tool for reviewin g the performance.  \n\u2022 Actively involved in code reviews and mentoring the developers. And also involved in development activities.  \n\u2022 Excellent Team Building, Project Management, Analytical, Interpersonal & Communication Skills.  \n\u2022 Extensively worked and did resear ch on Redgate  suite tool belt and implemented them across the whole team.  \n\u2022 Have hands on experience in pulling data from JIRA using REST API calls thru PowerShell scripting and load them to \nSQL db. Also did dashboards on the loaded data and provided support for the created dashboards in tableau.  \n\u2022 Participated in Informatica  DVO  trainings and started extensive use of the tool as part of the DevOps roadmap.  Also \ndid POC  on icedq  and attended trainings.  \n\u2022 Built SQL pipelines using Redgate tool belt  in bamboo and deeper knowledge of branching strategy.  \n\u2022 Used both SonarQube  and Veracode  in the DevOps pipelines using Bamboo . \n\u2022 Built the automation framework for reducing the regression test cycle efforts.  \n\u2022 Used Informatica  PowerCenter  and SSIS  to both move and modify data from different environments and optimized \nworkflows.  \n\u2022 Proficient in SSIS ETL packages  & Informatica workflow  designing and development for various complex solutions \nincluding files processing, Incremental loads, historical data maintena nce. Extensively used Configurations, Logging, \nDebugging using breakpoints, Check points, Transactions, Error and Event Handling . \n\u2022 Assisted team in adding new data concepts and developing new data model development methodologies, principles, \nstandards and g overnance considering process optimization aspects.  \n\u2022 Worked on Tidal to schedule the jobs needed and configure them to receive the notifications on demand basis.  \n \n\u2022 Actively in Cloud  CoE trainings and completed AWS Cloud practitioner course.  \n\u2022 Creation of POC and doing architecture POC for upcoming AWS  engagements.  \n \n \n \nEnvironment : MS SQL Server 2016, 2014/2012/2008/2005/2000(SSMS), Visual Studio 2010/2012 ,2017 , TFS, VSS, \nReporting Services (SSRS), Integration Services (SSIS) , Informatica  PowerCenter , T-SQL,  PL-SQL,  .Net, Redgate tools, \nPowerShell Scripting,  python, Excel , Sisense, Tableau.  \n \n \n \n \nAccordant, A CVS Caremark Company, Greensboro, NC                                                                May 2015 \u2013 Mar 2017  \nSr. SQL  DBA  /Developer  \n \nAccordant Health Services , a CVS Caremark company, is a recognized leader in delivering disease management and case \nmanagement services for people with rare chronic conditions.  It has been providing value -added services on behalf of our \ncontracted clients such as health plans, emplo yers, and third -party  administrators (TPAs) for more than 14 years.  \n \nResponsibilities:  \n\u2022 Installation of MS SQL 2012  enterprise edition  on production, Test and Development environments . \n\u2022 Configured many alerts for sql server ongoing health checks and disk space alerts.  \n\u2022 Took part in design and implementation of Log shipping on few instances for the development and testing teams.  \n\u2022 Involved in Business requirement gathering, Technical Design Documents, Business use cases and Data mapping.  \n\u2022 Extensively worked on SSIS , designed and created mappings using various SSIS transformations like  \nOLEDB Command, Conditional Split, Lookup, Aggregator, Multicast, lookup and fuzzy logic.  \n\u2022 Developed SQL scripts to Insert/Update and Delete data in production Environment. Develop a nd implement policies \nand standards for preserving the integrity and security of data.  \n\u2022 Configure SSIS Package for run time Parameters and Configuration file.  Set the Standards for ETL development for the \nteam to follow on naming standards and best practice s for the meta -data, event handling and logging  \n\u2022 Strong expertise in writing stored procedures and performance optimization for the poor running queries. Good T -SQL \nProgramming skills.  \n\u2022 Worked with the development team to implement data strategies, build data flows and develop data models.  \n\u2022 Used Reporting Services (SSRS) to schedule reports to be generated on predetermined time.  \n\u2022 Generated on -demand and scheduled reports for business analysis or management decision using SQL Server \nReportin g Services (SSRS).  \n\u2022 Used Team Foundation Server and Visual Source Safe as a version control tool.  Migrated objects and solutions from \nvisual source safe to TFS. \n\u2022 Experience in deploying created reports in various sources like Web browser, XML and PDF.  \n\u2022 Used S QL Server Profiler to trace the slow running queries and tried to Optimize SQL queries for improved performance \nand availability.  Implement table partitioning  to avoid table level locking issues when different operating company\u2019s \ndata process is initiated at the same time by locking at partition level.  \n\u2022 Good understanding of Microsoft Reporting Service (SSRS) with Report authoring, Report management, Report \nformatting, Report distribution, Report delivery and Report security.  \n\u2022 Extensive experience in Capacity  planning, Performance Tuning, Disaster Recovery, Troubleshooting procedures . \nActively took part in disaster recovery planning and handled the real time issues.  \n\u2022 Also worked on ARMS  reporting application where I have hands -on experiencing in formatting reports, scheduling and \ndelivery of reports.  \n\u2022 Has good exposure to deploy the solutions in cloud platform and also storage usage.  \n\u2022 Involved in implementing business rules on client files  and membership files from the client and mock the data to \nrequired frequencies and also developed mechanism to alert when frequencies are not met on the fields in \nimplementation.  \n\u2022 Has hands -on experience in deploying the ssis packages to both file and serv er levels.  \n \n \nEnvironment : MS SQL Server 2014/2012/2008/2005/2000(SSMS), Visual Studio 2010/2012, TFS, VSS, Reporting \nServices (SSRS), Integration Services (SSIS), T -SQL, .Net, Excel.  \n \n \n \nFirstView Financial LLC, Atlanta, GA                                                         July 2011 \u2013 May 2015  \nSr. SQL DBA  /Developer  \n \nFirstView Financial LLC, Atlanta, GA provides prepaid debit card solutions enabling clients to enjoy all the benefits of \noperating a fully custom prepaid d ebit card program.  \n                                                                                                                                             \nResponsibilities  \n\u2022 Installation of MS SQL 2008 R2 servers on production, Test and Development boxes . \n\u2022 Developed ETL solutions using SQL Server Integration Services (SSIS) to import data based on requirements for \neasy/less maintenance and easy upgrade.  \n\u2022 Employed condition -based  notifications to let the user know the status of the Agent job s. \n\u2022 Developed complex SSIS packages  using proper control flow tasks  and data flow  transformations as per business \nrequirements.  \n\u2022 Migrated data from EXCEL and Flat files using SSIS packages to load data to the relational database in SQL Server \n2008R2 supporti ng BI solutions.  \n\u2022 Implemented Jaro -Winkler distance algorithm to calculate the similarity between strings in Sql server.  \n\u2022 Developed custom vb scripting for use in building custom functionality in job alerts.  \n\u2022 Developed dynamic SQL and dynamic store procedures, views, indexes, CTEs, cursors for business needs.  \n\u2022 Developed test scripts and environment of the developed SSIS solutions and the loaded data.  \n\u2022 Developed complex SQL scripts based on the business requirements in SQL Server databases.  \n\u2022 Implemented Disaster Recovery plans using Database Mirroring and Log Shipping.  Participated  in disaster recovery \ndrills and played important role in DR restoration.  \n\u2022 Controlling day to day activities of Production database and troubleshooting the issues.  \n\u2022 Researched and implemented SQL Server Auditing 2008 on SQL Servers for Auditing needs.  \n\u2022 Supported SSAS cubes as part of production support and monitored the loading process.  \n\u2022 Involved in requirement gathering, technical documentation Phases, supporting testing . \n\u2022 Created ETL jobs to load and clean gigabytes of data and also handled partitioning of the tables in ETL as a part of \nperformance tuning while handling huge volume of data.  \n\u2022 Provided production support and resolved production tickets.  \n\u2022 Handled  user requested issues through Service Tickets.  \n\u2022 Involved in Change Control Management is the discipline of systematically identifying and controlling change requests \nto a project from both internal and external sources.  \n\u2022 Migrated SQL Server 2005 database to  MS SQL Server 2008  \n\u2022 Designed and implemented comprehensive Backup plan and disaster recovery strategies Implemented.  \n\u2022 Created database objects like tables, views, indexes, stored -procedures, triggers, cursors   \n\u2022 Successfully implemented Database Mirroring in  SQL Server 2008  \n\u2022 Successfully Configured Snapshot, Transactional and Transactional with updatable subscription in Replication.  \n\u2022 Created Maintenance Plans for production servers (Full, Differential and Transactional Backups).  \n\u2022 Monitored and modified Performan ce using execution plans and Index tuning.  \n\u2022 Installation of 32 bit and 64 Oracle 10g client and applied DST Patches for Oracle Linked servers  \n\u2022 Co-coordinating with the programmer analyst for optimizing query, writing stored procedures.  \n\u2022 Conducting Root Cause Analysis of application availability and narrow down to issues related to coding practices, \ndatabase bottlenecks, or network latency  \n\u2022 Creating logins, groups, users, roles, database devices, databases, mirroring  devices, checking for database \nconsiste ncy, fixing DBCC errors, monitoring  error logs, database space allocations, transaction log space allocations , \nfine tuning SQL performance.  \n\u2022 Resolving Locking and Blocking issues by using various SQL  server internal commands  \n \nEnvironment  \nMS SQL Server 2008R2 Enterprise Edition, Oracle, SSMS, SSIS, SSRS , TOAD, SQL Plus, OLAP , OLTP, T -SQL, MS Excel, \nMS Access, Unix, MS Visual Studio.Net, VB, XP professional,2003, Crystal Reports XI.  \n",
+          "confidence": 1.0,
+          "method": "full_text",
+          "structured_data": null
+        },
+        "tax_term": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "source_by": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "designation": {
+          "value": "Developer",
+          "confidence": 0.8,
+          "method": "regex",
+          "structured_data": null
+        },
+        "experience": {
+          "value": "9",
+          "confidence": 0.9,
+          "method": "regex_total_experience_summary",
+          "structured_data": null
+        }
+      }
+    },
+    {
+      "resume_path": "data\\input\\Data Entry - NY - Lauren.pdf",
+      "confidence_score": 0.645,
+      "used_ocr": false,
+      "extracted_fields": {
+        "skills": {},
+        "first_name": "Lauren",
+        "last_name": "Dubin",
+        "primary_email": {
+          "value": "laurendbrnx2005@aol.com",
+          "confidence": 0.9,
+          "method": "regex",
+          "structured_data": null
+        },
+        "secondary_email": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "phone": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "city": {
+          "value": "Bronx",
+          "confidence": 0.7,
+          "method": "ner",
+          "structured_data": null
+        },
+        "state": {
+          "value": "NY",
+          "confidence": 0.9,
+          "method": "zip_database",
+          "structured_data": null
+        },
+        "zip": {
+          "value": "10468",
+          "confidence": 0.7,
+          "method": "regex",
+          "structured_data": null
+        },
+        "work_authority": {
+          "value": "S",
+          "confidence": 0.8,
+          "method": "regex",
+          "structured_data": null
+        },
+        "resume_link": {
+          "value": "data\\input\\Data Entry - NY - Lauren.pdf",
+          "confidence": 1.0,
+          "method": "file_path",
+          "structured_data": null
+        },
+        "raw_resume": {
+          "value": "Lauren Dubin  \n2835 WEBB AVENUE APT. 8G  \nBRONX, NY 10468  \nCELL:  917 -392-2569  \nPHONE/FAX (718) 549 -3568  \nlaurendbrnx2005@aol.com  \n \nPROFESSIONAL SUMMARY  \n \nA skille d and dedicated Administrative, Data Entry, and Customer Service professional with  10 years experience \ncoordinating, planning, and supporting daily operational functions. Excellent written and oral communication skills. \nExperience handling sensitive and confidential business. Superior organizational and multi -tasking skills. Ability to \nwork independently with minimal supervision, as well as in team environment. Highly motivated individual with \nprofessional demeanor.  \n \nSKILLS  \n \nData Entry, Typing (80+ WPM), Transcription, Medical Scribe, fast long -hand, familiarity with ICD -10 medical \ncoding, insurance, pre -certifications/authorizations, Windows 10, Microsoft Office 365 which includes Word  2019 , \nExcel  2019 , PowerPoint  2019 , Access  2019 , Outlook , and Publisher, Eudora, EPIC, NextGen, Athena, Mozilla \nFirefox & Thunderb ird, Adobe applications , Mac computers, electronic tablets, QuarkXPress, PC DOCS, medical \nterminology, Electronic Medical Records, most transcription systems including internet applications, and voice \nrecognition software such as PowerScribe, Legal word pr ocessing centers, recep tion including Call Centers, clerical, \nscanning, data entry, customer service, computer tech support/Help Desk (problem solving & troubleshooting  \nabilities) , maintaining filing and database systems . \n \nPROFESSIONAL EXPERIENCE  \n \nMetropol itan Transportation Authority     August 2017 -PRESENT  \nBronx, NY \nData Entry/Office assistant  \n\u2022 Comparing data entered with source documents.  \n\u2022 Correcting errors when appropriate.  \n\u2022 Maintaining required records of all completed work and compiling weekly reports.  \n\u2022 Assist in maintaining filing system by organizing, purging, maintaining and retrieving files.  \n\u2022 Clerical duties as assigned  \n \nAcacia Network, Bronx, NY       December 2016 \u2013 June 2017  \nMedical Scribe  \n\u2022 Anticipate physician needs to facilitate the flow of clinics.  \n\u2022 Accurately and thoroughly record patient medical history an d physical exam, procedures and treatments \nperformed by healthcare professionals, including nurses and physician assistants.  \n\u2022 Patient education and explanations of risks and benefits, physician -dictated diagnoses, prescriptions and \ninstructions for patient or family members for self -care and follow -up. \n\u2022 Prepare referral letters as directed by the physician.  \n\u2022 Collect, organize and catalog data for physician quality reporting system and other quality im provement \nefforts and format for submission.  \n\u2022 Attend training s on diverse subjects such as information technology, legal, HIPAA and regulatory \ncompliance, billing and coding.  Quickly assimilate new knowledge into process and procedures.  \n\u2022 Proofread and edit all the physician\u2019s medical documents for accuracy, spelling , punctuation and grammar.  \n\u2022 Utilizing NextGen E lectronic Medical Record system.  \n\u2022 Use of Microsoft Word 2016, Outlook 2016  \n \nTunstall Medical Alert \u2013 Long Island, NY      March 2016 \u2013 July 2016  \nData En try Operator, Customer Service Representative | Temporary As signm ent \n\u2022 Entering alphanumeric information into computer system in preparation for medical billing  \n\u2022 Assisting with authorizations for installation of medical alert equipment  \n\u2022 Electronic and paper filing \n\u2022 Customer service duties  \n\u2022 Clerical duties as assigned  \n \nMill Basin Radiology Services \u2013 New York, NY     October 2013 \u2013 November 2017  \nRemote Medical Transcriptionist /Medical data entry |Part-time and  Per Diem ) \n\u2022 Home based transcription utilizing Word 20 13 of time sensitive material in formatted medical radiology  \nreports, mainly sonograms on an as needed basis, often with deadlines  \n\u2022 Entry of medical data in radiology and medical procedures into Microsoft Word  \n\u2022 Use of Windows 10, medical terminology, Office  2013 including Outlook  \n \nPatient Care Associates \u2013 Mamaronec k, NY    November 2012 \u2013 June 2013  \nMedical Data Entry Operator and Transcriptionist, Office Assistant  \n\u2022 Entering of medical data of radiology and cardiology formats  for acute care facilities involvi ng deadlines and \ntime sensitive material, record keeping of same, projects and spreadsheets recording productivity  \n\u2022 Use of medical terminology, internet incorporated transcription and dictaphone applications  \n\u2022 Reception and clerical support as needed  \n \nMill B asin Radiology Services \u2013 New York, NY     November 2011 \u2013 October 2012  \nSenior In -House Medica l Transcriptionist, Secretary  \n\u2022 Entry of medical data in radiology and medical procedures into Microsoft Word 2003, often with deadlines , \ntime sensitive material fo rmatted  into medical radio logy reports, mainly sonograms  \n\u2022 Filing \n\u2022 Record keeping   \n\u2022 Problem solving and troubleshooting  \n\u2022 Reception  and clerical support as needed    \n\u2022 Use of medical terminology,  Windows XP, Mic rosoft Word 2003 and Excel 2003  \n \nWeill Cornell Medical  College \u2013 New York, NY     May 2009 \u2013 September 2011  \nMedical Administrative Assistant  \n\u2022 Performed administrative support services for the Director and Faculty of the Myeloproliferative Diseases \nprogram in the Department of Medicine/ Division of Hematology an d Medical Oncology.  Maintained \ncomputerized calendar   \n\u2022 Coord inated scheduling appointment process for long -term scheduling monthly, weekly, and daily views   \n\u2022 Coordinated all necessary paperwork for daily meetings and events  \n\u2022 Dealt with press and broadcast media to set up arrangements for the Director's public appear ances    \n\u2022 Handled travel arrangements including local, domestic, and foreign travel  \n\u2022 Handled confidential information and situations on a daily basis   \n\u2022 Screened all phone calls   \n\u2022 Assisted in prepa ration and typing of research grants and contract application s and protocol submissions  \n\u2022 Data entry of clinical material as dictated into Epic electronic medical record  \n\u2022 Performed other job -related duties as required. Use of medical terminology, Windows XP,  Microsoft Office \n2007, Eudora, Mozilla Firefox & Thunderbird , Adobe, Outlook, and Epic  \n \nJCW Enterprises Typing Service \u2013 New York, NY    November 2005 \u2013 December 2010  \nRemote Medical Transcriptionist  \n\u2022 Home based typing and transcription, work was on a contr act basis and commission and consisted of \nmedical transcripti on and data entry  of radiology and surgical reports  \n\u2022 Use of Windows XP, Microsoft Office 2003: Word and Excel, Centricity and internet applications; RTAS \ndictaphone  \n \nEDUCATION  \n \nThe Rhodes School \u2013 New York, NY  \nHigh School Diploma  \n \nMandl School \u2013 The Colleg e of Allied Health \u2013 New York, NY  \nMedical Secretary Science Certificate  \n",
+          "confidence": 1.0,
+          "method": "full_text",
+          "structured_data": null
+        },
+        "tax_term": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "source_by": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "designation": {
+          "value": "Data",
+          "confidence": 0.8,
+          "method": "regex",
+          "structured_data": null
+        },
+        "experience": {
+          "value": "10",
+          "confidence": 0.9,
+          "method": "regex_total_experience_summary",
+          "structured_data": null
+        }
+      }
+    },
+    {
+      "resume_path": "data\\input\\David Buchberger - Security - OH.pdf",
+      "confidence_score": 0.5850000000000001,
+      "used_ocr": false,
+      "extracted_fields": {
+        "skills": {},
+        "first_name": "David",
+        "last_name": "Buchberger",
+        "primary_email": {
+          "value": "david_buchberger@columbus.rr.com",
+          "confidence": 0.9,
+          "method": "regex",
+          "structured_data": null
+        },
+        "secondary_email": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "phone": {
+          "value": "6142029370",
+          "confidence": 0.9,
+          "method": "regex",
+          "structured_data": null
+        },
+        "city": {
+          "value": "Sugar Grove",
+          "confidence": 0.9,
+          "method": "address_pattern",
+          "structured_data": null
+        },
+        "state": {
+          "value": "OH",
+          "confidence": 0.9,
+          "method": "address_pattern",
+          "structured_data": null
+        },
+        "zip": {
+          "value": "43155",
+          "confidence": 0.9,
+          "method": "address_pattern",
+          "structured_data": null
+        },
+        "work_authority": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "resume_link": {
+          "value": "data\\input\\David Buchberger - Security - OH.pdf",
+          "confidence": 1.0,
+          "method": "file_path",
+          "structured_data": null
+        },
+        "raw_resume": {
+          "value": "Resume \u2013 David Buchberger \n 1 RR1 Box 592, Sugar Grove, OH 43155 - (614) 202-9370 -  david_buchberger@columbus.rr.com  PROFILE  Security professional and USAF veteran with 20+ years\u2019 IT experience (including at Battelle and State of Ohio), with 4+ years in security operations, seeks position that requires familiarity with security tools, ability to communicate with all levels of the organization, and experience with the implementation of cyber strategies from inception to execution.   EDUCATION  Embry Riddle Aeronautical University                                                                               B.S.  EMPLOYMENT HISTORY  August 2018 \u2013  February 2020 Infinite Contract State of Ohio \u2013 Office of Information Security and Privacy   Tier 1 Cyber Security Analyst \u2022 Respond to assigned tickets using ServiceNow \u2022 Remediate phishing attacks using Microsoft Defender Advanced Threat Protection, Office 365, and Symantec Management Center \u2022 Use Symantec Web Analytics to allow approved access to Web page URLS \u2022 Assist Tier 2 and Tier 3 with tickets as needed \u2022 Use McAffe ePO to detect malware on servers and desktops \u2022 Use Tanium to troubleshoot infected systems  2015 \u2013 2018 Battelle      Columbus, OH   Network Systems Analyst II (Security Operations Center/Vulnerability Management) \u2022 Scan Network with Nessus Manager and Professional \u2022 Create and monitor Scan schedule \u2022 Build Nessus Agent Groups \u2022 Perform credentialed, Non-credentialed and Agent scans on servers and workstations \u2022 Perform credentialed and Non-Credentialed WAS and DMZ scans \u2022 Perform internal and external Discovery scans \u2022 Work with clients to resolve Nessus plugin scan requirements \u2022 Prioritize network vulnerability threat with Kenna Security \u2022 Monitor Kenna Security Connector tunnel Nessus file upload integrity \u2022 Assign and track ServiceNow vulnerability remediation requests \u2022 Provide vulnerability remediation assistance to server Admins \u2022 Maintain Access Management CMDB \u2022 Create reports for upper management \u2022 Create detailed instructional documentation \u2022 SOC exposure to SIEM tools i.e. Carbon Black (Response and Defense), FireEye,   2013 \u2013 2015 Battelle      Columbus, OH   Network Systems Analyst II (Internal Network) \u2022 Maintain 2FA (RSA Token, Terminal Server and VMware) NIST FISMA and HIPAA environment \u2022 Verify VEEAM backup integrity, create reports and post to SharePoint for client review \u2022 Troubleshoot, install, and remove third party applications \u2022 Troubleshoot network connectivity issues \u2022 Troubleshoot printer issues \u2022 Install updates \u2022 Remediate vulnerabilities \u2022 Familiarity with Microsoft Group Policy objects as it applies to workstations \u2022 Experience with Microsoft Direct Access \u2022 Submit Firewall and Switch RFC \u2022 Assist remote Users \u2022 Create monthly internal network vulnerability report  2006 \u2013 2013 Battelle      Columbus, OH   Sr. Comm/Equip Spec III (20,000+ User environment)  \nResume \u2013 David Buchberger \n 2 2002 \u2013 2006  Arlington Computer Products (Discover Card)   Columbus, OH   PC Technician (3,500+ User environment) 2001 \u2013 2002  TEKsystems (Columbia Gas)    Columbus, OH   PC Technician (1,000+ User environment) 2000 -2001  National Board of BPVI    Columbus, OH   Technical Support Specialist (100+ User environment) 1998 \u2013 2000 United Parcel Service    Columbus, OH PC Technician (100+ User environment)   KEY SKILLS Communication: \u2022 Able to quickly resolve issues, strong communication skills, and able to maintain professional demeanour in stressful situations  IT: \u2022 Understand packet analysis and networking  \u2022 Familiar with incident response lifecycle  \u2022 Able to be part of on-call rotation  \u2022 Familiarity with Windows, and mobile operating systems  Cyber: \u2022 Previous Information Security experience  \u2022 Independent-thinker and self-starter \u2022 Team Player \u2022 Good follow-up skills and attention to detail  \u2022 Good customer service skills Department Interface Experience \u2022 Support Desk \u2022 Desktop and Infrastructure Support \u2022 Testing (Workstation/Server software/hardware configuration) \u2022 Account Management \u2022 Firewall Team \u2022 Security Operations Center (SOC) \u2022 Asset Management \u2022 Vulnerability Management \u2022 Security Engineering \u2022 Governance, Risk Management, and Compliance (GRC) \u2022 Information Security and Compliance Zone (Project Management) \u2022 Patch Management (SCCM) \u2022 Server Admins (Microsoft & Linux) \u2022 SharePoint \u2022 Data Backup/Storage \u2022 Third Party vendors Certifications: \u2022 ITIL v3, CompTIA A+, MCP, CompTIA Security+, CompTIA CySA+ (in progress) Other: \u2022 Microsoft Certified Professional \u2022 Microsoft Direct Access \u2022 Nessus Manager and Professional \u2022 McAfee Vulnerability Manager \u2022 SharePoint \n",
+          "confidence": 1.0,
+          "method": "full_text",
+          "structured_data": null
+        },
+        "tax_term": {
+          "value": "CONTRACT",
+          "confidence": 0.9,
+          "method": "regex",
+          "structured_data": null
+        },
+        "source_by": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "designation": {
+          "value": "Security Analyst",
+          "confidence": 0.9,
+          "method": "ner",
+          "structured_data": null
+        },
+        "experience": {
+          "value": "20+",
+          "confidence": 0.9,
+          "method": "regex_total_experience_summary",
+          "structured_data": null
+        }
+      }
+    },
+    {
+      "resume_path": "data\\input\\David Musia - Mainframe - TX.pdf",
+      "confidence_score": 0.45500000000000007,
+      "used_ocr": false,
+      "extracted_fields": {
+        "skills": {},
+        "first_name": "David",
+        "last_name": "Musia Denton",
+        "primary_email": {
+          "value": "davidmusia15@gmail.com",
+          "confidence": 0.9,
+          "method": "regex",
+          "structured_data": null
+        },
+        "secondary_email": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "phone": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "city": {
+          "value": "Denton",
+          "confidence": 0.7,
+          "method": "ner",
+          "structured_data": null
+        },
+        "state": {
+          "value": "TX",
+          "confidence": 0.9,
+          "method": "zip_database",
+          "structured_data": null
+        },
+        "zip": {
+          "value": "76210",
+          "confidence": 0.7,
+          "method": "regex",
+          "structured_data": null
+        },
+        "work_authority": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "resume_link": {
+          "value": "data\\input\\David Musia - Mainframe - TX.pdf",
+          "confidence": 1.0,
+          "method": "file_path",
+          "structured_data": null
+        },
+        "raw_resume": {
+          "value": "David Musia  \nDenton,  TX 76210        \ndavidmusia15@gmail.com  | https://www.linkedin.com/in/david -musia -bb1b04151/   \n \nOPERATOR and TECHNICIAN : \nCOMPUTER  OPERATOR  \n|\n MAINFRAME  OPERATOR  \n|\n BATCH  OPERATOR  \n|\n DATA CENTER  OPERATOR  \n \nPROFESSIONAL SUMMARY  \n \nMainframe, Batch,  Data Center and Computer Operator  with 20+ years\u2019 experience . Maintain ed 35+ mainframes consecutively. \nSuccessfully c ompleted and transitioned  with 3 corporate mergers.  Consistently identified  automation  opportunities  of \nmainframe processes to improve efficiencies.  Participated in interviewing, hiring, training and effectively managing personn el \nas needed by management.  Continually r eceive d accolades from customers and teammates for exceptional customer service.  \nMainframe industry experience includes Financial Services, Transportation , Card Services , Military, Oil, Medicare, Medicaid, \nSteel, Pharmaceutical, and U.S. Government . Strong decision -making skills and the ability to exercise composure and \nprofessionalism wh ile successfully managing all situations .   \n \nTECHNICAL EXPERTISE  \n \nAutomation Point  \nSRA  \nSM9  \nEON  \nTNG  \nCA-7 \nCA-11 \nSDSF  \nOPC  \nJOB MASTER  \nOPSMV S \nIMS \nCICS  \nDB2  \nMVS  \nJES2  \nJCS2  \nVirtual Tape  ATRM  \nHSC  \nSLS0  \nVM \nVSE  \nZEKE  \nEDSNET  \nTELLNET  \nSAM  \nWSF2  \nTSO  \nISPF  \nIMF  \nSYSVIEW  \nOMEGAMON  \nCAVIEW  \nNETVIEW  \nAPLMR  BOOLE and BABBAGE  \nJCL \nOffice Vision  \nCONTROL M  \nCONTROL R  \nVTAM  \nVPS  \nSAR  \nDOS  \nMS Offic e and Email  \nSkype  \nHP MyRoom  \nModify Commands  \nInfo Man  \nSTAR  \nVantive Digital Workflow / Service \nCenter  \n \nAREAS OF EXPERTISE  \n \nTeam Leader  \nManagement Support and Backup  \nMaintain 35+ Mainframe LPARS  \nIdentify  Automation  Opportunities  \nPerform IPL\u2019s  \nDisaster Recover Drills  \nDevelopment and Train New Employees  \nAnalyze, Identify,  Troubleshoot, Develop and Create Solutions  \nExceptional Customer Service  \nIdentify and Solve Hardware Issues  \nMonitor System Cycles  \nEmployee Interview and Hiring Decisions  ISO 9000, 9001 Certification  \nHigh Degree of Value on Accuracy and Detail  \nRisk, Controls and Compliance  \nSystems Migration  \nMonito r, Report, Document and Escalate  \nProject Administration  \nProblem Management  \nIncident Management  \nChange Management  \nQuality Management System  \nExce ptional  Planning  / Time Management  \nRoot Cause Analysis  \n \n \n \nEDUCATION  \n\n \nTexas State Technical College  \nComputer Science Technology and Programming  \nWaco , TX \n \nCAREER HIGHLIGHTS  \n \n\u2713 Identified numerous tasks to be automated to decrease operator intervention and increase streamlined operations.  \n\u2713 Relocated entire data center and trai ned Military personnel on operations.  \n\u2713 Facilitated training and development to offshore operators on outsource d mainframes.  \n\u2713 Monitored and supported 35+ mainframes.  \n\u2713 Analyze, troubleshoot and solve various system and customer mainframe issues.\n  \n\u2713 Create and proof QMS process documen ts.\n \n\u2713 Identify and troubleshoot operational issues, escalations and coordination of operational activities . \n\u2713 Ensur e the procedures o f change m anagement are followed for all change activity .\n \n\u2713 Monitor analyze and support  batch processing.\n  \n\u2713 Prioritize daily workload s to meet service level agreements.\n  \n \nWORK  EXPERIENCE  \n \nSenior Mainframe Operator           \nDXC Technology  (from EDS)          2000 \u2013 2019  \n Hewlett Packard Enterprises  (HPE) merged with DXC Technology 2017  \n Hewlett Packard (HP) merged with HPE 2015  \nElectronic Data Systems (EDS) merged with HP 2008  \n         \n \n \n",
+          "confidence": 1.0,
+          "method": "full_text",
+          "structured_data": null
+        },
+        "tax_term": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "source_by": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "designation": {
+          "value": "Project Administration",
+          "confidence": 0.8,
+          "method": "regex",
+          "structured_data": null
+        },
+        "experience": {
+          "value": "20+",
+          "confidence": 0.9,
+          "method": "regex_total_experience_summary",
+          "structured_data": null
+        }
+      }
+    },
+    {
+      "resume_path": "data\\input\\DEXTER K. NDENGABAGANIZI  - PM Program Manager - OH.pdf",
+      "confidence_score": 0.555,
+      "used_ocr": false,
+      "extracted_fields": {
+        "skills": {},
+        "first_name": "PROFESSIONAL",
+        "last_name": "EXPERIENCE C",
+        "primary_email": {
+          "value": "ndengaba@gmail.com",
+          "confidence": 0.9,
+          "method": "regex",
+          "structured_data": null
+        },
+        "secondary_email": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "phone": {
+          "value": "2693258811",
+          "confidence": 0.9,
+          "method": "regex",
+          "structured_data": null
+        },
+        "city": {
+          "value": "Pickerington",
+          "confidence": 0.7,
+          "method": "ner",
+          "structured_data": null
+        },
+        "state": {
+          "value": "OH",
+          "confidence": 0.9,
+          "method": "zip_database",
+          "structured_data": null
+        },
+        "zip": {
+          "value": "43147",
+          "confidence": 0.7,
+          "method": "regex",
+          "structured_data": null
+        },
+        "work_authority": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "resume_link": {
+          "value": "data\\input\\DEXTER K. NDENGABAGANIZI  - PM Program Manager - OH.pdf",
+          "confidence": 1.0,
+          "method": "file_path",
+          "structured_data": null
+        },
+        "raw_resume": {
+          "value": "DEXTER K. NDENGABAGANIZI  \n104 Thrush Circle  \uf06c  Pickerington, OH  43147  \uf06c (269) 325-8811  \uf06c ndengaba@gmail.com     \n \nEDUCATION  \nColumbia University : School of International and Public Affairs  New York, New York  \nGraduate Work Experience , International Finance and Economic Policy  Aug. 2017 \u2013 Jan. 2019  \n\uf0b7 Relevant Coursework : Finance, Public & Nonprofit Management,  Microeconomics, Macroeconomics, Statistics    \n \nMichigan State University: James M adison College  East Lansing, Michigan  \nBachelor of Arts in International Relations  May 2012\n \nPROFESSIONAL EXPERIENCE  \nCouncil on Foreign Relations  (CFR)  Washington, DC  \nAssistant Director, Washington Meetings Program  [May 2016 \u2013 Aug. 2017]  \nProgram Coordinator , Washington Meetings Program  [June 2015 \u2013 May 2016 ] \nProgram Associate, Washington Meetings Program  [Jan. 201 4 \u2013 June 2015 ] \nProgram Assistant , Washington Meetings Program  [Nov . 2012 \u2013 Jan. 201 4] \n\uf0b7 Conceptualize d, manage d, and coordinate d internal and external events ranging from roundtables to multi -day \n300+ daily attendee conferences with key policymakers across various stakeholder groups.  \n\uf0b7 Create d and m anage d relationships with  key domestic and international policymakers , subject matter experts, \nand business leaders to participate in CFR programming  and initiatives  for Council members.  \n\uf0b7 Research ed, monitor ed, and evaluate d international trends to  identify potential p rogramming for CFR \nmembers and the broader domestic and international political and policy community.  \n \nResults for Development Institute  Washington , DC  \nCenter for Health Market Innovations (CHMI) Intern  [May 2012 \u2013 Nov. 2012 ] \n\uf0b7 Assisted in the creation of s trategic plans to increase the visibility of dozens of health market innovations.  \n\uf0b7 Conducted needs synthesis used in the formulation of CHMI\u2019s Web and Facebook Outreach Strategy.  \n \nU.S. Embassy: Foreign Commercial Service  Singapore  \nForeign Commercial Service Intern  [Aug. 2011 \u2013 Jan. 2012 ] \n\uf0b7 Conduct ed trade promotion for 1,300+ American companies and products in Singapore . \n\uf0b7 Interviewed corporate and policy leaders, researched,  and produced  official U.S. Commercial Service Market \nResearch Report s used in U.S.-Singaporean business facilitation s. \n \nHouses of the Oireachtas: D\u00e1il \u00c9ireann (Irish National Parliament)  Dublin, Ireland  \nResearch Assistant , Fine Gael  [May 2011 \u2013 Aug. 2011 ] \n\uf0b7 Researched and produced reports on various European  economic policies , which were  used by Members of \nParliament in  nationally  televised  parliamentary address es.  \n \nADDITIONAL EDUCATION  \nUniversity of London  London, England [Summer 2009]  \nStudy Abroad Program - Economics of Law and Public Policy   \n \nUniversity of the Ryukyus  Okinawa, Japan [Sept. 2009 - Aug. 2010]  \nStudent Exchange Program \u2013 Study of Advanced Japanese and Japanese/Okinawan Culture  \n \nSKILLS  \nJapanese \u2013 Advanced -Low, Stata, R, Photoshop, Adobe Lightroom, Microsoft Access, Excel, Outlook, One Note  \n \nREPORTS AND PUBLICATIONS  \nSingapore: Aerospace Market  \u2013 U.S. Commercial Service: U.S. Department of Commerce (01/2012)  \nSingapore: Franchise Market  \u2013 U.S. Commercial Service: U.S. Department of Commerce  (12/2011)  \n",
+          "confidence": 1.0,
+          "method": "full_text",
+          "structured_data": null
+        },
+        "tax_term": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "source_by": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "designation": {
+          "value": "Program Coordinator",
+          "confidence": 0.9,
+          "method": "ner",
+          "structured_data": null
+        },
+        "experience": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        }
+      }
+    },
+    {
+      "resume_path": "data\\input\\Enterprise Architect - LA - Vijay.pdf",
+      "confidence_score": 0.405,
+      "used_ocr": false,
+      "extracted_fields": {
+        "skills": {},
+        "first_name": "Vijay",
+        "last_name": "Kumar Kanamarlapudi",
+        "primary_email": {
+          "value": "vijay.kanamarlapudi@hotmail.com",
+          "confidence": 0.9,
+          "method": "regex",
+          "structured_data": null
+        },
+        "secondary_email": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "phone": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "city": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "ner",
+          "structured_data": null
+        },
+        "state": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "zip": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "regex",
+          "structured_data": null
+        },
+        "work_authority": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "resume_link": {
+          "value": "data\\input\\Enterprise Architect - LA - Vijay.pdf",
+          "confidence": 1.0,
+          "method": "file_path",
+          "structured_data": null
+        },
+        "raw_resume": {
+          "value": "Vijay Kumar Kanamarlapudi, TOGAF\u00ae, PMP\u00ae, CBAP\u00ae, ACP\u00ae, SAFe\u00ae4 POPM, SSM, PAHM, ITIL, SSBBP  1 \n VIJAY KUMAR KANAMARLAPUDI ,  \nTOGAF\u00ae, PMP\u00ae, CBAP\u00ae, PMI-ACP\u00ae, SAFe\u00ae 4 POPM, SSM , PAHM, ITIL\u00ae, SSBBP  \nEnterprise Business Architect / Project Manager/ Lead Business Analyst  \nvijay.kanamarlapudi@hotmail.com  | (860) 801 -0199  \n \nSummary  \nVijay has t hirteen  years of experience in healthcare as a  Business Consultant  with key expertise in \nBusiness Architecture, Project Management, Bu siness Analysis.  He has led teams in projects following \nAgile and Waterfall methodologies . \n \nCertifications  \n1. TOGAF\u00ae 9 Certified from The Open Group - 2019  \n2. Project Management Professional, PMP\u00ae  from Project Management Institute, PMI\u00ae - 2018  \n3. Certified Business Analysis Professional , CBAP\u00ae  from International Institute of Business \nAnalysis, IIBA\u00ae - 2014  \n4. Agile Certified Practitioner, PMI-ACP\u00ae  from Project Management Institute, PMI\u00ae -2017  \n5. Professional, Academy for Healthcare Management, PAHM  from America\u2019s Health Insurance \nPlans , AHIP - 2011 , 2017  \n6. SAFe \u00ae 4 Certified Product Owner/ Product Manager, SAFe \u00ae 4 POPM  from Scaled Agile \nFramework\u00ae , SAFe \u00ae \u2013 2017  \n7. SAFe \u00ae 4 Certified Scrum Master, SAFe \u00ae 4 SSM  from Scaled Agile Framework\u00ae, SAFe \u00ae- 2018  \n8. ITIL\u00ae  Foundation Certificate in IT Service Management from Axelos Global Best Practice - 2017  \n9. Six Sigma Black Belt Professional, SSBBP  from Management Strategy Institute - 2015  \n10. IBM Certified Database  Associate - DB2 Universal  Database V8.1 Family - DB2 Universal \nDatabase - 2007  \n \nKey Skills  \nEnterprise Business Architecture  Capability Modelling  \nValue Stream Mapping  Activity Mapping  \nBusiness Analysis  Planning and Monitoring  Project Management  \nRequirements  Management and Communication  Project Integration Management  \nElicitation  Project Risk Management  \nEnterprise Analysis  Project Scope Management  \nRequirements Analysis  Healthcare EDI Transactions  \nSolution Assessment and Validation  Waterfall Methodology  \nSCRUM Master  Agile Methodology  \nData Modeling  Project Quality Management  \nGap Analysis  Business Architecture  \nProcess Modelling  Use Case Modelling  \n \nTechnologies  \nVersion Controls: Clear Case, Visual SourceSafe, SharePoint  \nIBM Rational Tools: Requirements Composer, Requisite Pro, Clear Quest, Clear Case, Team Concert  \nSoftware: MS - Word, MS-Excel, Live m eeting, MS-Access, MS-Project, File -Aid, Cisco WebEx, TFS  \nProcess Modelling: Provision , Balsamic  \nLanguages: COBOL, JCL, SQL, XML  \nDatabases: IBM DB2, Oracle , SQL Server  \nVijay Kumar Kanamarlapudi, TOGAF\u00ae, PMP\u00ae, CBAP\u00ae, ACP\u00ae, SAFe\u00ae4 POPM, SSM, PAHM, ITIL, SSBBP  2 \n ERP: PeopleSoft  \nOther: Business Objects, nVision, Plan View, Cognos, Salesforce.com , Tableau , SSRS  \n \nEducation  \nMaster of Business Administration -MBA, May 2019 from Southeastern Louisiana University, Hammond, \nLA, USA  \nBach elor\u2019s in Electrical  and Electronics Engineering - B.Tech. , 2006 from Acharya Nagarjuna University, \nIndia  \n \nWork Experience  \nEnterprise Business Architect , Business Analyst Lead/ Senior Corporate Business Analyst  \u2022 11/2016- \nPresent  at Blue Cross and Blue Shield of Louisiana  \nPrincipal Business Analyst \u2022 09/2014 \u2013 10/2016 at Ultramatics Inc.  \nSenior Associate Consultant \u2022 04/2012 - 9/2014 at Infosys Ltd.  \nAssociate - Projects \u2022 09/2006 \u2013 04/2012 a t Cognizant Technology Solutions US Corp.  \n \nProfessional Experience  \n \nBlue Cross and Blue Shield of Louisiana , Baton Rouge, LA, US                             10/2018 - Present  \nROLE:  Enterprise Business Architect  \nSUMMARY:  \nWorked as a n Enterprise Business Architect analyzing enterprise level impacts on ideas and demands \nsubmitted by senior  management team and prepared business architecture for impacts at an enterprise \nlevel. Documented Business Capabilities; Value Streams; Processes th at are impacted for each idea and \nprepared Architecture Blue Prints for the Baseline and Target State Business Architecture.  \n \nRESPONSIBILITIES:  \n\u2022 Provide d strategic consultation to assigned line -of-business (LOB) or assigned functional area(s) of \nbusiness in  defining or designing business capabilities and processes, functions and organizational \nstructures.  \n\u2022 Participate d in divisional enterprise strategy development, including environmental analysis, \nopportunity identification, value cases and business innovati on portfolio development.  \n\u2022 Acted as an advocate for business needs while in parallel providing ongoing feedback on \ndevelopments and initiatives within IT  \n\u2022 Communicate d IT SLA metrics to respective areas of assigned business functions.  \n\u2022 Collaborate d, facilitat ed and consult ed with business stakeholders of the areas of responsibility in \nplanning, business case development and proposal of business initiatives in alignment with desired \nbusiness capabilities.  \n\u2022 Work ed with other peer business architects and EA architects to identify shared capabilities and \nprocesses and opportunities to create efficiencies across the enterprise and facilitate development \nof cross -functional solutions  \n\u2022 Provide d consultation to business a nalysts on an ongoing basis in communicating divisional \ncapability plans  \n\u2022 At the project execution level, collaborate d extensively with Business Analysts to ensure a tight \nalignment between the business capabilities and high -level use case scenarios identif ied in the \nSolution Blueprint document and corresponding detailed requirements identified in the Business \nRequirements Document (BRD) that support them.  \n\u2022 Participate d in enterprise architecture development, including business architecture, information \narchi tecture, application portfolio and technical architecture.  \n\u2022 Collaborate d with the enterprise program & project management office on reporting project status, \nissues, risks and benefits regarding areas of responsibility.  \nVijay Kumar Kanamarlapudi, TOGAF\u00ae, PMP\u00ae, CBAP\u00ae, ACP\u00ae, SAFe\u00ae4 POPM, SSM, PAHM, ITIL, SSBBP  3 \n \u2022 Explored  ways to apply new technology  to, and reuse existing technology for, business processes; \nresearch and provide information on technical trends and competitors' practices relevant to \nassigned LOB or assigned functional area(s) of business customers.  \n\u2022 Assess ed near -term needs, using struc tured interview processes, to establish business priorities; \nconsult with technical subject matter experts and develop alternative technical solutions; advise on \noptions, risks, costs vs. benefits, and impact on other business processes and system prioriti es. \n\u2022 Collaborate d with other IT functional areas to remain apprised of project status, and inform LOB \ncustomer management of progress; conversely, keep IT's technology and service managers aware of \nkey LOB customer issues, identifying and resolving potentia l problems and conflicts.  \n\u2022 Develop ed, motivate d and direct ed staff to create a team environment, and enable staff to fulfill the \nLOB customer operating objectives.  \n \nMY DELIVERABLES:  \nBusiness Architecture Blue print; Capability Mapping; Value Stream Mapping; Business Process Flow \nDiagram s; Business Need Analysis Document ; Data Requirements Specifications; User Interface \nSpecifications; Gap Analysis; Prototypes; Storyboarding; User Interface Screen Flow Diagram; Business \nRule Definitions . \n \nDELIVERABLES CONTRIBUTED TO:  \nNon -Functional Requirements Specification; Logical Data Model; Business Need Analysis Document; \nWork Breakdown Structure; Test Data Sheet; Test Plan; Test Scripts; Test  Strategy; Test Results \nSummary; Information Architecture; Project Deliverables List; Risk Register; Implementation \nPlan/Checkout activities ; Design Specifications; Technical Requirement Specifications ; SSO \nSpecifications.  \n \n \nBlue Cross and Blue Shi eld of Louisiana , Baton Rouge, LA, US                          10/2014 \u2013 10/2018  \nROLE:  Lead Business Analyst; Senior Corporate Business Analyst; Senior Enterprise Business \nAnalyst;  Scrum Master  \nSUMMARY:  \nWork ed as a program level business analyst overseeing the foundation to put together the operations \nof benefits administration of Medicare Advantage platform that Blue Cross Blue Shield of Louisiana is \nworking to put together.  Worked on various IT efforts to send data from BCBSLA to vendors and to \nreceive and sto re data from external vendors.  \n \nRESPONSIBILITIES:  \n\u2022 Worked closely with clients to identify business needs (requirements) and the costs and benefits of \nimplementing a proposed solution, as a project, in -order to produce an accurate business case for \nthe proj ect \n\u2022 Collaborated with business owners and subject matter experts to develop an understanding of \nbusiness processes and functions to aide in completing the standard project business case related to \na proposed project, analyzing business requirements and ide ntifying potential business solutions; \ncompletes appropriate documentation of business case, requirements and solutions.  \n\u2022 Participate d in divisional enterprise strategy development, including environmental analysis, \nopportunity identification, value cases and business innovation portfolio development.  \n\u2022 Performed project feasibility analysis, scopes project and helps client identify altern ative solutions; \nassist with the development of financial worksheets related to project costs and benefits  \n\u2022 Worked with clients to develop business process flows and to obtain a clear understanding of their \nbusiness models to identify potential pro cess improvements and efficiencies  \nVijay Kumar Kanamarlapudi, TOGAF\u00ae, PMP\u00ae, CBAP\u00ae, ACP\u00ae, SAFe\u00ae4 POPM, SSM, PAHM, ITIL, SSBBP  4 \n \u2022 Ensured adherence to BCBSLA project and program processes and lifecycles to ensure business and \nfunctional requirements are understood, agreed to, documented and can be traced to measurable \nproject success criteria.  \n\u2022 Analy zed business information and process flows, gather requirements and translate to Technical \nspecifications required for application programming and test strategy development.  \n\u2022 Assisted Project Manager in preparing an appropriate transition plan for projects prior to \nimplementation; assists with development and review of appropriate production documentation \nsuch as policies and procedures.  \n\u2022 Worked with clients and IT Quality Assurance to develop a test plan that can be executed via test \nscenarios and test cases  to ensure expected functionality, features, as well as traceability among \nbusiness requirements, technical specifications and testing are validated before releasing \napplication for User Acceptance Testing.  \n\u2022 Identified the functionality and features that should be tested and create test scenarios that validate \nperformance of the scenarios in the new application.  \n\u2022 Developed a test script that describes the details of the test scenarios  \n\u2022 Identified resources and functional areas that will be needed to perform testing  \n\u2022 Represented the Project Management Office in a positive, professional and enthusiastic manner \nwhen working with both internal and external clients to build and maintain the respect of the \nProject Management Office within the organization.  \n\u2022 Escalated  appropriate issues or problems to the project manager or Project Management Office \nManager, as appropriate, for discussion and evaluation  \n\u2022 Maintained professional demeanor with team members, business owners and fellow staff; provide \nconfidentiality for dis cussions regarding projects, position and salary information and other matters \nthat may be discussed in meetings  \n\u2022 Actively pursued personal leadership development to ensure professional growth; consistently \ndemonstrates a high level of quality results and m aintains expected productivity objectives.  \n\u2022 Served as Project Manager for selected effort when necessary.  \n\u2022 Adhered to organizational project management processes and lifecycles to ensure that project \nbusiness and functional requirements are understood, agree d to, can be traced to measurable \nproject success criteria and to drive quality among projects.  \n \nMY DELIVERABLES:  \nBusiness Process Flow Diagram; Data Requirements Specifications; User Interface Specifications; User \nStories; Gap Analysis; Deployment Communi cation Materials; End User Application Documentation; \nProduct Backlog; Issue Tracker; Risk Analysis; Prototypes; Storyboarding; User Interface Screen Flow \nDiagram; Business Rule Definitions; Requirements Traceability Matrix.  \n \nDELIVERABLES CONTRIBUTED TO:  \nNon-Functional Requirements Specification; Logical Data Model; Business Need Analysis Document; \nWork Breakdown Structure; Test Data Sheet; Test Plan; Test Scripts; Test Strategy; Test Results \nSummary; Information Architecture; Project Deliverables List; Ris k Register; Implementation \nPlan/Checkout activities.  \n \n \nCLIENT:  Aetna, Inc. , Hartford, CT, US                                                                     10/2013 - 10/2014               \nROLE:  Scrum Master; Lead Business Analyst  \nSUMMARY:  \nWorked as a Scrum  Master and Lead Business A nalyst for this project dealing not only with gathering \nand maintaining requirements but also guiding the team towards successful implementation of an \napplication with web -based  JAVA user interface functionalities in various  releases.  \n \nVijay Kumar Kanamarlapudi, TOGAF\u00ae, PMP\u00ae, CBAP\u00ae, ACP\u00ae, SAFe\u00ae4 POPM, SSM, PAHM, ITIL, SSBBP  5 \n RESPONSIBILITIES:  \n\u2022 Analysis of the existing business process and helping the product owners in determining the epics \naccording to the proposed business process  \n\u2022 Working with the product o wner to create and maintain product backlog  \n\u2022 Prepared user navigations flows and user interaction diagrams and requirement specifications for a \nweb based front end application.  \n\u2022 Documented business rules for storing the data entered by the user on the front JAVA user interface \n(web based UI) screens - into the back end DB2 tables.  \n\u2022 Planning the timelines for each of the sprints after categorizing the priority of the epics  \n\u2022 Facilitating productivity by removing impediments that obstructed the team\u2019s pursuit of its sprint \ngoals  \n\u2022 Ownership of requirements and also turning the requirements into working software  \n\u2022 Tracking and reporting the progress of the sprints and ensuring that the timelines are achieved \ncomfortably  \n\u2022 Conducting meetings for planning, daily scrum s tatus, scrum pre -planning, back log grooming, \nreview/demo and retrospective discussions  \n\u2022 Ensuring the application of standard processes in each and every stage of the sprints by enforcing \nthe rules of the agile process  \n\u2022 Documentation of the User stories, Use Case framework . \n\u2022 Preparation of Business Proce ss Flow Diagrams, User Interface Screen Flow Diagrams, User Interface \nMock Ups, Use Case Diagrams, Application Overview presentations  \n\u2022 Documentation of Deployment Communication Material and end user reference materials  \n\u2022 Ensuring that the scrum team works in a productive manner to deliver the goals of the sprints . \n \nMY DELIVERABLES:  \nBusiness Process Flow Diagram; Data Requirements Specifications; User Interface Specificatio ns; User \nStories; Gap Analysis; Deployment Communication Materials; End User Application Documentation; \nProduct Backlog; Issue Tracker; Risk Analysis ; Prototypes; Storyboarding ; User Interface Screen Flow \nDiagram ; Business Rule Definitions; Requirements Traceability Matrix.  \n \nDELIVERABLES CONTRIBUTED TO:  \nNon -Functional Requirements Specification; Logical Data Model; Business Need Analysis Document; \nWork Breakdown Structure; Test Data Sheet; Test Plan; Test Scripts; Test Strategy; Test Results \nSummary; Information Architec ture ; Project Deliverables List; Risk Register; Implementation \nPlan/Checkout activities.  \n \nCLIENT:  AETNA  INC., Hartford, CT, US                                                                   01/2013 \u2013 10/2013  \nROLE: Lead Business Analyst  \nSUMMARY : \nWorked as a Lead Business Analyst , managing the business analysts,  resolving i ssues to track to their \nclosure, ensuring  there are no scope -related concerns from stakeholders , guide and train  the Business \nAnalysts , and ensure  the requirements gathering, elicitation , and reviews are completed per plan.  \n \nRESPONSIBILITIES  \n\u2022 Leading a team of nine domain Business Analysts for all business analysis  activities  \n\u2022 Facilitated and lead requirement gathering sessions  \n\u2022 Problem s olving and issue resolution for scope related and business definition related topics  \n\u2022 Managing the requirement timelines and overcoming the challenges faced by individual domain \nlevel Business Analysts  \n\u2022 Coordinating all the tasks that need to be accomplished by all the Business Analysts in the project  \n\u2022 Busin ess analysis and requirement gathering  \nVijay Kumar Kanamarlapudi, TOGAF\u00ae, PMP\u00ae, CBAP\u00ae, ACP\u00ae, SAFe\u00ae4 POPM, SSM, PAHM, ITIL, SSBBP  6 \n \u2022 Conducting Joint Application Development (JAD) sessions  \n\u2022 Preparation of RTM \u2014Requirement Traceability Matrix  \n\u2022 Preparation of Functional Requirement Specification document  \n\u2022 Analysis of existing and nature of proposed proce ss \n\u2022 Developing process flow diagrams according to the proposed process and applications impacted  \n\u2022 Preparation of Use Case Narratives  \n\u2022 Reporting status of requirements progress for Level 1 management during project planning stage  \n\u2022 Support design, development, a nd testing t eams on clarifications for the requirements after \nrequirements phase  \n\u2022 Expertise in using various IBM Rational Tool : Rational Clear Case, Rational Clear Quest, Rational \nRequisite Pro  \n\u2022 Function Point Estimation  \n \nMY DELIVERABLES:  \nData Requirements Specification; Gap Analysis; User Interface Specification; Functional Requirements \nSpecification; Business Requirements Specification, Business Process Models; Use Case Model; Use Case \nNarratives; User Interface Screen Flow Diagram; Proto types ; Deployment Communication Material; Risk \nAnalysis; Issue Tracker; Decision Tables ; Coverage Matrix ; Requirements Traceability Matrix; Product \nSpecifications  \n \nDELIVERABLES CONTRIBUTED TO:  \nNon -Functional Requirements Specification; Logical Data Model; Source to Target Data Mapping \nDocuments; Business Need Analysis Document; Work Breakdown Structure; Test Data Sheet; Test Plan; \nTest Scripts; Test Strategy; Test Results Summary; Information Architecture; Project Delivera bles List; \nEstimation Work Book; Ri sk Register; Implementation Plan/ Checkout Activities.  \n \nCLIENT:  NORTHWESTERN MUTUAL LIFE INSURANCE , Milwaukee, WI, US         04/2012 - 01/2013  \nROLE:  Information Systems Business Consultant  \nSUMMARY : \nWorked as a business systems analyst in gathering requirements related to the proposed apart from \nunderstanding the nature of the current system. Played a key role in ensuring that the high -level design \ndeliverables aligned to the business needs enlisted by the business stakeholders.   \n \nRESPONSIBILITIES  \n\u2022 Analysis of existing system process functionality  \n\u2022 Analysis of the proposed business process flow and working on the proposed system process \nfunctionality based on the architecture guidelines  \n\u2022 Formulation of proposed process flows, use case diagrams and documentation of use cases.  \n\u2022 Documentation of the functional requirements for the proposed financial reports which vary across \nmultiple business areas  \n\u2022 Worked with the design teams to develop the technical specifications according to the reporting \nrequiremen ts \n\u2022 Helped the architectural and database design teams in migra ting the data from the old data base to \nthe new database  \n\u2022 Provided valuable contribution to the design of the new people soft accounting database (by \nproviding suggestions on the trees and nodes t o be created)  \n\u2022 Worked as an information system business consultant and helped to document the functional \nrequirements for the reports to be run from the new database  \n\u2022 Contributing in preparation of test strategy and test plan for the functionalities that are  expected \nfrom the new database  \nVijay Kumar Kanamarlapudi, TOGAF\u00ae, PMP\u00ae, CBAP\u00ae, ACP\u00ae, SAFe\u00ae4 POPM, SSM, PAHM, ITIL, SSBBP  7 \n \u2022 Preparation of high -level design documents with the help of the development team and conducted \nreview sessions with the business stakeholders  \n\u2022 Reporting the status of the functional specification and the high level design del iverables to the \nnecessary stakeholders  \n\u2022 Experience of working on nVision and Business Objects Reports  \n\u2022 Experience of working on reports based out of Cognos (for Business Intelligence Reporting)  \n \nMY DELIVERABLES:  \nReport Requirement Specifications; Data Requirements Specifications; High Level Design \nDocumentation; Business Process Models; Prototypes; Requirements Specifications; Deployment \nCommunication Material; End User Documentation; Gap Analysis; Issue Tracker; Risk Analysis; \nRequirements Traceability  Matrix  \n \nDELIVERABLES CONTRIBUTED TO:  \nNon -Functional Requirements Specification; Logical Data Model; Source to Target Data Mapping \nDocuments; Business Need Analysis Document; Work Breakdown Structure; Test Data Sheet; Test Plan; \nTest Scripts; Test Strategy ; Test Results Summary; Information Architecture; Project Delivera bles List; \nEstimation Work Book  \n \nCLIENT: AETNA INC., Hartford, CT, US                                                                 08 /2007 - 04/2012  \nROLE:  Business Analyst; Senior Business Analyst  \nSUMMARY:  \nWorked as a domain business analyst in all these projects and played a key role in analyzing the current \nprocess and working with the architecture team towards formulating a proposed process.  \nWorked wit h the appropriate stakeholders to deliver the requirements deliverables with good quality \nkeeping in mind the stringent timelines and compliance related constraints on the project.  \n \nRESPONSIBILITIES:  \n\u2022 Business Analysis and Requirement Gathering  \n\u2022 Preparation  of business process flow diagrams and use case model diagrams  \n\u2022 Conducting Joint Application Development (JAD) Sessions  \n\u2022 Preparation of RTM \u2014Requirement Traceability Matrix  \n\u2022 Preparation of Functional Requirement Specification Document  \n\u2022 Analysis of existing and nature of proposed process  \n\u2022 Developing process flow diagrams according to the proposed process and applications impacted  \n\u2022 Preparation of Use Case Specifications  \n\u2022 Reporting status of requirements progress for Level 1 management during project planning stage  \n\u2022 Support design, development, and testing teams on clarifications for the requirements after \nrequirements phase  \n\u2022 Expertise in using various IBM Rational Tools: Rational Clear Case, Rational Clear Quest, Rational \nRequisite Pro  \n\u2022 Worked on onsite/offshore model to  provide support to design, development and \nimplementation checkout activities.  \n \nMY DELIVERABLES:  \nRequirements Specification Document; Business Requirements Specification; Data Requirements \nSpecification; Prototypes; Issue Tracker; Use Case Narratives; Use  Case Models; Business Process \nModels; Risk Analysis; Gap Analysis; Data Scenarios; Decision Table; Business Rule Definitions; Data \nModels; Requirements Traceability Matrix; Function Point Estimation.  \n \nDELIVERABLES CONTRIBUTED TO:  \nVijay Kumar Kanamarlapudi, TOGAF\u00ae, PMP\u00ae, CBAP\u00ae, ACP\u00ae, SAFe\u00ae4 POPM, SSM, PAHM, ITIL, SSBBP  8 \n Non -Functional Requiremen ts Specification; Logical Data Model; Business Need Analysis Document; \nWork Breakdown Structure; Test Data Sheet; Test Plan; Test Scripts; Test Strategy; Test Results \nSummary; Information Architecture; Project Deliverables List, Risk Register  \n \nCLIENT:  AETNA INC. , Chennai, India                                                                         09/2006 \u2013 08/2007                  \nROLE:  Test Specialist  \nSUMMARY:  \nWorked as system integration tester, being the front runner in completing related testing, and made \nsure the deployed product is defect free. Identified design flaws and notified the project team of the \nimpacts and behavior of the system under flaws.   \n \nRESPONSIBILITIES  \n\u2022 Developed the various test artifacts, such as test plan, test scripts, test c ases, test execution logs, \ntest result summary  \n\u2022 Execution of application -oriented testing and recording the status in quality center  \n\u2022 Key resource with strong business knowledge in the corporate domain  \n\u2022 Performed complete analysis of the existing process and maintained proper repository for all the \nclarifications  \n\u2022 Conducted knowledge transfer session for explaining the design to the whole team  \n\u2022 Verification of coding for meeting the design in the given technology; performed the code review \naccording to the codin g standards  \n\u2022 Supported the team members for any technical challenges, as well as for the application challenges  \n\u2022 Well -versed in various tools used in the project such as IBM -DB2, Hummingbird Connectivity tool \nand monitoring jobs through Informatica  \n\u2022 Team management and effective team play  \n \nMY DELIVERABLES:  \nTest Data Sheet; Test Plans; Test Results Summary; Test Scripts; Test Strategy; SQA Testing Strategy and \nRequirements Summary; Coverage Matrix; Defect Tracker  \n \nDELIVERABLES CONTRIBUTED TO:  \nEstimation Wor kbook; Requirements Specification Document; Work Breakdown Structure; Use Case \nNarrative; Report Mockup  \n \n",
+          "confidence": 1.0,
+          "method": "full_text",
+          "structured_data": null
+        },
+        "tax_term": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "source_by": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "designation": {
+          "value": "Business Architect",
+          "confidence": 0.9,
+          "method": "ner",
+          "structured_data": null
+        },
+        "experience": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        }
+      }
+    },
+    {
+      "resume_path": "data\\input\\Horace Royal - Resume.pdf",
+      "confidence_score": 0.5700000000000001,
+      "used_ocr": false,
+      "extracted_fields": {
+        "skills": {},
+        "first_name": "Horace",
+        "last_name": "Royal",
+        "primary_email": {
+          "value": "horaceroyaljr6_t3n@indeedemail.com",
+          "confidence": 0.9,
+          "method": "regex",
+          "structured_data": null
+        },
+        "secondary_email": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "phone": {
+          "value": "2402811264",
+          "confidence": 0.9,
+          "method": "regex",
+          "structured_data": null
+        },
+        "city": {
+          "value": "Washington",
+          "confidence": 0.7,
+          "method": "ner",
+          "structured_data": null
+        },
+        "state": {
+          "value": "DC",
+          "confidence": 0.8,
+          "method": "city_database",
+          "structured_data": null
+        },
+        "zip": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "regex",
+          "structured_data": null
+        },
+        "work_authority": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "resume_link": {
+          "value": "data\\input\\Horace Royal - Resume.pdf",
+          "confidence": 1.0,
+          "method": "file_path",
+          "structured_data": null
+        },
+        "raw_resume": {
+          "value": "Horace Royal\nWashington, DC\nhoraceroyaljr6_t3n@indeedemail.com\n+1 240 281 1264\nWork Experience\nContract Closeout Specialist\nCTR Management\nNovember 2018 to Present\nContractor)\nEmployer: CTR Management\nClient: Department of Transportation (DOT)\n\u2022 Performs the full range of contract closeout activities pursuant to FAR 4.804, with a specialized focus on\nthe cognizant administration functions necessary to close flexibly-priced and Cost Accounting Standards\n(CAS) covered contracts.\n\u2022 Achieved closeout goals each month to efficiently and effectively eliminate the contract closeout\nbacklog.\n\u2022 Verify and coordinate closeout activities utilizing PRISM.\n\u2022 Supports the reconciliation of complex invoices.\n\u2022 Resolves issues related to de-obligated and excess funding.\n\u2022 Manages government contract billing/invoicing.\n\u2022 Closeout with a focus on Firm-Fixed Price (FFP), Labor Hour, and Time and Materials (T&M).\nContract Support Specialist\nCACI\nNovember 2018 to Present\nContractor)\nEmployer: CACI\nClient: Department of Health & Human Services (DHHS)\n\u2022 Performed closeouts of simplified acquisitions and various contract types (T&M, Labor, Cost Types).\n\u2022 Reviewed, prepared and submitted closeout documents. Input information into Contract\n\u2022 Management System. Retrieved information from various systems.\n\u2022 Processed Quick. Reviews and filled out all annual Prime Contractor Representations and\n\u2022 Worked jointly and coordinate with subsidiary company stakeholders to ensure all supporting policies\nand procedures are in-place to ensure compliance before making certification.\n\u2022 Collect, draft, review, maintain, and retained contract file documentation.\n\u2022 Draft acquisition/contract documentation for supported official(s) including requirements package\ndocumentation, Acquisition Strategy Panel (ASP) briefing slides, Acquisition Plan (AP), Business/Contract\nClearance form(s), Request for Proposal (RFP), and contract award document.\n\u2022 Pre-award functions include conducting market research, coordinating with stakeholders (e.g. Small\nBusiness Government Representative), publicizing contract actions, soliciting requirements, and drafting\nevaluation of offeror's proposal(s), and drafting awards.\n\u2022 Post-award functions include contract administration, contract actions (e.g. modification) and contract\ncloseout.\nContract Support Specialist\nPremier Management\nDecember 2016 to November 2018\nContractor)\nEmployer: Premier Management\nClient: Food drug Administration (FDA)\n\u2022 Performed all aspects of the Federal Government contract closeouts, some additional work in cradle-\nto-grave acquisitions.\n\u2022 Reconcile contract funding obligations and expenditures with final voucher amounts and determine\nde-obligated amounts.\n\u2022 Prepared contract closeout modifications using PRISM or like systems. Develops reports and prepares\nsupport documentation.\n\u2022 Performed audits of contract files ensuring adherence to policies, regulations, and identifying any\nduplication of efforts across contracts.\n\u2022 Reviewed documents for quality, clarity, and adherence to applicable regulations (FAR, agency\nregulations, etc.) and recommendation of revisions\n\u2022 Reconcile unbilled balances, excess funds, misaligned invoice payments, and related issues and\ncoordinate with the Finance Office to complete the reconciliation process for closure.\nContract Support Specialist\nCorporate Advance Auto\nDecember 2015 to March 2017\n\u2022 Managed complex contracts up to $100K for a variety of service contracts: Building & Facilities\nMaintenance, Lawn services/Grounds Maintenance, Janitorial Services,\n\u2022 Towing, and Police/Surveillance Services while performing in-depth technical market research and\nanalyzed past performance to prepare acquisition planning recommendations and cost analysis for\nDistrict Managers.\n\u2022 Drafted contracts and created, documented, and revised acquisition plans, policy procedures, and best\npractices on an ongoing basis.\n\u2022 Researched and analyzed federal contract laws and regulations.\n\u2022 Trained new personnel. Researched internally/externally to strategize and obtain the appropriate\nvendors, while performing market research to ensure vendors were given opportunity to bid. Negotiated\nwith vendors. Developed a price analysis.\nContract Support Specialist\nCavalier Consultants\nMarch 2015 to December 2015\nContractor)\nEmployer: Cavalier Consultants\nClient: Hillel Foundation\n\u2022 Researched the manufacturer of equipment or contractor.\n\u2022 Prepared provider monthly or annual service payments based on the terms of the maintenance\ncontract.\n\u2022 Negotiated bids for servicing of equipment and supply of labor.\n\u2022 Communicated with vendors as warranties were in the final phase of expiration dates for service\nof goods/ supplies Assisted Program Managers with technical issues with statement of objectives and\nperformance work statements.\n\u2022 Evaluated contract performance on previous contracts and meeting with the company representatives\nto discuss procurement needs, quality of items or services, current market prices, or delivery schedules.\nManaged several sales portfolio contract accounts totaled valued up to $250.000.00\nContract Support Specialist\nGate Gourmet\nJune 2012 to March 2015\n\u2022 Authorized and prepared with senior management staffing forecast schedules for annual budget for\ncredit cards, supplies, communications, travel and training new staff hires.\n\u2022 Developed and prepared inputs to briefings, planning documents, and policies for several airlines by\nconducting research and analysis of administrative information and data.\n\u2022 Provided sales financial analysis and support by designing graphs to present to Senior Management.\n\u2022 Completed and submitted all required documentation of existing contracts.\n\u2022 Acted as the contact person for execution of contracts.\n\u2022 Assisted in bidding sourcing teaming and subcontracting.\nContract Support Specialist\nDistrict Healthcare Inc\nJune 2006 to May 2012\n\u2022 Managed the evaluation process and for contract performance on previous contracts and organized\nkickoff- meetings with small and large businesses.\n\u2022 Created advertisements for bids, then reviewed and selected the bid most suitable to the timeframe\nand budget.\n\u2022 Researched the price of materials, labor cost, and overhead expenses to analyze the bids received.\n\u2022 Assessed whether contractors were adhering to contract parameters, laws, and regulations. Prepared\npurchase agreements, contracts, and leases to acquire the most cost-effective services and terms.\n\u2022 Compared prices, discounts, delivery dates, and handling charges. Negotiated prices and services.\nGrocery Manager\nShoppers Food Warehouse  - Clinton, MD\nMarch 1990 to January 2000\nI managed a store of 70 employees. I managed the shrink (theft,mis) lost of product. I also hired,trained\nemployees. I made the daily schedules. I ordered the products for the grocery department of dry goods.\nI did the monthly and quarterly/yearly inventory of the store. I stock the shelves as needed to keep\nproduct in store.\nEducation\nSTRAYER UNIVERSITY\n2015 to 2017\nAssociate in Business Management\nTemple Hills, MD\nSkills\n\u2022An organized professional with over 12 years of government contracting experience in both the\nfederal and private sectors. The focal-point of my expertise is in the realm of contract interpretation,\ncloseout, negotiation, and administration. In addition, I have extensive knowledge with the Federal\nAcquisitions Regulations (FAR) in which I have successfully executed complex multimillion-dollar\ncontracts for the federal government.\n\u2022Management Account Management, PSC ACQUISITIONS\n\u2022Contracting Writing System\n\u2022PD 2 Contracting Writing System\n\u2022SAM\n\u2022System for Award Management\n\u2022FPDS\n\u2022Federal Procurement Data System\n\u2022Comprizon, PD2 Contracting Writing System\n\u2022DCIS- Departmental Contracts Information System\n\u2022PRISM\n\u2022GLASS\n\u2022Contract Writing System for procurement\n\u2022DELPHI\n\u2022Finance Inventory (invoices, Billing data)\n\u2022Procurement\n\u2022Contracting\n\u2022Negotiation\n\u2022Outlook, windows 10, Microsoft,\n",
+          "confidence": 1.0,
+          "method": "full_text",
+          "structured_data": null
+        },
+        "tax_term": {
+          "value": "CONTRACT",
+          "confidence": 0.9,
+          "method": "regex",
+          "structured_data": null
+        },
+        "source_by": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "designation": {
+          "value": "Support Specialist",
+          "confidence": 0.9,
+          "method": "ner",
+          "structured_data": null
+        },
+        "experience": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        }
+      }
+    },
+    {
+      "resume_path": "data\\input\\.Net - Data Lakes - Data Bricks - CA - Mehdi.doc",
+      "confidence_score": 0.665,
+      "used_ocr": false,
+      "extracted_fields": {
+        "skills": {},
+        "first_name": "Mehdi",
+        "last_name": "Haghdad",
+        "primary_email": {
+          "value": "mhaghdad2014@gmail.com",
+          "confidence": 0.9,
+          "method": "regex",
+          "structured_data": null
+        },
+        "secondary_email": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "phone": {
+          "value": "9493931150",
+          "confidence": 0.9,
+          "method": "regex",
+          "structured_data": null
+        },
+        "city": {
+          "value": "Newport Beach",
+          "confidence": 0.7,
+          "method": "ner",
+          "structured_data": null
+        },
+        "state": {
+          "value": "CA",
+          "confidence": 0.9,
+          "method": "zip_database",
+          "structured_data": null
+        },
+        "zip": {
+          "value": "92612",
+          "confidence": 0.7,
+          "method": "regex",
+          "structured_data": null
+        },
+        "work_authority": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "resume_link": {
+          "value": "data\\input\\.Net - Data Lakes - Data Bricks - CA - Mehdi.doc",
+          "confidence": 1.0,
+          "method": "file_path",
+          "structured_data": null
+        },
+        "raw_resume": {
+          "value": "\nMehdi Haghdad\n62 Parkcrest\nNewport Beach, CA 92612\nCell phone: (949) 393-1150\nmhaghdad2014@gmail.com\n\n                                  EDUCATION\nPHD, UCLA/UNIVERSITY OF CALIFORNIA DAVIS     OBTAINED ON 6/2003\nPhD in Electrical and computer engineering (in Smart Antenna Systems for\nLow Earth Orbit (LEO) Satellites)\n\nThe Royal Institute Of Technology, Stockholm, Sweden\nM.S. Degree: Telecommunications Engineering.\nB.S. Degree: Electrical Engineering\nB.S. Degree: Computer Science.\n\n                                   SUMMARY\nI HAVE ALMOST 20 YEARS OF EXPERIENCE IN ADVANCE ENGINEERING, 10 YEARS OF\nEXPERIENCE IN BIG DATA, 8 YEARS IN CLOUD, MULTI-CLOUD, AZURE, AWS, GCP, 7\nYEARS IN ARTIFICIAL INTELLIGENCE, ML DL CNN. I HAVE WORKED FOR SOME OF THE\nMOST PRESTIGIOUS COMPANIES IN SILICON VALLEY AND OTHER LOCATIONS SUCH AS\nLOCKHEED MARTIN, SPACE SYSTEMS LORAL, MICROSOFT (4 TIMES AS A SENIOR\nSOLUTION ARCHITECT FOR DIFFERENT MULTI-BILLION DOLLAR CLIENTS), HEWLETT\nPACKARD, TEXAS INSTRUMENTS, OPTUM, ACXIOM, CITIBANK, UNITED HEALTHCARE,\nERICSSON, ABB ATOM, ADAPTEC BROAD LOGIC, DELL, ARGONAUT TECHNOLOGIES,\nBAUSCH & LOMB, DARPA, DEPARTMENT OF DEFENSE (DOD) ETC.\nI have been responsible for the development of many systems and\napplications from the designing board to the commercial release.\n\n                                  OBJECTIVE\nPRIMARILY LOOKING FOR CONSULTING AND CONTRACT WORK BUT ALSO OPEN TO\nPERMANENT POSITIONS.\nSenior solution architect Hands On!!, Senior developer, Architect, DevOps\nfor advance engineering in Mulit-Cloud (Azure, AWS and GCP) Big Data,\nArtificial Intelligence. Can also help to build team and lead projects from\nconceptual design to commercial release.\n\nSenior Big Data and Cloud Architect Consultant / BI  Solutions  Architect  /\nData Management and Cloud Lead/ DevOps\n\n\n\n                                   SKILLS\n    . 18 YEARS OF SOLID WORKING EXPERIENCE WITH A PHD FROM UNIVERSITY OF\n      CALIFORNIA UCLA/DAVIS\n    . 17 years of experience as Hands-On Solution Architect, Team Lead,\n      Specialist, Developer, doing Senior Big Data and Cloud Architect\n      Consultant / BI Solutions Architect / Data Management and Cloud Lead\n    . Cloud Architecture, Big Data Engineering, Machine Learning, Deep\n      Learning, Data Scientist, Business Intelligence (BI), Data Warehousing\n      System Engineering multi-tiered applications.\n    . 9+ years of experience in Big Data, Hadoop, Spark, MapR, Cloudera,\n      Hortonworks, Storm, Kafka Confluent, Hive, Impala, Flume, Sqoop,\n      MapReduce, Pig, HBase, NiFi, oozie, Tableau Power BI, Cloudera\n      visualization, QlikView Scala SBT (My Preference), Java Maven etc.\n    . Expert in Big Data: HDFS, Hive, Spark, Scala, Java, Python, Hadoop,\n      Sqoop, Map/Reduce, Hortonworks, Cloudera, MapR, NoSQL HBase,\n      Cassandra, Kafka Confluent, Storm, Spark Streaming, Zeppelin, Kibana,\n      Spark MLib, Mahout, R, NiFi, Falcon, Oozie, Kylin, Atlas, Drill, Solr,\n      ElasticSearch, Ambari,Ranger, Flume, Impala, Pig, HDInsight, SBT etc.\n    . 8 years of Azure cloud and Multi-Cloud Hands on!! Extensive full cycle\n      Azure Cloud experience with full Big Data, Machine Learning Deep\n      Learning, Azure Machine Learning Studio, Azure Power BI, and Azure\n      Search. Comprehensive architecture, development and deployments of\n      massive Azure infrastructures for prestigious companies including 4\n      times for Microsoft as senior solution architect. Full cycle Data Lake\n      Design, Data Engineering and Pipelines, Data Streaming, Data Fabric,\n      Big Data and Artificial Intelligence design and implementation on\n      massive scale. Used Azure Data Factory (ADF Gen1 and Gen2), Azure\n      Datalake Storage (ADLS Gen1 and Gen2), SQL/NoSQL on Cloud, HDInsight,\n      Databricks, Databricks Delta Lake, Infrastructure as Code, Cloud\n      Governance, Azure CLI, Azure PowerShell, Python, DevOps, Kubernetes,\n      Docker, AKS Azure Kubernetes, CI/CD(CICD, CI CD,CI-CD) tools, MLOps,\n      Machine Learning, Deep Learning, Azure Machine Learning Studio, Azure\n      Search, and Elasticsearch, Azure DevOps with automated build and\n      release CI/CD(CICD, CI CD,CI-CD) pipelines utilizing ARM templates,\n      Terraform, Jenkins, Ansible, Azure CLI, Automations, Runbooks, Build\n      Tools, Azure Data Lake Store, Azure Data Lake Analytics, HDInsight\n      (Managed Hadoop), Databricks, Stream Analytics, Machine Learning\n      Studio, Azure Databricks\u00b8 Azure Data Factory, Azure Data Flow, Azure\n      Data Warehouse, Azure Synapse, Azure SQL Data Warehouse (Azure SQL\n      DW), Azure Analysis Services, Event Hubs, Power BI, and Azure Data\n      Catalog, Atlas, Collibra Data Intelligence, Erwin Data Governance.\n      Azure security Azure Active Directory AAD, AD. AAD-DS. ESP, MFA, IR\n      Integration Runtime Gateway, Domain join, Apache Ranger, Ambari,\n      Advanced 4 pillar of security for HDInsight (perimeter VNET, Kerberos\n      AD ESP authentication, Hive policies Ranger and data encryption) Azure\n      Spark Hive HBase Hadoop Kafka Confluent Storm ML Services (R Server)\n      HDInsight clusters, Domain-joined HDInsight clusters, Azure Zeppelin\n      notebooks, Azure Jupyter notebooks, Azure SQL Data Warehouses, Azure\n      Databricks, Azure Data Lake, Azure Data Lake Factory, Azure Data Lake\n      Storage, Azure Data Lake Analytics, Azure Data Links, Azure\n      Integration Runtime (IR), Azure Data Gateway, Azure Kubernetes\n      Services, Azure Storage Blobs, Azure Active Directory, Azure Service\n      Principals, Azure Security Center, Azure Key Vaults, Azure Virtual\n      Network vnet, Azure Log Analytics, Azure Network Interfaces, Azure\n      Cosmos DB, Azure Cortana Intelligence Suite, Infrastructure as a\n      Service IaaS, Platform as a Service PaaS, Microsoft R Server, NLB, Key\n      phrase extraction Azure search, Unstructured text analytics, Event\n      hub, Streaming, Poly Base etc.\n    . 8 years of AWS Cloud Extensive full cycle Cloud AWS Redshift, RDS,\n      EMR, Kinesis, S3, Glue, DMS, Athena, EC2, Lambda, experience with full\n      Big Data, Amazon Elastic MapReduce (EMR), Hadoop, Spark, Hive, Pig,\n      Kafka Confluent, MSK, AWS Management Console, AWS CLI, Amazon EMR File\n      System (EMRFS); Comprehensive CDK and CloudFormation experience with\n      writing script in TypeScript, JavaScript, Python, Java, and C#.\n      Collaborative notebooks Apache Zeppelin, Jupyter, deep learning\n      frameworks like Apache MXNet, RDS Aurora MySQL PostgreSQL,\n      Elasticsearch and SOLR, Machine Learning and Deep Learning development\n      and deployment. AWS Compute E2C, FarGate, Lambda, VMware, AWS\n      Developer Tools, AWS Management Tools, Amazon Machine Learning, AWS\n      DeepLens, Amazon Deep Learning AIMs, Amazon TensorFlow on AWS and\n      other components etc.\n                    .\n    . 5 years of Google Cloud (GCP) Architected and implemented multiple\n      massive projects for different companies Hands On!! Including Big\n      Data, Artificial Intelligence, SOLR on Kubernetes indexing from\n      Dataproc directly. Used among others Cloud Dataproc, BigQuery, Cloud\n      Dataflow, Cloud Data Fusion, Cloud Dataprep, Data Catalog, Google\n      Kubernetes Engine (GKE), Kubernetes CLusters, Dataproc CLusters,\n      Container Registry, Deep Learning Containers, Cloud Bigtable, Cloud\n      SQL, Firebase Realtime Database. For artificial intelligence used AI\n      building blocks, Text-to-Speech, Speech-to-Text, AutoML, Vision AI,\n      Cloud Natural Language, Video AI, AI Platform, AI Hub and AI Platform\n      Deep Learning VM Image etc.\n    . 7 years of Machine Learning, Deep Learning and Artificial Intelligence\n      MLlib, TensorFlow, Keras, Weka Mahout, Multilayer perceptron\n      classifier (MLPC), the feedforward artificial neural network,\n      Convolutional Neural Network CNN, scikit-learn, Pandas,\n      Deeplearning4j, H2o, Sparkling Water ML, Caffe2, MxNet etc. Different\n      algorithms K-Means, Random Forest, Gradient Boosting algorithms (GBM,\n      XGBoost and CatBoost) etc.\n    . 9 years of search engines ELK Stack Elasticsearch, Logstash, Kibana,\n      Filebeat, SOLR from early versions until 8.4.2, SOLR on Kubernetes on\n      GCP!!, Lucene, Rsync, Tika. Also been involved with migration from\n      SOLR to Elasticsearch for at least three companies etc.\n    . Expert in DevOps using Azure DevOps, VSTS, AWS-CodePipeline,\n      Terraforms, Jenkins, Ansible, Git, Maven, Cloudera Navigator, Data\n      Lineage, Kubernetes, Docker.\n    . 5 years of Solid Kubernetes, Orchestration and Micro Services\n      experience Distributed Container based Architecture, Docker, Docker\n      CLI, Kubernetes, Kubernetes CLI, kubeflow, Kube-scheduler, Pods, Pods\n      deployments. Service Deployments, Ingress, Helm Charts, Helm Charts\n      CLI, YAML etc. Successfully installed and deployed for several\n      companies huge Kubernetes Cluster (the latest with more than 2000\n      nodes 16,000 CPUs deployed in 20 minutes) with both Data Pipeline,\n      Data Lake (Raw Data Landing Zone, Processing Zone, Consumption Zone)\n      for Machine Learning, Convolutional Neural Network CNN, Spark on\n      Kubernetes, HDFS on Kubernetes, Kafka Confluent on Kubernetes,\n      Elasticsearch Logstash Kibana ELK on Kubernetes, NiFi on Kubernetes,\n      Hive HBase Jupyter Zeppelin with Scala and Python on Kubernetes. Used\n      Vagrant Terraform HashiCorp for deployment with 2000 nodes, 16,000\n      CPUs with Peta Bytes and 150TB / day capacity etc.\n    . 3 years of IBM Cloud and IBM Cloud Private (ICP) Distributed Container\n      based Architecture, Docker, Docker CLI, Kubernetes, Kubernetes CLI,\n      Pods, Pods deployments. Service Deployments, Ingress, Helm Charts,\n      Helm Charts CLI. Successfully installed and deployed an entire IBM\n      Cloud Private ICP Cluster then implemented and deployed ELK\n      Elasticsearch, Logstash, Kibana, Filebeat, Kafka Confluent, Zookeeper,\n      Cassandra, Curator on ICP IBM Private Cloud, Kubernetes, Pods using\n      Helm Charts, Scala SBT.\n    . 16 years of hands on .NET development, architecture and management\n      experience in application, real time, instrumentation, web, front end,\n      back end, full stack, multiple products out there multiple awards\n    . 16 years of hands on Java development, architecture, front end, back\n      end, full stack\n    . 6 years of Android mobile development and architecture with multiple\n      apps in the app store\n    . 16 years of experience in SQL 7-2016, MySQL, Oracle, and other\n      databases T-SQL, SSIS, SSRS, SSAS, OLTP, OLAP, Multidimensional Cube,\n      MDX, PowerPivot, Tabular Model, SharePoint, PerformancePoint.\n    . Demonstrated experience and understanding of the best practices in all\n      aspects of data modeling, data warehousing (Inmon/Kimball approach).\n      Solid experience in Data Warehouse\n    . Strong knowledge and proven results in Data Warehouse and Data Mart\n      design including Dimensional Modeling (Star & Snowflake Schemas), ER\n      Modeling, 3 Normal Forms, Normalization and Demoralization, Logical\n      Model and Physical Model, Fact/Dimension/Hierarchy identifications.\n    . From Business Case to Data Visualization, I have designed and\n      developed solutions by combining Business Process with Information\n      Technology.\n    . Firmware embedded programming, ARM, PIC, DSP, FPGA, RTOS Linux etc.\n    . Significant management experience including 4 years as the VP of\n      engineering\n\n                                 EXPERIENCE\nMICROSOFT, NEW YORK, NEWPORT BEACH CALIFORNIA      3/2019-PRESENT\nThis was my 4th contract with Microsoft as a high level solution architect\nand expert. Please note I am always hands on, always in addition to doing\nthe architecture I do coding, do DevOps, and do my own developments and\nPOCs. This was a complex hybrid multi projects with Kubernetes, Big Data,\nMulti-cloud (Azue, AWS and GCP), MapR, Kafka, Confluent, SOLR,\nElasticsearch etc. It was for an important Microsoft client, a multibillion\ndollar company in New York with Petabytes of data, and 10 terabyte\nstreaming and data ingestion a day:\n\nI was involved with multiple Kubernetes projects, a hybrid of MapR and\nmulti-cloud system with a massive MapR cluster (with 1400 note 16000 CPUs)\nand Multi-Cloud project (Azure AWS and GCP) with cloud Migration, Kafka\nConfluent streaming using Kappa with massive amount of data in Petabytes\nwith real time streaming using Kappa architecture. This project among\nothers included a comprehensive Data Pipeline, multiple Data Lakes (Landing\nZone, Processing Zone and Consumption zone), high level of domain Join\nsecurity, Big Data Visualizations, Machine Learning, Deep Learning (CNN\nRNN). The architecture that we created is similar to Uber Gen-4\narchitecture with Hudi capable of processing tens of petabytes of streaming\ndata. Please note that due to confidentiality and sensitivity I cannot and\nwill not reveal specific technical details.\n\n    . I lead, architected and helped developing multiple Kubernetes projects\n      on multiple large Kubernetes clusters. Initially we created POCs on\n      AWS (EKS) and Azure (AKS) but finally decided to use the Google\n      Kubernetes Engine (GKE) in GCP for a number of reasons (more than\n      welcome to ask me why in the interview). We created multiple clusters\n      and deployed HDFS Spark in Kubernetes (up to 1000 pods), Kafka\n      Confluent in Kubernetes (created both but decided on using pure Kafka\n      up to 30 pods brokers in Kubernetes), Zookeeper in Kubernetes (up to\n      30 pods ZK), a comprehensive SOLR cluster in Kubernetes (50 SOLR\n      pods), Elastic Search in Kubernetes (50 pods Elasticsearch) and other\n      orchestrations. Please note that due to the StatefulSet nature, these\n      projects were fairly complex using headless services for HDFS, Kafka,\n      Zookeeper, SOLR, Elasticsearch etc however after deployments they were\n      very reliable, scalable. For example with one replica command change\n      in Helm Chart it would go from 5 node to 30 brokers Kafka in minutes.\n      Could index from inside the dataproc into the SOLR kubernetes in a\n      lightning speed. Used other component of the GCP among others Cloud\n      Dataproc, BigQuery, Cloud Dataflow, Cloud Data Fusion, Cloud Dataprep,\n      Data Catalog, Google Kubernetes Engine (GKE), Kubernetes CLusters,\n      Dataproc CLusters, Container Registry, CI/CD (CICD, CI CD,CI-CD)\n      pipelines, Deep Learning Containers, Cloud Bigtable, Cloud SQL,\n      Firebase Realtime Database. For artificial intelligence used AI\n      building blocks, Text-to-Speech, Speech-to-Text, AutoML, Vision AI,\n      Cloud Natural Language, Video AI, AI Platform, AI Hub and AI Platform\n      Deep Learning VM Image etc.\n    . I lead, architected and helped developing a massive MapR cluster with\n      1400 note 16000 CPUs. A comprehensive Data Pipeline with data\n      ingestions from variety of sources RDBMS, hardware logs, images,\n      streaming data, files, documents into the Data Lake. Using Confluent,\n      Kafka Confluent both inside Kubernetes and outside, Kappa architecture\n      with schema evolution, Avro, Parquet (similar to Uber Gen 4\n      architecture) we were able to ingest tens of terabytes of data a day\n      like a charm. The Big Data part used Hadoop, Spark, and Kafka\n      Confluent on mainly MapR but also interacting with Azure HDInsight,\n      AWS EMR, and Kubernetes Cluster. Used also, Spark, Spark Streaming,\n      Storm, Kafka Confluent, Hive, Pig, Impala, Flume, Sqoop, MapReduce,\n      Pig, HBase, NiFi, oozie, Tableau Power BI and, Oozie, QlikView etc.\n      Most of the code were written in Python, PySpark and Scala.\n    . I lead, architected and helped developing a comprehensive Azure\n      infrastructure working with ADF Azure Data Factory gen2, ADLS Azure\n      Data Lake gen2, Data Catalog, Databricks, Delta Lake, Delta tables,\n      Databricks Staging and Merge! Kubernetes, HDInsight, HDInsight\n      Monitoring 4.0, ESP. AD. AAD-DS. ESP, MFA, IR Integration Runtime\n      Gateway, CI/CD (CICD, CI CD,CI-CD) pipelines, Domain join, Apache\n      Ranger, Ambari, Advanced 4 pillar of security for HDInsight (perimeter\n      VNET, Kerberos AD ESP authentication, Hive policies Ranger and data\n      encryption), Advanced ADLS data lake structures, advance Machine\n      learning and CNN, ARM templates, Azure Runbook, notebooks Zeppelin,\n      Jupyter,, Hadoop, Spark, Kafka Confluent, Hive, Hbase. For AI used\n      Azure Machine Learning Service, Azure Machine Learning Studio. For\n      monitoring used Azure Monitor, Azure DevOps, Azure CLI, Azure\n      PowerShell, and Azure Automation. For security I used Azure Active\n      Directory, Azure Role Based Access Control, Azure Subscription\n      Management Azure RBAC, Multi-Factor Authentication, Azure Active\n      Directory Domain Services AAD-DS, Azure Policy, Azure Service\n      Principal, Azure Keys and Key Vault, Enterprise Security Package Azure\n      ESP. For Kubernetes and Micros Services I used Azure Kubernetes\n      Service (AKS), Service Fabric Mesh, Azure Container Instances and\n      Azure Container Registry etc.\n    . I lead, architected and helped developing a comprehensive AWS\n      infrastructure with: Redshift (also tested POC in Snowflake Data\n      Warehouse and Snowpipe), RDS, EMR, MSK (Kafka Confluent), S3 AWS\n      Compute E2C, Glue, DMS, Athena, EC2, RDS Aurora MySQL PostgreSQL,\n      Elasticsearch, Lambda projects with full Big Data, Amazon Elastic\n      MapReduce (EMR), CI/CD (CICD, CI CD,CI-CD) pipeline, CloudFormation\n      CFN,Spark, Kafka Confluent, Oozie, Sqoop, NiFi, Pig, Hive, Hbase, MSK,\n      AWS CLI, Amazon EMR File System (EMRFS). Comprehensive CDK and\n      CloudFormation experience with writing script in TypeScript,\n      JavaScript, Python, Java, and C#. Collaborative notebooks Zeppelin,\n      Jupyter. AWS networking used VPC, Private Subnet, Public Subnet,\n      Internet Gateway, Routing Security groups etc. Visualization and\n      analysis used QuickSight and CloudSearch. Also created a Kubernetes\n      cluster using Elastic Container Service for Kubernetes (EKS), App\n      Mesh, EC2 Container Service (ECS), FarGate. For AI used deep learning\n      frameworks like Apache MXNet Machine Learning and Deep Learning\n      development and deployment, VMware, AWS Developer Tools, AWS\n      Management Tools, Amazon Machine Learning, SageMaker, Alexa Skills\n      Kit, AWS DeepLens, Amazon Deep Learning AMIs, Amazon TensorFlow on AWS\n      and other components. For security used Identity and Access Management\n      (IAM), AWS Organizations, Multi-Factor Authentication. etc.\n    . I lead, architected and helped developing multiple  CDK and\n      CloudFormation projects with writing script in TypeScript, JavaScript,\n      Python and Java.\n    . I lead, architected and helped developing deep learning, machine\n      learning and Convolutional Neural Networks (CNN) using Python, R,\n      PySpark and Scala libraries like scikit-learn, Pandas, Deeplearning4j,\n      Sparkling Water ML, Caffe2, MxNet etc. Different algorithms were used\n      like K-Means, Random Forest, Gradient Boosting algorithms (GBM,\n      XGBoost, XGBoost and CatBoost). Also used GPUs especially with\n      Convolutional Neural Networks CNNs with TensorFlow, Keras.\n    . Development in, Scala, SBT, Eclipse, Python, Pyspark, R, Zeppeline,\n      Jupyter\n\nEricsson, Santa Clara, California 8/2018-3/2019\nDesigned and developed data engineering solutions as a senior Hands-On\nSolution Architect Consultant, Big Data, Data Engineer, Data Scientist,\nsenior developer, Data Warehousing, Spark, HDFS, Kafka Confluent, BI,\nKubernetes, IBM Cloud and IBM Cloud Private (ICP), advanced Machine\nLearning Deep Learning and Convolutional Neural Networks CNN. I am one of\nthe main Architects of GAIA (Ericsson Global Artificial Intelligence\nAccelerator) a $75,000,000 / year new department intended to use Artificial\nIntelligence ML, DL, CNNs to revolutionize cellular communication\nespecially for the G5. Working as senior Solution Architect Consultant,\nsenior developer, senior data engineer, senior data scientist. Implemented\n2000 node 16,000 CPUs Kubernetes cluster and implemented variety of Machine\nLearning, Deep Learning and Convolutional Neural Network CNN. The\nKubernetes Cluster that I created had Data Pipeline, Data Lake (Raw Data\nLanding Zone, Processing Zone, Consumption Zone) with the capacity of Peta\nBytes 150TB /Day Data for Machine Learning, Convolutional Neural Network\nCNN, Spark, HDFS, Kafka Confluent, Elasticsearch Logstash Kibana ELK, NiFi,\nHive, HBase, Jupyter Zeppelin with Scala and Python. Also implemented\nadvanced Machine Learning, Deep Learning, and Convolutional Neural Networks\nCNN and deployed massive POCs on Azure Cloud, GCP, AWS and OpenStack with\nimpressive results.\n\n    . Migrated and architected a Multi-Cloud solution using AWS and Azure\n      using resources such as Redshift, RDS, EMR, Kinesis, S3, Glue, DMS,\n      Athena, EC2, Lambda projects with full Big Data, CI/CD (CICD, CI CD,CI-\n      CD) pipelines, Amazon Elastic MapReduce (EMR), Hadoop, Spark, Hive,\n      Pig, Kafka Confluent, VPC, Subnet, Gateway, AWS Management Console,\n      AWS CLI, Amazon EMR File System (EMRFS), collaborative notebooks\n      Apache Zeppelin, Jupyter, deep learning frameworks like Apache MXNet,\n      Elasticsearch and SOLR, Machine Learning and Deep Learning development\n      and deployment. AWS Compute E2C, RDS Aurora MySQL PostgreSQL, FarGate,\n      Lambda, VMware, AWS Developer Tools, AWS Management Tools, Amazon\n      Machine Learning, AWS DeepLens, Amazon Deep Learning AIMs, Amazon\n      TensorFlow on AWS and other components. etc.\n\n   In a course of less than a year, I have architected and lead some of the\n      most sophisticated Big Data, Deep learning, Machine Learning, and\n      Convolutional Neural Network CNN in the nation for Ericsson Artificial\n      Intelligence Accelerator (Ericsson GAIA) in Santa Clara California.\n      For the first time the technologies were right to create a\n      comprehensive 2000 nodes 16,000 CPUs cluster on Kubernetes with all\n      necessary micro services with automatic orchestration with dynamic\n      deployment for a petabytes Artificial Intelligence system. Some of the\n      results were are impressive. Examples:\n\n\n    . Machine Learning, Deep Learning, Convolutional Neural Network CNN,\n      Anomaly detection on massive amount of real time streaming 5G wireless\n      data with 150TB /day live with high accuracy using the 2000 nodes\n      16,000 CPUs Kubernetes cluster. This would have taken years of\n      processing in the past and is now feasible in minutes on live data.\n    . High accuracy at detecting hack attack, security breach and data\n      breach on live data using CNNs\n    . High accuracy at predicting system availability and reliability and\n      predicting anomalies.\n\n\n***Please note that due to the sensitivity and proprietary nature of these\nprojects and since I am one of the main architect I cannot and will not\nreveal and will not go into too much details!!!\n\n\n    . Created massive Kubernetes clusters on OpenStak, Azure, GCP, AWS with\n      micro service Successfully installed and deployed clusters with more\n      than 2000 nodes 16,000 CPUs deployed in 20 minutes with both Data\n      Pipeline, Data Lake (Raw Data Landing Zone, Processing Zone,\n      Consumption Zone) for Machine Learning, Convolutional Neural Network\n      CNN, Spark on Kubernetes, HDFS on Kubernetes, Kafka Confluent on\n      Kubernetes, Elasticsearch Logstash Kibana ELK on Kubernetes, NiFi on\n      Kubernetes, Hive, HBase, kubeflow, Kube-scheduler, Jupyter Zeppelin\n      with Scala and Python on Kubernetes. Used Vagrant Terraform HashiCorp\n      for deployment with 2000 nodes, 16,000 CPUs with Peta Bytes and 150TB\n      / day capacity.\n    . I lead, architected and helped developing deep learning, machine\n      learning and Convolutional Neural Networks (CNN) systems for 5G\n      wireless data anomaly detection, system availability, Hack attack,\n      Security breach, data breach detection and protection. For peak\n      performance a distributed architecture were created using 16,000 CPUs\n      with amazing results using Spark, HDFS, Scala, SBT, MLlib, TensorFlow,\n      Keras. Some of the development were based on Multilayer perceptron\n      classifier (MLPC) which is a classifier based on the feedforward\n      artificial neural network. Also created other prototypes using Python,\n      R, PySpark and Scala libraries like scikit-learn, Pandas,\n      Deeplearning4j, Sparkling Water ML, Caffe2, MxNet etc. Different\n      algorithms were used like K-Means, Random Forest, Gradient Boosting\n      algorithms (GBM, XGBoost, XGBoost and CatBoost). Also used GPUs\n      especially with Convolutional Neural Networks CNNs with TensorFlow,\n      Keras.\n    . I used TensorFlow, Keras and create similar to YOLO type Convolutional\n      Neural Network on GPUs for detection of different type of anomalies on\n      wireless data. I used the conversion of data to pictures and run it\n      through the Neutral network with amazing results.\n    . I used Acumos AI platform for certain type of ML and CNN projects with\n      cascading Convolutional Neural Networks. I attempted to create an\n      Artificial Intelligence AI environment to facilitate cascading\n      Convolutional Neural Network using.\n    . Created Data Pipeline with real time, intermediate and permanent\n      repositories on Kubernetes. By using huge Kafka Confluent clusters\n      with huge partitions inside Kubernetes, the data was gathered in a\n      Round-robin fashion from variety of sources including real hardware,\n      routers, radios, etc. and was brought into the real time repositories.\n      Using Scala SBT Python Jupyter Zeppelin, Spark, Kafka Confluent, NiFi,\n      ELK, Kubeflow, Kube-scheduler etc. the capacity of the Data Pipeline\n      was 150TB /Day but could be easily extended by simple Kubernetes\n      Orchestration scripts.\n    . Created a Petabytes Data Lake with Raw Data Landing Zone, Processing\n      Zone and Consumption Zone. The Data Lake was specifically designed for\n      ease of use for Artificial Intelligence and therefore the Data\n      Scientist were able to directly access different type of data from\n      real time to intermediate to permanent Data from the Data Lake's\n      Consumption Zone for different type of anomaly detection. The\n      processing in the Data Lake was using Delta and Flip to ensure that\n      the data is accessible at any time even during the processing.\n    . Azure Cloud, I architected, led and did actual implementation of\n      massive Azure Cloud project with extensive full cycle Cloud Azure\n      experience covering the Data Ingestion, Data Transformation and Data\n      Consumption with Machine Learning Deep Learning. This was a massive\n      project on a large scale on Azure which covered a full range of areas\n      including but not limited to Big Data, Machine Learning Deep Learning,\n      Azure Machine Learning Studio, Azure Power BI, Azure Search, and\n      Elasticsearch on Azure development and deployment. Comprehensive\n      deployments of massive Azure infrastructures from inside the Visual\n      Studio 2017 using ARM Templates, Azure Runbook. Deployment of many\n      Azure projects for different companies and here are some of\n      practical!! Hands on!! Component that I have personally used, Azure\n      Spark Hive HBase Hadoop Kafka Confluent Storm ML Services (R Server)\n      HDInsight clusters, Domain-joined HDInsight clusters,, Azure Zeppelin\n      notebooks, Azure Jupyter notebooks, Azure SQL Data Warehouses, Azure\n      Databricks, Azure Data Lake, Azure Data Lake Factory CI/CD (CICD, CI\n      CD,CI-CD) pipelines, Azure Data Lake Storage, Azure Data Lake\n      Analytics, Azure Data Links, Azure Integration Runtime (IR), Azure\n      Data Gateway, Azure Kubernetes Services, Azure Storage Blobs, Azure\n      Active Directory, Azure Service Principals, Azure Security Center,\n      Azure Key Vaults, Azure Virtual Network vnet, Azure Log Analytics,\n      Azure Network Interfaces, Azure Cosmos DB, Azure Cortana Intelligence\n      Suite, Infrastructure as a Service IaaS, Platform as a Service PaaS,\n      Microsoft R Server, NLB, Key phrase extraction Azure search,\n      Unstructured text analytics, Event hub, Streaming, Poly Base etc..\n    . The Big Data part used Hadoop, Spark on mainly MapR but also Cloudera\n      and Hortonworks, Storm, Kafka Confluent, Hive, Pig, Impala, Flume,\n      Sqoop, MapReduce, Pig, HBase, NiFi, oozie, Tableau Power BI and\n      Cloudera visualization, QlikView etc.\n    . Development languages, Extensive Scala SBT (My Preference), Java\n      Maven, Eclipse Intellij (my preference), Python, R, Jupyter, PySpark,\n      Ruby and even some, Linux Shell Script, Shell Scripts\n\nMicrosoft, New York, California   3/2018-8/2018\nSenior Solution Architect Consultant, senior developer, Azure Big Data,\nETL, various databases, Data Warehousing, Spark, Databricks, HDInsight, BI,\nadvanced Machine Learning Deep Learning. I implemented, architected and a\nmassive Azure Cloud infrastructure with big data, machine learning, deep\nlearning, and Artificial Intelligence Neural Network\n\n   This was a project with Microsoft and I worked as Microsoft expert on\n      Azure in New York, other companies involved were Pragmatic Works and\n      Selective in New York. I was involved from the designing board all the\n      way to complete implementation and production release. Azure despite\n      simplicity has enormous amount of details. Many engineers that I\n      interviewed and some of whom that I worked with, may have known bits\n      and pieces but actually creating clusters and implementing systems on\n      Azure require substantial experience and know how, I have that.\n    . Azure Cloud, I architected, led and did actual implementation of\n      massive Azure Cloud project with extensive full cycle Cloud Azure\n      experience covering the Data Ingestion, Data Transformation and Data\n      Consumption with Machine Learning Deep Learning. This was a massive\n      project on a large scale on Azure which covered a full range of areas\n      including but not limited to Big Data, Machine Learning Deep Learning,\n      Azure Machine Learning Studio, Azure Power BI, Azure Search, and\n      Elasticsearch on Azure development and deployment. Comprehensive\n      deployments of massive Azure infrastructures from inside the Visual\n      Studio 2017 using ARM Templates, Azure Runbook. Deployment of many\n      Azure projects for different companies and here are some of\n      practical!! Hands on!! Component that I have personally used, Azure\n      Spark Hive HBase Hadoop Kafka Confluent Storm ML Services (R Server)\n      HDInsight clusters, Domain-joined HDInsight clusters, Azure Zeppelin\n      notebooks, Azure Jupyter notebooks, Azure SQL Data Warehouses, Azure\n      Databricks, Azure Data Lake, Azure Data Lake Factory, CI/CD (CICD, CI\n      CD,CI-CD) pipelines, Azure Data Lake Storage, Azure Data Lake\n      Analytics, Azure Data Links, Azure Integration Runtime (IR), Azure\n      Data Gateway, Azure Kubernetes Services, Azure Storage Blobs, Azure\n      Active Directory, Azure Service Principals, Azure Security Center,\n      Azure Key Vaults, Azure Virtual Network vnet, Azure Log Analytics,\n      Azure Network Interfaces, Azure Cosmos DB, Azure Cortana Intelligence\n      Suite, Infrastructure as a Service IaaS, Platform as a Service PaaS,\n      Microsoft R Server, NLB, Key phrase extraction Azure search,\n      Unstructured text analytics, Event hub, Streaming, Poly Base etc.\n\n\n\nOptum United Healthcare, Santa Ana (partially in Minneapolis), California\n8/2016-3/2018\nLead, Senior Solution Architect Consultant, senior developer, Big Data,\nData Engineer, Data Scientist, Data Warehousing, Spark, HDFS, Kafka, BI,\nKubernetes, IBM Cloud and IBM Cloud Private (ICP), advanced Machine\nLearning Deep Learning on the cutting edge of the Genome, Berkeley Amplab\nAdam Genomics, GATK. Elasticsearch SOLR. Also implemented and deployed a\nmassive Azure Cloud infrastructure with big data, machine learning, deep\nlearning, and artificial intelligence convolutional neural network CNN.\n\n   In a course of one year, I have architected and lead some of the most\n      sophisticated Big Data, Deep learning and Machine Learning, Azure\n      Cloud projects in the nation for Optum in Minneapolis and California.\n      I have had access and utilized thousands of servers, 12,000 CPUs,\n      enormous amount of memories and the results has been astonishing\n      beyond even my own and everybody's expectations. Examples:\n\n\n    . Genomic analysis for prediction of various cancers on 3000 known\n      samples from our genomic bank, 12,000 CPUs, enormous amount of\n      memories the processing time were reduced from 46.7 years to 22\n      minutes 47 seconds! with 99% prediction accuracy, this was recently\n      presented at a conference.\n    . 4 billion records with 53 pre and post processing queries, reduced\n      from days to under a minute!\n\n\n   Please note that due to the highly proprietary and sensitive nature of\n      these projects, I will not be able nor will I disclose the technical\n      details.\n\n\n    . I lead, architected and helped developing deep learning and machine\n      learning systems for genetic analysis and prediction system for\n      occurring of different type of cancers with more than 99% accuracy.\n      For peak performance a distributed architecture were architected using\n      12000 CPUs with amazing results. Spark, HDFS, Scala, SBT, MLlib,\n      TensorFlow, Keras. Some of the development were based on Multilayer\n      perceptron classifier (MLPC) which is a classifier based on the\n      feedforward artificial neural network. Also created other prototypes\n      using Python, R, PySpark and Scala libraries like scikit-learn,\n      Pandas, Deeplearning4j, Sparkling Water ML, Caffe2, MxNet etc.\n      Different algorithms were used like K-Means, Random Forest, Gradient\n      Boosting algorithms (GBM, XGBoost, XGBoost and CatBoost)\n    . For hardware processing of the Big Data, the Deep Learning and Machine\n      Learning different architectures were tested on IBM Neteeza, Teradata\n      and distributed architecture with 12000 CPUs and memory (Spark). The\n      result were absolutely clear, there is no comparison the distributed\n      architecture is far more superior and is the future!\n    . The Big Data part used Hadoop, Spark on mainly MapR but also Cloudera\n      and Hortonworks, Storm, KafKa, Hive, Pig, Impala, Flume, Sqoop,\n      MapReduce, Pig, HBase, NiFi, oozie, Tableau Power BI and Cloudera\n      visualization, QlikView etc.\n    . I lead, architected and helped developing a hybrid system of\n      Elasticsearch and HDFS using Logstash, Rsync and Kafka. The\n      Elasticsearch was sharded over 25 nodes but later deployed on AWS.\n      Three type of data were indexed and inputted into the Elasticsearch\n      (Kibana):\n    o The hardware and system logs for real time (Kafka) hardware and system\n      monitoring\n    o The patient and claim data from HDFS, Hive and HBase for search and\n      quick BI visualization in Kibana.\n    o Data Export files from MarkLogic\n    o For basic search used by different system via an API on top of the\n      Elasticsearch\n    . I lead, architected and helped developing a massive data ingest system\n      from different providers with a permanent and real time pipeline\n      (Kafka) using Delta and Flip methods for an ongoing uninterrupted data\n      ingest. The source data were RDBMS, Hive, HBase, MarkLogic, flat data\n      and log files etc.\n    . Azure Cloud, I architected, led and did actual implementation of\n      massive Azure Cloud project with extensive full cycle Cloud Azure\n      experience covering the Data Ingestion, Data Transformation and Data\n      Consumption with Machine Learning Deep Learning. This was a massive\n      project on a large scale on Azure which covered a full range of areas\n      including but not limited to Big Data, Machine Learning Deep Learning,\n      Azure Machine Learning Studio, Azure Power BI, Azure Search, and\n      Elasticsearch on Azure development and deployment. Comprehensive\n      deployments of massive Azure infrastructures from inside the Visual\n      Studio 2017 using ARM Templates, Azure Runbook. Deployment of many\n      Azure projects for different companies and here are some of\n      practical!! Hands on!! Component that I have personally used, Azure\n      Spark Hive HBase Hadoop Kafka Storm ML Services (R Server) HDInsight\n      clusters, Domain-joined HDInsight clusters, CI/CD (CICD, CI CD,CI-CD)\n      pipelines, Azure Zeppelin notebooks, Azure Jupyter notebooks, Azure\n      SQL Data Warehouses, Azure Databricks, Azure Data Lake, Azure Data\n      Lake Factory, Azure Data Lake Storage, Azure Data Lake Analytics,\n      Azure Data Links, Azure Integration Runtime (IR), Azure Data Gateway,\n      Azure Kubernetes Services, Azure Storage Blobs, Azure Active\n      Directory, Azure Service Principals, Azure Security Center, Azure Key\n      Vaults, Azure Virtual Network vnet, Azure Log Analytics, Azure Network\n      Interfaces, Azure Cosmos DB, Azure Cortana Intelligence Suite,\n      Infrastructure as a Service IaaS, Platform as a Service PaaS,\n      Microsoft R Server, NLB, Key phrase extraction Azure search,\n      Unstructured text analytics, Event hub, Streaming, Poly Base etc..\n    . Genome Analysis Toolkit 4 (GATK4) from Broad Institute, ADAM Genomics\n      Berkeley AMPLab, BAM, SAM, VCF genome variant. Worked also with mango,\n      gnocchi, deca, avocado, quinine, cannoli etc\n    . Using SOLR / Elasticsearch created a detail analytical graphical\n      dashboard in Kibana for Patient Data, Claim Data and Provider Data.\n    . I architected and led multiple AWS projects, Redshift, RDS, EMR,\n      Kinesis, S3, Glue, DMS, Athena, EC2, Lambda, with full Big Data,\n      Amazon Elastic MapReduce (EMR), Hadoop, Spark, Hive, Pig, Kafka, AWS\n      Management Console, AWS CLI, Amazon EMR File System (EMRFS),\n      collaborative notebooks Apache Zeppelin, Jupyter, deep learning\n      frameworks like Apache MXNet, Elasticsearch and SOLR, Machine Learning\n      and Deep Learning development and deployment. AWS Compute E2C,\n      FarGate, Lambda, VMware, AWS Developer Tools, CI/CD (CICD, CI CD,CI-\n      CD) pipelines, AWS Management Tools, Amazon Machine Learning, AWS\n      DeepLens, Amazon Deep Learning AIMs, Amazon TensorFlow on AWS and\n      other components. etc.\n    . Development languages, Extensive Scala SBT (My Preference), Java\n      Maven, Eclipse Intellij (my preference), Python, R, Jupyter, PySpark,\n      Ruby and even some, Linux Shell Script, Shell Scripts\n    . Successfully installed and deployed an entire IBM Cloud Private ICP\n      Cluster then implemented and deployed ELK Elasticsearch, Logstash,\n      Kibana, Filebeat, Kafka, Zookeeper, Cassandra, Curator on ICP IBM\n      Private Cloud, Kubernetes, Pods using Helm Charts, Scala SBT. IBM\n      Cloud and IBM Cloud Private (ICP) is a Distributed Container based\n      Architecture, Docker, Docker CLI, Kubernetes, Kubernetes CLI, Pods,\n      Pods deployments. Service Deployments, Ingress, Helm Charts, Helm\n      Charts CLI.\n\n\nOneStop, El Segundo, California   2/2016-8/2016\nSenior lead, Senior Solution Architect Consultant, senior developer, Big\nData, Data Warehousing, BI, SOLR, Lucene, Elasticsearch, Mahout, Weka\nMachine Learning Lead.\n   I was initially hired at OneStop because of similar experience I had from\n      Dell and Microsoft in Big Data, SOLR Elasticsearch and Machine\n      Learning, taxonomy etc.\n    . I lead, architected and helped developing a Big Data system with 256\n      nodes using Hadoop, Spark on Hortonworks and later migrated to\n      Cloudera, Storm, KafKa, Hive, Pig, Impala, Flume, Sqoop, MapReduce,\n      Pig, HBase, oozie, Tableau Power BI and Cloudera visualization,\n      QlikView\n    . Development languages, extensive Scala SBT (my preference), Java\n      Maven, Eclipse Intellij, Python, R, PySpark, Ruby, C#, Unix Shell\n      Scripts, Linux Shell Scripts\n    . I lead, architected and help developing the SOLR/Lucene Search system\n      which was later migrated to Elasticsearch with 15 nodes sharding. The\n      system was initially developed and maintained in house but later\n      deployed to AWS cloud and prototyped on Azure. The development and\n      test of the 15 node done on VirtualBox machines, physical machines\n      before deployment to the Cloud. The SOLR development was done in two\n      different phases, initially we did indexing directly on top of the\n      metadata extracted from various files with Apache Tika, Apache Flume\n      and scoop. I wrote a scheduler in Java that run delta indexing\n      periodically every few hours. We had customized faceting and then the\n      API would grab the top N results from the XML. The search worked\n      better than expected, the indexing was slow but the search was\n      extremely fast in fraction of a second. On the second phase we stored\n      all the raw documents in HDFS and create indexing and then use HBase\n      to store the index files in HDFS. Also an API was developed in JAVA\n      with a .NET wrapper with SOLR search calls into the SOLR engine.\n    . I lead, architected and help developing an advanced Machine Learning\n      system initially in Spark MLlib then Weka and ultimately a Mahout\n      Machine learning and recommendation system using both ItemSimilarity\n      and UserNeighborhood. I personally favored and created porotypes using\n      Spark MLlib, TensorFlow, Keras, Python libraries like scikit-learn,\n      Pandas but in this case Mahout worked very well. The .NET API would\n      record every time a product was clicked or purchased. The data was\n      recorded in the database and then the metadata was created and the\n      mahout would create a scoring table (0-10) for product and region. The\n      .NET API would select top N highest score and would present it as\n      recommendations.\n    . I lead, architected and helped developing a gigantic amount of data\n      extraction, data warehousing, Big Data. The data was gathered in\n      access of tens of terabytes from more than 40 top of the lines brands\n      Ecommerce sites partnered and operated by OneStop like FRYE, Juicy\n      couture, NYDJ, PAIGE, Splendid, Coffee Beans, Jones New York, Hudson\n      and many more. Used SSIS ETL for SQL to port data to the Data\n      Warehouse and then used Sqoop for extracting from RDBMS to the HDFS,\n      used Flume for extracting from logs files, FTP NAS files to the HDFS,\n      used Apache Tika and Java for extracting metadata from various files\n      into the HDFS, used Nutch for web crawling and for extraction metadata\n      into the HDFS, used SAPI, CMU Sphinx, Kaldi for customer service voice\n      to text conversion into the HDFS\n    . I architected and implemented a real time and streaming component for\n      the Cloudera visualization using Apache Strom and Apache Kafka.\n    . I lead, architected and help developing an elaborate real time\n      visualization using Tableau and Cloudera visualization for the big\n      data portion.\n    . The Big data prototype was deployed both on AWS and Azure. For a\n      number reasons the final decision for the cloud deployment was made\n      for deployment into the AWS not Azure.\n    . I lead and oversaw the conversion of part of the SOLR search project\n      to Elasticsearch and benchmarked the performance. Although I liked\n      working with JASON for various reason SOLR was preferred initially.\n    . I lead, architected and help developing Kibana 4.5 visualization on\n      top of both SOLR and Elasticsearch.\n    . Wrote and oversaw a development of combination of batch files, python\n      and Ruby scripts for SOLR/Lucene and Big Data deployment and\n      configurations. I have to add that I started the conversion of batch\n      file to Python but there were simply not enough time.\n    . Did extensive prototyping and benchmarking and helped evaluating the\n      performance of the big data on Massively Parallel Processing (MPP) and\n      other  Data Warehouse Appliances such as IBM Netezza, Teradata, APS\n      (PDW), Oracle Exadata\n\n\nCanadian Tire, California / Toronto     8/2015-2/2016\nSenior Big Data, DW and BI Lead Solution Architect Consultant.\n    . Led multiple large scale Big Data, Enterprise Data Warehouse EDW and\n      Business Intelligence BI projects on Teradata utilizing Spark, Hadoop,\n      Hortonworks, Cloudera, Hive, Impala, Flume, Sqoop, Map Reduce, Pig,\n      HDInsight, HBase, oozie, and facilitating the real-time data analysis\n      by the data scientist.\n    . Led multiple EDW projects, prototyped and evaluated their performance\n      on the Massively Parallel Processing (MPP), other Data Warehouse\n      Appliances such as IBM Netezza, Teradata, APS (PDW), Oracle Exadata\n    . Development languages, extensive Scala SBT (my preference), Java\n      Maven, Eclipse Intellij, Python, R, PySpark, Ruby, C#, Unix Shell\n      Script, Linux Shell Scripts\n    . Leading the team, I designed architected and implemented the migrating\n      from legacy information warehouse to a modern high performance Big\n      Data and Data Warehouse running on multiple DW appliances. Drafted a\n      BI/DW prioritized implementation roadmap working with the business and\n      finance department.\n    . Leading the team we migrated and deployed 5 projects to Azure Cloud. I\n      was personally involved in the full cycle of vendor selection,\n      requirement gathering, design, development and the deployment of these\n      projects. The migration included different aspects of the projects\n      from front, backend, and integration. We went through thorough\n      research before selecting the Azure cloud for this project and also\n      utilized cutting edge utilities to perform the migration and\n      deployment.\n    . Drafted a BI/DW prioritized implementation roadmap while taking input\n      from internal divisional service plans, business and IT strategy\n      documentation, as well as corporate BI Strategy and the Financial\n      Planning and Reporting System\n    . Designed Enterprise Information Management (EIM) solutions for retail\n      operation. Led technical teams and designed various BI solutions\n      including loyalty programs, card management, POS data management,\n      customer behavioral analysis, store dashboards, finance, ecommerce,\n      cyber security analytic.\n    . Defined the data governance strategy, designed security patterns,\n      implemented data standards and procedures across the enterprise;\n      drafted business specific methodology to establish business\n      stakeholder-driven data stewardship through MDM\n    . Conducted BI maturity assessment of the organization. Architected\n      DW&BI Program Structure, defined the role of DW&BI Program Steering\n      Committee, it's mission, objectives, roles and responsibilities,\n      monitored regular improvements to help manage risks, evaluate trends,\n      and develop capacity and capability to achieve the Program mission\n\nNovaWurks/DARPA, Los Alamitos, California    11/2014-8/2015\nSenior Big Data, DW and BI Lead Solution Architect Consultant, Java Android\nconsultant\nWorked as senior Big Data Solution Architect, team leader and core\ndeveloper on PHOENIX project, an advanced satellite system for DARPA\n(Defense Advanced Research Projects Agency), a network of small satellites\ndue to launch to orbit in 2015. Due to the sensitivity cannot go into too\nmuch details!\n    . Led several Big Data projects on massive amount of transmitted and\n      logged data from the satellite network to the ground station. These\n      projects were developed utilizing Cloudera, Hadoop, Spark, Hive,\n      Impala, Flume, Sqoop, Storm, Pig, HDInsight, HBase, oozie. Due to the\n      real time nature of the project Apache Storm and Apache Kafka was used\n      for handling of the streaming and the real time data feed.\n    . I led the team, designed, architected and implemented an elaborate\n      Data Warehouse and Data Mart using Dimensional Modelling Star Schema\n      for satellite data aggregation, data storage, data log, real time\n      operation status data and other needs.\n    . Utilized the Cloudera Visualizations, Dashboards, and Reports to\n      monitor the operation of the satellites and any warning issues due to\n      any errors, miss functions or failures. Other visualization tools were\n      also created using Java and Android.\n    . Development languages, extensive Scala SBT (my preference), Java\n      Maven, Eclipse Intellij, Python, R, PySpark, Ruby, C#, Shell Scripts\n    . Led the team developed multiple real time Android Apps and middleware\n      using Android Studio and Eclipse, Android SDK and Java, RESTful APIs,\n      Retrofit, GSON, JSON, Regex, JGroups IP Multicast, Apache Thrift,\n      Python. Also used the following technologies and systems, Xilinx FPGA,\n      Verilog, TI DSP, ARM\u00ae Cortex\u00ae-A9 Cores: i.MX 6 Series Multicore\n      Processors etc.\n\nParamit, Morgan Hill, California  7/2013-11/2014\nSenior Big Data, DW and BI Lead Solution Architect, .NET Architect\nConsultant.\n    . Led multiple large scale Big Data, Enterprise Data Warehouse EDW and\n      Business Intelligence BI projects utilizing, Hadoop, Cloudera, Hive,\n      Impala, Flume, Sqoop, Map Reduce, Pig, HDInsight, HBase, oozie, and\n      facilitating real-time data analysis by data scientist.\n    . Leading the team, I designed architected and implemented the migration\n      from legacy normalized SQL, FoxPro, medical device manufacturing, ERP,\n      MRP, CRM, sales, finance and other information warehouses to a\n      consolidated modern high performance Big Data Warehouses running on\n      multiple DW appliances.\n    . Development languages, extensive Scala SBT (my preference), Java\n      Maven, Eclipse Intellij, Python, R, PySpark, Ruby, C#, Shell Scripts\n    . Leading the team we migrated and deployed multiple projects to Azure\n      Cloud. I was personally involved in the full cycle of vendor\n      selection, requirement gathering, design, development and the\n      deployment of these projects. The migration included different aspects\n      of the projects from front, backend, and integration. We went through\n      thorough research before selecting the Azure cloud for this project\n      and also utilized cutting edge utilities to perform the migration and\n      deployment.\n    . Using a combination of WPF C# application GUI and the Cloudera\n      Visualizations, Dashboards, and Reports created advanced data\n      visualization and data entry tools for ERP, MRP, CRM, sales, finance\n      and other departments.\n    . I lead, architected and help developing a SOLR/Lucene Search for the\n      huge amount of ERP, MRP and CRM. The SOLR project was later converted\n      to Elasticsearch. The Elasticsearch /Lucene system was architected\n      with 5 nodes sharding. It was developed and tested on 5 node\n      VirtualBox machines and then deployed to AWS cloud. Created an API in\n      C# .NET for calls to the search engine. Also a GUI was developed in C#\n      .NET for search calls to the Elasticsearch.\n    . Developed a customized SOLR indexing scheduler in C# which would run\n      periodically to do the delta indexing.\n    . Drafted a BI/DW prioritized implementation roadmap while taking input\n      from internal divisional service plans, business and IT strategy\n      documentation, as well as corporate BI Strategy and the Financial\n      Planning and Reporting System\n    . Designed Enterprise Information Management (EIM) solutions for the\n      manufacturing process, customer support and retail operation. Led\n      technical teams and designed various BI solutions including medical\n      device manufacturing tracking process, component reliability analysis,\n      vendor analysis, customer behavioral analysis, finance, ecommerce,\n      cyber security analytic.\n    . Conducted BI maturity assessment of the organization. Architected\n      DW&BI Program Structure, defined the role of DW&BI Program Steering\n      Committee, it's mission, objectives, roles and responsibilities,\n      monitored regular improvements to help manage risks, evaluate trends,\n      and develop capacity and capability to achieve the Program mission\n    . Led the team and developed multiple applications including medical\n      device, ERP, MRP applications with big data architecture. Used NET\n      4.5, C#, WPF, WCF, WF, MVVM Light, Telrik, MVC 4 Razor Entity\n      Framework 6.0 TFS, SQL 2012.\n\nMicrosoft, Redmond WA  2/2013-7/2013\nSenior Big Data, DW and BI Lead Solution Architect, .NET Architect\nConsultant.\n    . Led multiple Azure Cloud Big Data, NoSQL Riak, MongoDB SIP Trunk VOIP\n      projects doing analysis on massive amount of voice to text converted\n      data utilizing Hadoop/HDInsight, PDW, Map/Reduce jobs, Hive, and\n      Sqoop.\n    . Development languages, extensive C++, Scala SBT (my preference), Java\n      Maven, Eclipse Intellij, Python, R, PySpark, Ruby, C#, Shell Scripts\n    . Created real time multithreaded C# code using C++ Dubango Library,\n      SIP, TCP, UDP, RTP the VOIP telephony voice was recorded and using\n      SAPI converted to text. The text was then stored into key value and\n      document tables using Riak and MangoDB. The voice data gathered from\n      Cisco/IPCC telephone systems. Integrated with Cisco Verint for VOIP\n      call recording, quality monitoring (QM), and speech analytics.\n    . Microsoft SQL Server Parallel Data Warehouse (SQL Server PDW) was\n      chosen as the main appliance for the Big Data processing due to its\n      Massively Parallel Processing (MPP) architecture designed for Big Data\n      Processing.\n    . Microsoft Power BI in conjunction with a .NET application is used for\n      data visualization.\n    . Led the design and development of the Workforce Management (WFM) data\n      warehouse and BI solution to optimize adherence and attendance in the\n      contact center. The predictive analytic component accurately forecasts\n      the number of CSRs needed in the call center to fulfill the services.\n    . Led the design and development of an efficient BI auditing framework\n      that collects the data from packages being executed and used in data\n      flows, row counters, versioning, and error handling. The framework is\n      crucial for monitoring, timing, troubleshooting, and auditing. Also,\n      developed Stored Procedures, Views, and Functions for the framework to\n      automate logging the information and error handling in the packages.\n    . Led the design and development of ETL processes and data mapping using\n      SQL server, Master Data Services (MDS), SSIS to extract data from\n      Lagan ECM and division data sources including SQL server and oracle\n      databases, flat files, and excel sheets. The data, then, is\n      transformed and loaded into a data warehouse for reporting.\n    . Led the design and development of data quality ETL packages to correct\n      and cleanse the data and enhance the quality of consolidated data.\n      Wrote hundreds lines of .NET C# code, embedded in the packages, to\n      create a rules engine that loads business rules and apply them to the\n      data efficiently. In addition, the data quality issues are mapped for\n      reporting purposes.\n    . Led the design and development of a SQL Server SSAS Analysis cube\n      utilizing star schema with complex MDX calculated measures, named sets\n      and KPIs to present an analytical view for the data and data quality\n      with multiple dimensions.\n    . Led the design and development of map application and report using\n      ASP.NET/C# web application. The application loads the data from the\n      data warehouse, combines it with geographical information, and\n      displays the data on a map. The application communicates through\n      restful mapping services and uses client side scripts (JavaScript and\n      AJAX) to improve performance and user experience.\n\nDell, Austin, TX 6/2012-2/2013\nSenior Big Data, DW and BI Lead Solution Architect, .NET Architect\nConsultant.\n    . Led a Big Data project on gigantic amount of taxonomy data and\n      customer portfolio using Hadoop,  Cloudera, Hive, Map Reduce, Pig,\n      HDInsight, and facilitating real-time data which was both analyzed and\n      also in real time restructured the Dell website on the demographic\n      portfolio of the customers.\n    . I architected, worked and help developing the SOLR/Lucene Search\n      deployed to Azure. The indexing was done directly on top of the\n      metadata extracted from various files with customized Java code and\n      Apache Tika. Used customized faceting to overwrite the default search\n      criteria.\n    . Development languages, extensive Java Maven, Eclipse Intellij, Python,\n      R, Scala SBT, PySpark, Ruby, C#, Unix Shell Scripts\n    . Developed a customized SOLR indexing scheduler in C# which would run\n      periodically to do delta indexing.\n    . Wrote variation of batch files, python for SOLR/Lucene deployment and\n      configurations\n    . Leading the team, we designed architected and implemented the\n      migrating from legacy normalized SQL taxonomy data, customer portfolio\n      data and other data to a modern high performance Big Data Warehouses\n      running on multiple DW appliances.\n    . Defined the data governance strategy, designed security patterns,\n      implemented data standards and procedures across the enterprise;\n      drafted business specific methodology to establish business\n      stakeholder-driven data stewardship through MDM\n    . Led multiple EDW projects, prototyped and evaluated the performance on\n      Azure cloud, AWS Amazon Cloud, Massively Parallel Processing (MPP)\n      Data Warehouse Appliance\n    . I wrote complicated taxonomy algorithm in C# to load, sort the\n      taxonomy data into huge multidimensional trees on the memory which\n      made the data processing supper fast.\n    . Created Taxonomy data visualization using the Cloudera Visualizations,\n      Dashboards, and Reports to monitor customer profile, demography and\n      other useful data. Other visualization tools were also created using\n      C#.\n    . Created data quality ETL packages to correct and cleanse the taxonomy\n      data and enhance the quality of consolidated data. The consolidated\n      taxonomy data then were segmented using Hadoop and Cloudera.\n    . Led the design and development of a SQL Server SSAS Analysis cube\n      utilizing star schema with complex MDX calculated measures, named sets\n      and KPIs to present an analytical view for the data and data quality\n      with multiple dimensions.\n    . Leading the team we migrated and deployed multiple projects to Azure\n      Cloud. I was involved in the full cycle of vendor selection,\n      requirement gathering, design, development and the deployment of these\n      projects. The migration included different aspects of the projects\n      from front, backend, and integration.\n    . In conjunction with the Big Data I was involved in multiple projects\n      using variety of technologies including MVC 4 Razor, WPF, WF, WCF,\n      TPL, LINQ, SQL 2012, jQuery, Android, Java, J2EE, JRE, Ajax,\n      AngularJS, ExtJS, Entity Framework 5.0,.NET 4.5\n\nBEW / General Electric / 3 Gorges China, San Ramon, California      6/2011-\n6/2012\nTeam Leader, .NET Architect, Hands on Developer Consultant.\n    . Worked as a system architect, core developer on a sophisticated\n      control system for generators and wind turbines lead the software\n      (WPF), hardware (Xilinx FPGA & TI DSP 6000) and firmware (C++\n      Verilog/VHDL) teams.\n    . The high level software controlled a network of generators via TCP/IP.\n      The WPF C# project was architected using MVVM light, Entity Framework,\n      LINQ, WCF Services SQL etc. The Silverlight ASP .NET project was\n      architected using MVVM light, Entity Framework, LINQ, WCF RIA Services\n      Domain Service/Context. Developed equivalent Android application for\n      reading the generator's parameters like RPM, temperature, sensor\n      Voltages etc. Used Java programming and the Android Software\n      Development Kit, Eclipse using the Android Development Tools (ADT)\n      Plugin. Also worked on the firmware and FPGA DSP TMS320C6713\n      TMS320F28335 EMIF, I2C, MCBS, GPIO, RTC UART, Anybus CANbus, DM9000,\n      second level bootloader, EEPROM, code composer 3.3 etc FPGA Xilinx\n      Spartan 6, Xilinx ISE Design Suite 13.2, Verilog and VHDL.\n\nTexas Instruments, Dallas Texas   9/2010-6/2011\nTeam Leader, .NET Architect, Hands on Developer Consultant.\nWorked as the main architect, team leader, and core developer on a\nscientific highly multithreaded WPF C# application for emulation and design\nof advanced communication chips using scientific algorithms. I also worked\non an Android application for the PLL, Java programming using the Android\nSoftware Development Kit, Eclipse using the Android Development Tools (ADT)\nPlugin. The WPF application was architected using propriety MVVM\narchitecture. Utilizing advanced 3D objects the application was similar to\nOrCad and AutoCad. A smaller prototype version was also developed in\nSilverlight.\n\nMultibeam Corporation / Tokyo Electron (TEL), Santa Clara, California\n7/2008-9/2010\nTeam Leader, Architect, Hands on Developer Consultant.\n    . Worked as the project lead, helped designing, architecting, and\n      implementing a revolutionary complex electron beam based instrument\n      for the next generations of semiconductor fabs. Advanced analog\n      digital boards, Embedded Linux, Xilinx & Altera FPGA, Quartus, NIOS,\n      ARM9, ARM11, C, C# .NET, WPF (MVVM), WCF etc. DSP TMS320C67x GPIO, RTC\n      UART, Modbus, DM9000, second level bootloader, EEPROM. Altera FPGA,\n      Stratix, Cyclone Series, Quartus II Nios II.\n\nDepartment of Defense Contract (DOD), Washington DC      3/2007-7/2008\nTeam Leader, Architect, Hands on Developer Consultant.\n    . Architected, developed and led a highly sophisticated\n      hardware/firmware/software system. Due to the classified nature of the\n      project, I can only provide the following generic information: The\n      project involved advanced radio scanners, signal generators using GPS,\n      WCDMA, CDMA, GSM and other systems and protocols. The software\n      application controlling the instruments was a multi-tiered application\n      written in C#, .NET, Visual C++, MFC, CLR, Embedded Linux. It utilized\n      a very advanced multi-threading architecture with sophisticated\n      synchronization, message handling, logging system, serialization etc.\n      Specialized algorithms were devised to speed up the real-time\n      performance of hardware/software. Again because of the defense-related\n      nature of this project I cannot reveal any more details.\n\nPatton Design, Irvine, California 7/2000-3/2007\nVice President.\nWorked as the vice president of software and hardware. I led and developed\nthe software/hardware for a $140,000 instrument medical device - FDA.\nPlease check the website of Patton Design and Busch & Lomb to see this\naward winning instrument for cataract surgery. I designed, architected, led\nthe team and developed the software and also directed the hardware and\nfirmware developments. The software included a sophisticated multithreading\narchitecture, RS232 and TCP/IP communications, managed wrapper for firmware\ncalls, video streaming, voice recognition, database hierarchy encryption\netc. In addition to leading the team and acting as the vice president, I\npersonally wrote the complex core components in C# .NET. Due to the large\nscale of the medical device - FDA projects with hundreds of screens many of\nthe .NET C# libraries and objects had to be used. We also used legacy\nunmanaged code inside the managed code (wrappers). DirecX, DirectShow,\nWindows Communication foundation WCF, Windows Presentation Foundation WPF,\nWF, Silverlight, WCSF, SCSF, Enterprise Library, animation, video, audio\netc were also used.\nIn addition to the main control application I wrote and oversaw the\nfirmware in C++ Embedded Linux, C++ Round Robin, CodeWarrior. I also\noversaw and participated in the hardware development using OrCad 10.\n\n* Patton Design / Cameron Health: Developed the software and participated\nin the hardware design of the heart pacemaker medical device - FDA and the\ncontroller called Q-TECH Programmer. medical device - FDA The heart\npacemaker is transplanted in the heart and controlled by the wireless\ncontroller via Bluetooth. Due to the FDA regulations I could not use the\n.NET framework but had to use Embedded Visual C++ 4.0 and MFC for windows\nCE. More than 140 screens! Very sophisticated programming involving memory\nmanagements, DirectX, DirectShow etc.\n\n* Patton Design / GoVideo: Worked as the Vice President/architect/team\nleader on a joint project between, GoVideo, Patton Design, Daewoo and MTK\nin Taiwan. I led the Patton Design team developed a TiVo style DVD/VCR\ncombo with hard drive recording capability. I was the vice president and\nthe team coordinator between the 4 companies overseeing hardware, software\nand Firmware (Embedded Linux), several patents were filed. The System was\npresented at the CES show in Las Vegas in 2007 and received tremendous\npositive recognitions.\n\n* Contract with usCalibration Inc.: Architected, developed and led a\nsophisticated web based application using C# .NET and Visual Studio 2005,\nSQL Server 2005 and SSRS. I wrote the core part of the application. The\napplication was successfully launched in 2006 for Calibration systems with\nadvanced security systems. Tens of thousands of lines of code with advanced\nnavigation systems with several pending patents.\nHewlett Packard (HP), Cupertino, California  4/2000-7/2000\nTeam Leader, Architect, Hands on Developer Consultant.\nWorked as senior developer/ technical lead on an advanced server client\nbased communication system for server diagnostics. The system was designed\nusing TCP/IP and SNMP protocols for monitoring hardware sensors like\nthermocouples, voltage and current monitoring sensors and other hardware\nsensors installed on HP servers. By reading these sensors, HP was able to\nremotely do detailed hardware/software diagnostics of the HP servers around\nthe globe.\nWorked on hardware, software and the overall system architecture. The\nsoftware had a server and client component and was written in visual C++,\nCOM (ATL), DCOM, ASP, Visual J++, XML, SNMP, MIB, SQL and InstallShield.\n\nBroad Logic, Milpitas, California 7/99-4/2000\nTeam Leader, Architect, Hands on Developer Consultant.\nI was brought to BroadLogic, Inc. by Paul Rudnick because of my expertise\nin satellite communication systems and my experience from Space Systems\nLoral and CyberStar. Prior to this, I had worked closely with Adaptec and\nBroadlogic on the development of the satellite receiver hardware while\nstill a senior manager at Space Systems Loral.\nI worked on the design and implementation of the next generation of two way\nsatellite Express PC transceiver cards, a high speed two way satellite\ncommunication system. I designed, simulated, researched, architected and\nled the project for the development of an advanced two way satellite\ncommunication system (satellite Express PC transceiver cards). Audio, video\ntransfer and high speed internet access over satellite. Using, frequency,\ntime, phase multiplexing. TDMA, CDMA, GMSK, Conditional Access. TCP/IP,\nUDP, DVB, SNMP, MIB and proprietary protocols. Using OQPSK modulation\nimplementation on the Texas Instrument DSP Chip. I have written several\ndocuments related to this system.\n\nHewlett Packard (HP), Mayfield, California   3/99-7/99\nTeam Leader, Architect, Hands on Developer Consultant.\nWorked as the senior architect, technical lead and senior developer on the\nHP Ecommerce site which later became the foundation of the HP website for\nPC and servers. The web application was developed in Visual InterDev 6.0\nusing Active Server Pages (ASP), Microsoft E-Commerce, SQL 7.0, XML, Visual\nC++ 6.0 and Visual Basic 6.0, Visual J++ 6.0, COM (ATL), DCOM, JavaScript\nand VB Script. The web server was Microsoft Internet Information Server\n(IIS), Microsoft site server 3.0, with Microsoft E-Commerce edition 3.0 and\nFrontPage extension running under the NT Server I have written several\ndocuments related to this application.\n\nHewlett Packard (HP), Cupertino, California  5/98-3/99\nTeam Leader, Architect, Hands on Developer Consultant.\nWorked as the senior architect, technical lead and senior developer on the\nHP servers configuration software which later became a major component and\nthe foundation of the HP website for PC and servers configuration. Stand\nalone and the web application in was developed in Visual InterDev 6.0 using\nActive Server Pages (ASP), Microsoft E-Commerce, SQL 6.5, Visual C++ 6.0\nand Visual Basic 6.0, COM (ATL), DCOM, JavaScript and VB Script. The web\nserver was Microsoft Internet Information Server (IIS), Microsoft site\nserver and FrontPage extension running under the NT Server. I have written\nseveral documents related to this application.\n\nSpace Systems Loral (CyberStar), Mountain View, California    11/96- 5/98\nTeam Leader, Architect, Hands on Developer Consultant.\nI was brought into Space Systems Loral from Lockheed Martin by Bob Lapin to\nhelp starting the CyberStar division at the Space Systems Loral. By the\ntime I left the CyberStar in 1998 to finish my PhD in Satellite\nCommunication, the CyberStar division had grown to more than 100 employees.\nI personally interviewed majority of those people.\nI was one of the main architects of the CyberStar project and oversaw the\ndesign, development and implementation of different aspects of hardware,\nsoftware, firmware and the satellite communication at CyberStar.\nI first established a complete satellite communication link both uplink and\ndownlink, using 3rd party modulators, demodulators, encoders, decoders,\ncryptography modules, conditional access, transmitter, receivers,\namplifiers, dampers, data aggregator, data parsers etc. Very soon we were\nable to transmit and receive from and to the satellite. We were primarily\nusing MIB and DVB protocols initially but I was one the first who managed\nin 1998 to implement TCP/IP and high speed internet access over satellite\nusing an ACK table!! (patents)\nTo develop the integrated transceiver hardware we started working with\nAdaptec and I personally was directly involved in the design and\nimplementation of the satellite receiver card hardware using OrCad. This\nlater led to the creation of BroadLogic from Adaptec. I was later hired by\nBroadLogic to continue the improvement of the two way satellite receiver /\ntransmitter.\n\nThis project was personally very important to me and made me understand and\nexperience the satellite communication in a very comprehensive way both\ntheoretically and practically. It helped me to get a PhD in Low Earth Orbit\nSatellite Communication from the University of California, one of very few\nwho did. I travelled extensively in both US and in Europe and came in\ncontact with some amazing people from NASA, Lockheed Martin, BroadLogic,\nEuropean Space Agency etc I wrote many documents in satellite communication\nduring this period for Space Systems Loral.\n\nLockheed Martin, Milpitas, California   6/96- 11/96\nTeam Leader, Architect, Hands on Developer Consultant.\nLockheed Martin at the time in 1996 had the most sophisticated high\nresolution CCDs (Farichild) in the world which were in use in a number of\nsensitive military applications, advanced high resolution digital satellite\nimaging, and few civilian applications.\nDue to the classified nature of some of these projects I cannot in detail\ndescribe what I did. However I was involved in the design and development\nof some of these advanced and sensitive projects. I worked as a senior\nengineer, designing and developing, systems, hardware, firmware and\nsoftware.\n* Hardware: We used OrCad for designing analog and digital circuits,\nfilters, amplifiers, Data collectors from CCDs, interfaces etc.\n*Firmware was written in C++ , flat file Round Robin, on Freescale HC and\nARM family CPUs.\n*Software: developed 32-bits, real time applications in Visual C++ 4.2\nusing MFC and SDKs under Windows 95 for control and testing of an advanced\ndigital camera with high resolution CCD. The GUI software is designed for\ndriving the special digital camera through parallel communication and\ntesting of IPS, ADP, CCD and different part of the system. The tests\nincluded advanced image processing and image quality tests. The project\ninvolved both 16-bits and 32-bits DLLs and VXDs (device drivers), Thunking\nand also conversion from and between 16-bits and 32-bits.\n\n\n                               OTHER PROJECTS\n\nERICSSON (ELLEMTEL), STOCKHOLM, SWEDEN\nTeam Leader, Architect, Hands on Developer.\nDeveloped and designed hardware and a control system for the new generation\nof AXE telephone systems, based on the FUTUREBUS+ bus technology, Using the\nVHDL programming language. I wrote the VHDL program on the SUN platform\n(SUN OS version 3.0).\nI documented the application in a detailed technical white paper entitled\n\"Verification Methods for Hardware Construction\". This paper was released\nto all programmers and hardware engineers at Ericsson and KTH. A copy is\navailable for your review.\n\nABB Atom AB, Vasteras, Sweden\nTeam Leader, Architect, Hands on Developer Consultant.\nElectrical and Computer Lab--section SLC3:\nDeveloped a series of utility programs / application in Quick BASIC\n(version 5.0) used for calibration of computer operated measurement\nequipment in the nuclear power plant reactors. Programs were run on the HP\n9000/300, and Intel 286 platforms.\n\nTECHNOLOGY\n    . Data Warehouse, Data Mart, OLAP, OLTP Databases, Teradata, Netezza,\n      Oracle, Parallel Data Warehouse (PDW), SQL Server, MDM, MDS, Data\n      Quality (DQ), Spark, Hadoop, Hortonworks, Cloudera, Apache KafKa,\n      Hive, Impala, Flume, Sqoop, Map/Reduce, Pig, HDInsight, HBase, Storm,\n      oozie, Python, Scala, HDFS, StreamInsight, PolyBase, Microsoft SSIS,\n      SSAS, SSRS, ETL, BI, MDX, PL/SQL, TSQL, ERwin, Enterprise Architecture\n      (EA),  SQL Servere 2000/2005/2008/2012/2014, Power Query, Power Map,\n      PowerPivot, Power View, IBM Cognos, SPSS, InfoSphere DataStage,\n      Informatica PowerCenter, SAP BusinessObjects (BO), SAP HANA, Crystal\n      Reports, Hyperion, MicroStrategy, SharePoint 2007/2010/2013, Nintex,\n      SharePoint Social, Collaboration, Record Management, Search, Web\n      forms, InfoPath, Branding, CSOM, JSOM, PerformancePoint, Clustering,\n      Failover, Web Analytics, Google Visualization, .NET 1.1 to 4.5, C#,\n      WCF, Restful Services, WPF/Silverlight, WF, VB .NET, ASP .NET,\n      ADO.NET, LINQ, MVC, MVVM, MVP, AJAX, Visual Studio, Dashboard\n      Designer, SharePoint Designer, Visio, TFS, Cloud, Azure, PaaS, SaaS,\n      IaaS, HTML 5.0, DHTML, XML, XSL, WSDL, XSD, JSON, COM, DCOM, MFC, C,\n      Visual C++, Visual Basic, PowerShell scripts, and SDKs, DocXpress, BI\n      Documentation, Nintex, SharePoint Social, Collaboration, Record\n      Management, Search, Web forms, Branding.\n\n                                   SKILLS\n    . BIG DATA, HADOOP, SPARK, CLOUDERA, HORTONWORKS, STORM, KAFKA, HIVE,\n      IMPALA, FLUME, SQOOP, MAPREDUCE, PIG, HDINSIGHT, HBASE, OOZIE, TABLEAU\n      POWER BI AND CLOUDERA VISUALIZATION\n    . Cloud Azure, AWS, , HDInsight, Cortana Intelligence Suite, Data\n      Factory, Data Gateway, Infrastructure as a Service IaaS, Platform as a\n      Service PaaS, Microsoft R Server, NLB, Key phrase extraction Azure\n      search, Unstructured text analytics, Event hub, Streaming, Poly Base\n    . Search engines Elasticsearch, SOLR, Lucene, Kibana. Logstash, Rsync,\n      Tika\n    . Machine Learning and recommendation engines MLlib, TensorFlow, Keras,\n      Weka Mahout, Multilayer perceptron classifier (MLPC), the feedforward\n      artificial neural network, scikit-learn, Pandas, Deeplearning4j,\n      Sparkling Water ML, Caffe2, MxNet etc. Different algorithms K-Means,\n      Random Forest, Gradient Boosting algorithms (GBM, XGBoost, XGBoost and\n      CatBoost)\n    . BI Framework: Strategy and Implementation Plans, Enterprise Metrics,\n      Integration Points, Gap Analysis, BI Portfolio, Performance Management\n      (PM), Analytic and PM Technologies, Defining Business and Decision\n      Process, Building Metadata and Services Centers, Establishing\n      Enterprise Information Management (EIM) Committees, Defining The Role\n      of DW and BI Program Steering Committee, It's Mission, Objectives,\n      Roles and Responsibilities, DAMA DMBOK\n    . Architecture and Data Modeling: Initial Conceptual Solution, Solution\n      Blueprints, Technology Impact Analysis (TIA), Gap Analysis, Technology\n      Roadmap, Dimensional modelling, ER Modelling, Start Schema, Snowflake,\n      Fact, Dimension, Hierarchy, Inmon/ Kimball/ Imhoff, Data Marts, EDW,\n      ERWin 9.5/8.0/7.x, DeZign, Microsoft Visio, Enterprise Architecture\n      (EA), Service Oriented Architecture (SOA), UML, Zachman, TOGAF, Star &\n      Snowflake Schemas, 3 Normal Forms, Normalization and Demoralization,\n      Logical Model and Physical Model, Fact/Dimension/Hierarchy\n      identifications, Data Warehouse Development Lifecycle, Data Mapping,\n      Data Dictionaries\n    . Data Governance: IBM InfoShere MDM, Informatica MDM, MDS, DQS,\n      Profisee Maestro, SAS MDM\n    . Integration and ETL: SSIS/SSRS/SSAS, SQL Server\n      2014/2012/2008R2/2008/2005, Informatica PowerCenter, DataStage,\n      Cognos, ETL Mapping design, Data Profiling, Data Validation, Data\n      Migration, Data Cleansing, Data Structure, Data Quality Services\n      (DQS), BIDS, SQL Data Tools (SSDT), Auditing Framework, Execution\n      Plans, ETL Parallel Processing, Error Handling, Custom Scripting, IBM\n      Cognos, InfoSphere DataStage, Informatica PowerCenter, SAP\n      BusinessObjects (BO)\n    . Data Warehousing and Analysis: OLAP/Cube/MDX/DAX, Dimensional\n      Modelling, Tabular Modelling, KPIs, KPPIs, Data Analysis, SPSS,\n      Predictive Analysis, Data Mining, Machine Learning, SAP HANA,\n      Statistical Analysis, SAS, SAS VA (Visual Analytics), R, XLSTAT,\n      Sentiment analysis, Speech analytics, Teradata. Netezza, Cloudera,\n      PDW, Aginity, Master Data Services (MDS), Master Data Management\n      (MDM), Data Quality (DQ), Analysis of Change (AOC), Metric Engine.\n    . Reporting: Predefined Reports, Ad-hoc Reporting, Analytical Reports,\n      Custom Reporting with .NET/ Report Viewer, SQL Server Reporting\n      Services (SSRS), SharePoint 2013/2010/2007/2003, PerformancePoint,\n      PowerPivot, Power View, Crystal Reports, Hyperion, MicroStrategy,\n      Cognos Report Studio, Framework, Workspace Advanced, DMR, TM1\n    . Data Visualization: Power Map, PowerPivot, Power View, SharePoint,\n      Liferay, PerformancePoint, Google Visualization, Esri's GIS\n      (geographic information systems) , mapping, SAP Lumira, QlikView,\n      Tableau, Data Mapping\n    . Database: MS-SQL, Oracle, Oracle SQL Developer, TSQL, MDX, DMX,\n      PL/SQL, Stored Procedure, View, Function, Erwin Data Modeler, DB2,\n      PowerDesigner, MongoDB, Access, Excel, FoxPro, Informix, NoSQL, Big-\n      data, Hadoop, Spark, HBase, HDInsight, PDW, PolyBase, Hive, HQL,\n      Map/Reduce, HFS, Alert\n    . Programing Languages: SQL, T-SQL, PL/SQL, C#, WCF, Restful Services,\n      WPF/Silverlight, WF, VB .NET, ASP .NET, ADO.NET, LINQ, MVC, MVVM, MVP,\n      AJAX, HTML 5.0, DHTML, XML, XSL, WSDL, XSD, JSON, Java Script,\n      PowerShell, COM, DCOM, VB Script, UNIX Shell Scripting\n    . Others: Agile, Extreme Programing, RUP, Use Cases, SDLC, TCP/IP, CVS,\n      Microsoft Team Foundation Server (TFS), Tortoise SVN, SQL*Plus, TOAD,\n      WinSQL, SilverLight, LightSwitch, Kerberos, Single Sign-On, Datazen,\n      One-Key.\n    . Architecture and Design: Enterprise Architecture (EA), Service\n      Oriented Architecture (SOA), Enterprise Service Bus (ESB), Top-Down/\n      Bottom-Up Design, Structured Design, Object Oriented Design, Multi-\n      tiered and Multi-threaded architecture, Rational Rose, UModel,\n      Patterns: Model/View/ViewModel (MVVM), MVC, MVP, Visio, UML, Zachman,\n      TOGAF, Federal Enterprise Architecture, Gartner Methodology\n    . Business Optimization: Asset management, Information Technology\n      Infrastructure Library (ITIL), customer satisfaction, call center\n      management, service request enhancement, AODA compliance, fraud\n      detection, CRM and ERP optimization, improving marketing\n      effectiveness, portfolio optimization, governance, risk management,\n      compliance, healthcare patient records management, electronic medical\n      records (EMR), optimizing routes and schedules for logistics planning,\n      insurance risk assessment, optimizing manufacturing production.\n    . Integration: Windows API, Biztalk, SOA, WCF, SSIS\n    . Data Access: ADO.NET, LINQ, Entity Framework, Microsoft Enterprise\n      Library, OLE DB, Oracle Data Provider, MS OLAP, SQL Master Data\n      Services (MDS), StreamInsight\n    . Software Development\n    . Methodologies: Test driven programming, Agile software development,\n      Extreme Programming (XP) Microsoft .NET Framework (from 1.0 to 4.0),\n      C#, Visual Basic .NET, VB .NET, ADO .NET, WinFX including Windows\n      communication foundation (WCF), windows workflow (WF), windows\n      presentation foundation (WPF), XAML, XML, HTML, HTML5, Java J2EE,\n      Spring Framework, JavaScript, AJAX, RESTful services, Payment Card\n      Industry (PCI), Image Processing\n    . Visual C++ (MFC, SDKs, COM, DCOM, ATL ActiveXs), VB, C++, Perl, VHDL,\n      Verilog, Shell, Skill, Ocean, SystemC\n    . Scala SBT, Java Maven\n    . Version control tools: Source Safe, Team Foundation Version Control,\n      (TFVC), Subversion Tortoise SVN\n    . Code metrics: Simian, RSM\n    . Type/ industry: financial, banking, biomedical, pharmaceutical,\n      engineering, telecommunication, semiconductor, logistics, health,\n      scientific, e-commerce, instrumental\n    . Internet Development: ASP .NET, MVC, Sliverlight, HTML, DHTML, Web\n      services for marketing and financial applications, AJAX, ASP,\n      JavaScript and VB Script, XML, Microsoft Internet Information Server\n      (IIS), Microsoft E-Commerce, PHP, Webload\n    . Cloud Computing\n    . Windows Azure, Amazon AWS EC2\n    . SharePoint: SharePoint 2013/2010/2007/2003, Multi-machine SharePoint\n      Farm Architecture, Setup, Configuration, Load Balancing, Clustering,\n      Backup Plans, Web Part and module development, Collaboration, Social,\n      Search, Web Content Management, Enterprise Content Management, App\n      Management, PerformancePoint and PowerPivot, PowerView, Application\n      Federation, Secure Store Application, Business Connectivity, Usage\n      Reports, SharePoint Designer, Dashboard Designer, PerformancePoint,\n      dashboard, charts, KPI, Scorecards, reports, filters, Excel Services,\n      PowerPivot Services, Web Analytics, Static Analysis, Hit Counters,\n      Custom Development, PowerShell, SharePoint API, Object Model, web\n      parts web services, workflows, Content Management, site\n      collections/structure\n    . Mobile Development\n    . Android, iOS, Windows\n    . Operating System Used: Windows, UNIX, Windows Azure, Linux, Android,\n      iOS, Windows Mobile, MS-DOS\n    . Hardware and Simulation: Matlab, Cadence Spectre, Spice, Eldo, ANSYS\n    . Algorithms: Genetic algorithm, simulated annealing based algorithms,\n      heuristic search, binary search, quick sort\n    . Automation and Scripting: VB, Perl, Unix Shell\n\n                                 LANGUAGES:\nENGLISH, SWEDISH, PERSIAN AND NORWEGIAN.\n",
+          "confidence": 1.0,
+          "method": "full_text",
+          "structured_data": null
+        },
+        "tax_term": {
+          "value": "CONTRACT",
+          "confidence": 0.9,
+          "method": "regex",
+          "structured_data": null
+        },
+        "source_by": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "designation": {
+          "value": "Cloud Architect",
+          "confidence": 0.9,
+          "method": "ner",
+          "structured_data": null
+        },
+        "experience": {
+          "value": "20",
+          "confidence": 0.9,
+          "method": "regex_total_experience_summary",
+          "structured_data": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "first_name": "AFFZAL",
+  "last_name": "ABDUL",
+  "primary_email": "Affzal.sql@gmail.com",
+  "secondary_email": null,
+  "phone": "3613300666",
+  "city": null,
+  "state": null,
+  "zip": null,
+  "work_authority": null,
+  "resume_link": "Affzal_SrDeveloperResumeS.pdf",
+  "raw_resume": "AFFZAL ABDUL\nDeveloper Sr.\nEmail:Affzal.sql@gmail.com\nM: 361-330-0666\nPROFESSIONAL SUMMARY\n• Over 9 years of experience ranging software development, testing, assurance, and implementation and working in\ncomplex engagements. Prominently has experience in data warehousing and Business Intelligence technologies using\nMS SQL Server 2000/2005/2008R2/2012/2014 & 2016 on Azure.\n• Solid 8 years in depth experience in MS SQL Server database development and administration in enterprise\nenvironment including server installation, configuration, upgrade, maintenance, performance tuning, optimization,\nbackup/restore, recovery, migration, monitoring, security planning and trouble-shooting.\n• Good understanding in database and data warehousing concepts (OLTP & OLAP) and also data analysis along with\nvisualizations using Tableau and Sisense.\n• Experience in both building and utilizing DevOps pipelines for the projects which started brand new and legacy systems.\n• Leverage strong communication and interpersonal skills to cultivate strong working relationships with clients, vendors\nand offshore partners.\n• Worked independent and as a team with strong critical thinking, time management and proven handling of\nresponsibilities and projects.\n• Experience in Information Technology field as an SQL server Developer with strong expertise in SQL server\ndevelopment, Physical/Logical design, designing Stored-Procedures/T-SQL coding, Troubleshooting, Backups and\nRestore of databases, SSIS/SSRS, OLTP and OLAP.\n• Experience in creating visualizations on the data and created cosmetic clear dashboards on top of the analyzed data in\nboth Tableau and PowerBI.\n• Transformed data from one source to other destinations using tools like SSIS, Informatica PowerCenter.\n• Experience in Optimizing Code and Improving Efficiency in databases including Re-indexing, Updating Statistics,\nRecompiling Stored Procedures and performing other maintenance tasks and DBCC Commands.\n• Good understanding of Microsoft Reporting Service (SSRS) with Report authoring, Report management, Report\nformatting, Report distribution, Report delivery and Report security.\n• Extensive time spent on POC for Sisense to be used in data visualization purposes and thereby have to stick with using\ntableau for visualization purposes of the business data.\n• Experience in enhancing and deploying the SSIS Packages from development server to production server. Migrated\nDTS packages into SSIS packages using upgrade advisor tool.\n• Used Database Monitoring tools like profiler, performance monitor and Event viewer. Good understanding in SQL user\nlogins, database user accounts, server roles, database roles and its permissions.\n• Experience in integrating the SSRS reports into web applications using Report viewer control, URL methods and\ncreating data driven subscriptions to different users using Report Manager.\n• Expertise in PowerShell Scripting/ Python and making REST API calls to pull data and also load it to databases.\n• Expert experience in handling huge volume of data and transforming and cleansing of data and raw data. Involved in\nhuge data migrations, transfers using BCP, SSIS and Informatica PowerCenter from SQL Analysis server, Teradata,\nOracle.\n• Experience in Agile methodology in the SDLC process (both scrum & Kanban).\nEducation Background\n• Bachelor of Engineering (Information Technology) - Osmania University, India. (2005-2009)\n• Master’s in Information Technology and Management – IIT, Chicago. (2010 -2012)\nTECHNICAL SKILLS\nSQL Server Tools : Enterprise Manager, Profiler, Query Analyser, Memory Optimization Advisor\nExport & Import (SSIS), SSRS.\nRDBMS : MS SQL Server 2005/2008, 2012, 2014, 2016.MS Access, Oracle 11g, Teradata.\nETL : SSIS, Informatica Power Center (9.5 & 10.2).\nProgramming Languages : SQL, T-SQL, PL-SQL, Core Java, C#, UNIX, PowerShell and Vbs\nInternet Technologies : IIS, XML, HTML.\nProductivity Applications : MS Office Suite along with Outlook. JIRA.\nOperating System : Windows95/98, Windows 2000/NT/XP, 2003, 7, MS DOS.\nReporting Tools : Crystal Reports 11, SSRS, ARMS reporting, Sisense, and Tableau.\nDesign Documentation : UML, MS Visio\nOther Tools : Tidal, Control-M, VSS, TFS, GIT, SVN.\nPROFESSIONAL EXPERIENCE\nAnthem Inc., Norfolk, VA Mar 2017– Till date\nDeveloper Sr.\nAnthem Inc. is an American health insurance company founded in the 1940s, prior to 2014 known as WellPoint, Inc. It is\nthe largest for-profit managed health care company in the Blue Cross and Blue Shield Association. It covers 7.7 million\nseniors, people with disabilities, low-income families and other state and federally sponsored beneficiaries, and federal\nemployees in 26 states, making it the nation’s largest provider of health care for public programs.\nResponsibilities:\n• Expertise in Provider dealing with legacy system to load files from states into the FACETS application. Expertise in\nProvider business domain area and the flow of the FACETS application.in-depth knowledge of both providers in\nFACETS.\n• Apply the Business rules on the data coming from multiple operating markets. Maintain the business rules in a table for\nvisibility to all required processes.\n• Actively worked in gathering requirements with SA and PO to convert them to technical documents for the development\nto initiate in Jira.\n• Used JIRA, SVN Tortoise & Bit bucket for code repository and logged / tracked the activities in the team. Also CTU tool\nfor code deployments.\n• Used Splunk for parsing complex files and Splunk language (SPQL) to make the searches and created dashboards on\nthe data. Also configured notifications as requested by the business.\n• Did POC for DevOps tools and deeper research on both Sisense and Tableau tools for utilizing them as data\nvisualization purposes across the provider department.\n• Have hands on experience in pulling data from JIRA using REST calls thru PowerShell scripting and load them to SQL\ndb. Also did dashboards on the loaded data and provided support for the created dashboards in tableau.\n• Used Python to massage the data in REST calls using JIRA libraries and loading them to database. Built dashboards\non top the loaded data for project management team.\n• Checked the configuration and performance of the existing databases including data file allocation, index, fill factor,\nfragmentation and the impact on system performance. Analyzed potential problems (response delay, locking, server\ndown time, etc.) to avoid and optimize.\n• Actively involved with production support (24*7) and Development environment.\n• Used Premise to trace the slow running queries and tried to Optimize SQL queries for improved performance and\navailability. Also used precise tool for reviewing the performance.\n• Actively involved in code reviews and mentoring the developers. And also involved in development activities.\n• Excellent Team Building, Project Management, Analytical, Interpersonal & Communication Skills.\n• Extensively worked and did research on Redgate suite tool belt and implemented them across the whole team.\n• Have hands on experience in pulling data from JIRA using REST API calls thru PowerShell scripting and load them to\nSQL db. Also did dashboards on the loaded data and provided support for the created dashboards in tableau.\n• Participated in Informatica DVO trainings and started extensive use of the tool as part of the DevOps roadmap. Also\ndid POC on icedq and attended trainings.\n• Built SQL pipelines using Redgate tool belt in bamboo and deeper knowledge of branching strategy.\n• Used both SonarQube and Veracode in the DevOps pipelines using Bamboo.\n• Built the automation framework for reducing the regression test cycle efforts.\n• Used Informatica PowerCenter and SSIS to both move and modify data from different environments and optimized\nworkflows.\n• Proficient in SSIS ETL packages & Informatica workflow designing and development for various complex solutions\nincluding files processing, Incremental loads, historical data maintenance. Extensively used Configurations, Logging,\nDebugging using breakpoints, Check points, Transactions, Error and Event Handling.\n• Assisted team in adding new data concepts and developing new data model development methodologies, principles,\nstandards and governance considering process optimization aspects.\n• Worked on Tidal to schedule the jobs needed and configure them to receive the notifications on demand basis.\n• Actively in Cloud CoE trainings and completed AWS Cloud practitioner course.\n• Creation of POC and doing architecture POC for upcoming AWS engagements.\nEnvironment: MS SQL Server 2016,2014/2012/2008/2005/2000(SSMS), Visual Studio 2010/2012,2017, TFS, VSS,\nReporting Services (SSRS), Integration Services (SSIS), Informatica PowerCenter, T-SQL, PL-SQL, .Net, Redgate tools,\nPowerShell Scripting, python, Excel, Sisense, Tableau.\nAccordant, A CVS Caremark Company, Greensboro, NC May 2015– Mar 2017\nSr. SQL DBA /Developer\nAccordant Health Services, a CVS Caremark company, is a recognized leader in delivering disease management and case\nmanagement services for people with rare chronic conditions. It has been providing value-added services on behalf of our\ncontracted clients such as health plans, employers, and third-party administrators (TPAs) for more than 14 years.\nResponsibilities:\n• Installation of MS SQL 2012 enterprise edition on production, Test and Development environments.\n• Configured many alerts for sql server ongoing health checks and disk space alerts.\n• Took part in design and implementation of Log shipping on few instances for the development and testing teams.\n• Involved in Business requirement gathering, Technical Design Documents, Business use cases and Data mapping.\n• Extensively worked on SSIS, designed and created mappings using various SSIS transformations like\nOLEDB Command, Conditional Split, Lookup, Aggregator, Multicast, lookup and fuzzy logic.\n• Developed SQL scripts to Insert/Update and Delete data in production Environment. Develop and implement policies\nand standards for preserving the integrity and security of data.\n• Configure SSIS Package for run time Parameters and Configuration file. Set the Standards for ETL development for the\nteam to follow on naming standards and best practices for the meta-data, event handling and logging\n• Strong expertise in writing stored procedures and performance optimization for the poor running queries. Good T-SQL\nProgramming skills.\n• Worked with the development team to implement data strategies, build data flows and develop data models.\n• Used Reporting Services (SSRS) to schedule reports to be generated on predetermined time.\n• Generated on-demand and scheduled reports for business analysis or management decision using SQL Server\nReporting Services (SSRS).\n• Used Team Foundation Server and Visual Source Safe as a version control tool. Migrated objects and solutions from\nvisual source safe to TFS.\n• Experience in deploying created reports in various sources like Web browser, XML and PDF.\n• Used SQL Server Profiler to trace the slow running queries and tried to Optimize SQL queries for improved performance\nand availability. Implement table partitioning to avoid table level locking issues when different operating company’s\ndata process is initiated at the same time by locking at partition level.\n• Good understanding of Microsoft Reporting Service (SSRS) with Report authoring, Report management, Report\nformatting, Report distribution, Report delivery and Report security.\n• Extensive experience in Capacity planning, Performance Tuning, Disaster Recovery, Troubleshooting procedures.\nActively took part in disaster recovery planning and handled the real time issues.\n• Also worked on ARMS reporting application where I have hands-on experiencing in formatting reports, scheduling and\ndelivery of reports.\n• Has good exposure to deploy the solutions in cloud platform and also storage usage.\n• Involved in implementing business rules on client files and membership files from the client and mock the data to\nrequired frequencies and also developed mechanism to alert when frequencies are not met on the fields in\nimplementation.\n• Has hands-on experience in deploying the ssis packages to both file and server levels.\nEnvironment: MS SQL Server 2014/2012/2008/2005/2000(SSMS), Visual Studio 2010/2012, TFS, VSS, Reporting\nServices (SSRS), Integration Services (SSIS), T-SQL, .Net, Excel.\nFirstView Financial LLC, Atlanta, GA July 2011 – May 2015\nSr. SQL DBA /Developer\nFirstView Financial LLC, Atlanta, GA provides prepaid debit card solutions enabling clients to enjoy all the benefits of\noperating a fully custom prepaid debit card program.\nResponsibilities\n• Installation of MS SQL 2008 R2 servers on production, Test and Development boxes.\n• Developed ETL solutions using SQL Server Integration Services (SSIS) to import data based on requirements for\neasy/less maintenance and easy upgrade.\n• Employed condition-based notifications to let the user know the status of the Agent jobs.\n• Developed complex SSIS packages using proper control flow tasks and data flow transformations as per business\nrequirements.\n• Migrated data from EXCEL and Flat files using SSIS packages to load data to the relational database in SQL Server\n2008R2 supporting BI solutions.\n• Implemented Jaro-Winkler distance algorithm to calculate the similarity between strings in Sql server.\n• Developed custom vb scripting for use in building custom functionality in job alerts.\n• Developed dynamic SQL and dynamic store procedures, views, indexes, CTEs, cursors for business needs.\n• Developed test scripts and environment of the developed SSIS solutions and the loaded data.\n• Developed complex SQL scripts based on the business requirements in SQL Server databases.\n• Implemented Disaster Recovery plans using Database Mirroring and Log Shipping. Participated in disaster recovery\ndrills and played important role in DR restoration.\n• Controlling day to day activities of Production database and troubleshooting the issues.\n• Researched and implemented SQL Server Auditing 2008 on SQL Servers for Auditing needs.\n• Supported SSAS cubes as part of production support and monitored the loading process.\n• Involved in requirement gathering, technical documentation Phases, supporting testing.\n• Created ETL jobs to load and clean gigabytes of data and also handled partitioning of the tables in ETL as a part of\nperformance tuning while handling huge volume of data.\n• Provided production support and resolved production tickets.\n• Handled user requested issues through Service Tickets.\n• Involved in Change Control Management is the discipline of systematically identifying and controlling change requests\nto a project from both internal and external sources.\n• Migrated SQL Server 2005 database to MS SQL Server 2008\n• Designed and implemented comprehensive Backup plan and disaster recovery strategies Implemented.\n• Created database objects like tables, views, indexes, stored-procedures, triggers, cursors\n• Successfully implemented Database Mirroring in SQL Server 2008\n• Successfully Configured Snapshot, Transactional and Transactional with updatable subscription in Replication.\n• Created Maintenance Plans for production servers (Full, Differential and Transactional Backups).\n• Monitored and modified Performance using execution plans and Index tuning.\n• Installation of 32 bit and 64 Oracle 10g client and applied DST Patches for Oracle Linked servers\n• Co-coordinating with the programmer analyst for optimizing query, writing stored procedures.\n• Conducting Root Cause Analysis of application availability and narrow down to issues related to coding practices,\ndatabase bottlenecks, or network latency\n• Creating logins, groups, users, roles, database devices, databases, mirroring devices, checking for database\nconsistency, fixing DBCC errors, monitoring error logs, database space allocations, transaction log space allocations,\nfine tuning SQL performance.\n• Resolving Locking and Blocking issues by using various SQL server internal commands\nEnvironment\nMS SQL Server 2008R2 Enterprise Edition, Oracle, SSMS, SSIS, SSRS, TOAD, SQL Plus, OLAP, OLTP, T-SQL, MS Excel,\nMS Access, Unix, MS Visual Studio.Net, VB, XP professional,2003, Crystal Reports XI.\n",
+  "tax_term": null,
+  "source_by": null,
+  "skills": {
+    "programming": [
+      "python",
+      "java",
+      "sql",
+      "t-sql",
+      "html",
+      "less",
+      "xml",
+      "powershell",
+      "crystal",
+      "move"
+    ],
+    "frameworks": [
+      "rest"
+    ],
+    "databases": [
+      "oracle",
+      "sql server",
+      "teradata"
+    ],
+    "cloud": [
+      "aws",
+      "azure",
+      "shield",
+      "workflows"
+    ],
+    "devops": [
+      "splunk",
+      "bamboo",
+      "git",
+      "svn"
+    ],
+    "methodologies": [
+      "agile",
+      "scrum",
+      "kanban",
+      "devops",
+      "safe",
+      "crystal",
+      "incremental",
+      "xp"
+    ],
+    "soft_skills": [
+      "team building",
+      "mentoring",
+      "critical thinking",
+      "research",
+      "analysis",
+      "root cause analysis",
+      "time management",
+      "planning",
+      "productivity",
+      "interpersonal skills",
+      "documentation"
+    ],
+    "business_skills": [
+      "business analysis",
+      "data analysis",
+      "root cause analysis",
+      "business requirements",
+      "use cases",
+      "process optimization",
+      "agile methodology",
+      "business intelligence",
+      "data visualization",
+      "reporting",
+      "tableau",
+      "powerbi",
+      "critical thinking",
+      "time management"
+    ],
+    "data_skills": [
+      "data analysis",
+      "etl",
+      "data visualization",
+      "reporting",
+      "business intelligence",
+      "excel",
+      "tableau",
+      "powerbi",
+      "sql",
+      "t-sql",
+      "python",
+      "java",
+      "informatica"
+    ],
+    "domain_specific": [
+      "insurance",
+      "shipping",
+      "warehousing",
+      "education",
+      "space",
+      "architecture",
+      "engineering",
+      "design",
+      "governance",
+      "security"
+    ],
+    "sdlc": [
+      "business requirements",
+      "use cases",
+      "design documentation",
+      "software development",
+      "version control",
+      "code reviews",
+      "change control",
+      "monitoring tools",
+      "disaster recovery planning",
+      "capacity planning",
+      "root cause analysis",
+      "optimization"
+    ],
+    "grc": [
+      "disaster recovery"
+    ],
+    "healthcare_skills": [
+      "case management",
+      "capacity planning",
+      "root cause analysis"
+    ],
+    "managerial_skills": [
+      "technical documentation"
+    ]
+  },
+  "designation": "Developer",
+  "experience": "9"
+}

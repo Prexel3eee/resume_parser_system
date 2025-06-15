@@ -1,0 +1,83 @@
+{
+  "first_name": "Kumar",
+  "last_name": null,
+  "primary_email": "muthukumar@consultant.com",
+  "secondary_email": null,
+  "phone": "4433161103",
+  "city": "USA",
+  "state": "IL",
+  "zip": null,
+  "work_authority": null,
+  "resume_link": ".Net  Architect - DE - Muthu.docx",
+  "raw_resume": "Introduction\n\nKumar is an Enterprise and Solution Architect / Senior System Architect / Certified Solution consultant (SME) with, around 20 years of architectural, systems analysis and development experience in Enterprise & Solutions Architectures, Technical Evaluations and Solutions using technologies such as products and enterprise wide solutions using Java, J2EE, Python, API Gateways, Visual C# /.NET / in Unix, Windows, IBM, Mobile iOS, Android, Windows CE, Linux, Hadoop & Cloud such as AWS and Azure Cloud environments. \n\n\n\nHas extensive experiences in AS-IS analysis, Transition Architectures and Future State architectures using TOGAF and FEAF\n\nSuccessfully worked on CBA, TCOs, Budgets, TBM, Asset Managements and Cost modellings\n\nInvolved in Technical Proposals, Pricing, Acquisitions, RFIs and RFP activities\n\nWorked extensively on Technical evaluations, Solutions proposals, Implementations planning and design artifacts\n\nWorked on CCBs, Risk Assessments, Controls, Oversight on SDLC, Agile and SAFe 4.0 & 4.5\n\nWorked on Data-center operations including Cloud and Government Datacenters and focused on networking operations, monitoring systems and applications\n\nHave good working knowledge on BI tools within the Datacenter using analytics, logger functions and enterprise services management\n\n Applied Architectural principles and produced successful solutions with, design pattern modeling, analysis, & programming SME for real time in enterprise and public facing production systems on varied local and international projects.  \n\nWell-versed in programming API’s and module implementation to support mobile, wireless programming and communications with Prototyping\n\nHas extensive work in .NET, Java, MS C#, VC++, NET Components, jQuery, Test Driven Development, Pre-Sales, JSON, HTML5, MVC, MVVM, COM/COM+, ADO (.NET), BizTalk, OLEDB, MQ Series, DCOM, MFC, ATL, MTS, IIS, UML, Rabbit MQ, Spring Boot, Puppet, Chef, ADO/DAO, SOA, OLE Automation, MS Agent (Speech API), Virtual machines, Docker, Synchronize / A-synchronize Programming, XML, PL/SQL, ETL, Micro Services, Data Modeling, Ruby, Meta data, Object Oriented Analysis and Object Oriented Design using Visio / Rational Rose Products.\n\nWith better communication and leadership skills, could handle any project in N-tier, multi-tier, SOA, Domain and Window DNA or Complex architectures. \n\n\n\nEducational Qualifications and Certifications\n\nMaster’s in Business Administration, UMUC, MD\n\nMasters in Computers, Bharathidasan University, India\n\nHonors Diploma in Systems Management, NCC, UK\n\nCertified Application Developer, MCAD, Microsoft, 2003\n\nProject Management Professional (PMP), PMI, 2008\n\nInformation Technology Infrastructure Library v3 Foundation (ITIL), 2011\n\nAWS Certified Solutions Architect - Associate (2013)",
+  "tax_term": null,
+  "source_by": null,
+  "skills": {
+    "programming": [
+      "python",
+      "java",
+      "ruby",
+      "sql",
+      "pl/sql",
+      "xml",
+      "json",
+      "puppet",
+      "chef"
+    ],
+    "frameworks": [
+      "spring",
+      "jquery",
+      "chef",
+      "puppet",
+      "spring boot"
+    ],
+    "cloud": [
+      "aws",
+      "azure",
+      "functions",
+      "virtual machines",
+      "docker"
+    ],
+    "devops": [
+      "docker",
+      "puppet",
+      "chef",
+      "functions",
+      "virtual machines"
+    ],
+    "methodologies": [
+      "agile",
+      "itil",
+      "pmi",
+      "pmp",
+      "safe"
+    ],
+    "soft_skills": [
+      "leadership",
+      "analysis",
+      "planning",
+      "networking"
+    ],
+    "data_skills": [
+      "etl",
+      "data modeling",
+      "sql",
+      "pl/sql",
+      "python",
+      "java",
+      "hadoop"
+    ],
+    "domain_specific": [
+      "government",
+      "infrastructure",
+      "design",
+      "sales",
+      "pre-sales"
+    ],
+    "healthcare_skills": [
+      "risk assessments"
+    ]
+  },
+  "designation": "Senior System Architect",
+  "experience": null
+}

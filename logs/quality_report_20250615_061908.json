@@ -1,0 +1,463 @@
+{
+  "timestamp": "2025-06-15T06:19:08.450940",
+  "summary": {
+    "total_processed": 6,
+    "successful_extractions": 6,
+    "failed_extractions": 0,
+    "success_rate": 100.0,
+    "ocr_usage_percentage": 0.0,
+    "avg_extraction_time": 5.66937518119812
+  },
+  "field_analysis": {
+    "empty_fields": {
+      "primary_email": 2,
+      "secondary_email": 6,
+      "phone": 6,
+      "city": 4,
+      "state": 4,
+      "zip": 4,
+      "work_authority": 4,
+      "tax_term": 6,
+      "source_by": 6
+    },
+    "field_confidence": {
+      "primary_email": [
+        0.0,
+        0.9,
+        0.9,
+        0.0,
+        0.9,
+        0.9
+      ],
+      "secondary_email": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "phone": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "city": [
+        0.0,
+        0.0,
+        0.7,
+        0.0,
+        0.0,
+        0.7
+      ],
+      "state": [
+        0.0,
+        0.0,
+        0.9,
+        0.0,
+        0.0,
+        0.9
+      ],
+      "zip": [
+        0.0,
+        0.0,
+        0.7,
+        0.0,
+        0.0,
+        0.7
+      ],
+      "work_authority": [
+        0.0,
+        0.0,
+        0.8,
+        0.0,
+        0.0,
+        0.8
+      ],
+      "resume_link": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "raw_resume": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "tax_term": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "source_by": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "designation": [
+        0.9,
+        0.8,
+        0.8,
+        0.9,
+        0.8,
+        0.8
+      ],
+      "experience": [
+        0.9,
+        0.9,
+        0.9,
+        0.9,
+        0.9,
+        0.9
+      ]
+    }
+  },
+  "skills_analysis": {
+    "categories": {
+      "technical_skills": {
+        "count": 0,
+        "skills": []
+      },
+      "business_skills": {
+        "count": 0,
+        "skills": []
+      },
+      "creative_skills": {
+        "count": 0,
+        "skills": []
+      },
+      "communication_skills": {
+        "count": 0,
+        "skills": []
+      },
+      "industry_skills": {
+        "count": 0,
+        "skills": []
+      },
+      "soft_skills": {
+        "count": 0,
+        "skills": []
+      },
+      "other_skills": {
+        "count": 0,
+        "skills": []
+      }
+    },
+    "total_skills": 0,
+    "unique_skills": 0
+  },
+  "resume_details": [
+    {
+      "resume_path": "data\\input\\.Net - TX - Hassan.pdf",
+      "confidence_score": 0.333,
+      "used_ocr": false,
+      "extracted_fields": {
+        "skills": {
+          "soft_skills": [
+            {
+              "name": "analysis",
+              "confidence": 0.42,
+              "context": "full_text",
+              "positions": [
+                294,
+                1048,
+                9011
+              ],
+              "experience_weight": 0.4,
+              "importance_score": 0.7
+            }
+          ],
+          "domain_specific": [
+            {
+              "name": "design",
+              "confidence": 0.42,
+              "context": "full_text",
+              "positions": [
+                303,
+                1057,
+                4522,
+                5423,
+                5940,
+                6404,
+                9020
+              ],
+              "experience_weight": 0.4,
+              "importance_score": 0.7
+            }
+          ]
+        },
+        "first_name": "Hassan",
+        "last_name": "Mwase",
+        "primary_email": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "secondary_email": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "phone": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "city": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "ner",
+          "structured_data": null
+        },
+        "state": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "zip": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "regex",
+          "structured_data": null
+        },
+        "work_authority": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "resume_link": {
+          "value": "data\\input\\.Net - TX - Hassan.pdf",
+          "confidence": 1.0,
+          "method": "file_path",
+          "structured_data": null
+        },
+        "raw_resume": {
+          "value": "  \nHassan Mwase  \n \nProudly presented by Hassan Mwase  IT professional with 1 6+ years of experience as a software developer/solution architect  on multiple \nlarge complex  project s and production support for a variety of clients  including most recent \nexperience developing Web applications . Proficient in analysis, design, development, testing, \nintegration and troubleshooting skills.  Result oriented back -end and front -end developer with \nexceptional analytical skills, team oriented, dependable and very flexible. Experience with \nWaterfall and JIRA Agile methodologies.  \n \nTechnical Skills  \n\uf0b7 Experienced Software development of Web applications using  Azure DevOps, Cloud, Git, \nASP.NET Web Applicati on, ASP.NET Web Forms , ASP.NET MVC,  C#, .NET \nFramework, Kendo UI , JavaScript,  Razor,  Angular  JS, CSS 3, jQuery , bootstrap, Ajax, \ndependency injection,  JSON, LINQ, HTML5,  Microsoft Visual Studio enterprise 201 7, \nActive Server  Pages extended files,  Eclipse , Test Driven Development (TDD ), Selenium \nFramework, Web Services, Postman, Visual Studio code , DevExpress, SQL Server \nManagement Studio . \n\uf0b7 Proficient in analysis, design, development, testing, integration and troubleshooting skills.  \n\uf0b7 Experience with Waterfal l and JIRA Agile methodologies .  \n\uf0b7 Result oriented back -end and front -end developer with exceptional analytical skills, team \noriented, dependable and very flexible.  \n\uf0b7 Familiarity with REST/ HTML/CSS 3.  \n\uf0b7 Excellent relational database experience using Oracle and  SQL Server  including writing \nPL/SQL, SQL stored procedures, functions, triggers and views.  \n\uf0b7 Experience developing using Oracle Database,  Oracle Forms, Oracle Reports,  SQL*Plus, \nPL/SQL, UNIX, Pro*C . \n\uf0b7 Knowledge of Java/J2EE architecture/technologies,  WebSphere , Test Driven \nDevelopment TDD  and Oracle ADF , ODBC  \n\uf0b7 Writing unit tests with NUnit and Moq  \n\uf0b7 Familiar with Regular Expression and Pattern Matching.  \n\uf0b7 SQL Server \u2013 Microsoft SQL Server Management Studio v.18.8 , Visual Studio 2017, \nMicrosoft SQL Server To ols for Visual Studio, GraphiViz 2.38 \u2013 This is used in the PMEF \nNEDAT and new NSIGHT application as an API for creating bubble visualization images.  \nMicrosoft Internet Information Services  (IIS) version 10  web server . OleDB API \nUncovered errors in timeshe et contracts and Provided guidance in resolving major issues \nfrom past years. Applied fix to application code.  \n \n \nProfessional Experience  \n \nSecret Security Clearance  11/2020 to 11/2030                        May. 2020  \u2013 Present  \nSenior Software Programmer/Analyst Consultant /Agile developer  \nTools : .NET, ASP.NET C#, Web Forms .Net Framework ver.4.6, JavaScript, CSS3,  jQuery, \nbootstrap v4.0.0 , JSON, LINQ, HTML5, Visual Basic 201 7, Microsoft Visual Studio enterprise,  \nHassan Mwase           Page 2 \nProudly presented by Hassan Mwase  Developer, Web Services, Web Forms, Databases: SQL Server  and Oracle , Microsoft team TSF  \ndevelopment environment  \n\uf0b7 Develop web applications using C#,  ASP.NET and JavaScript . \n\uf0b7 As a senior developer, I develop, enhance  and Support critical federal Government  \nprojects.  \n\uf0b7 Develop and maintain multiple web applications written in ASP.NET, C#, JavaScript,  \nand Web Forms.  \n\uf0b7 Participate in project meetings with other technical staff, business owners and subject \nmatter experts.  \n\uf0b7 Troubleshooting and debugging Defects  \n\uf0b7 Write automated UI test script using ServiceNow ATF  Framework . \n \n \nFarmers Insurance  \u2013 USA                                                                      Sept. 2018  \u2013 Aug. 2020  \nSenior Programmer/Analyst Consultant /Agile developer  \nTools : .NET, ASP.NET C#, MVC, Web Forms  .Net Framework ver.4.6, JavaScript,  CSS3,  jQuery, \nbootstrap  v4.0.0, JSON, LINQ, HTML5, Visual Basic 201 7,  Microsoft Visual Studio enterprise,  \nDeveloper, Selenium Framework, Web Services, Web Forms, Databases: SQL Server  and DB2 ,  \nMicrosoft team TSF  development environment  \n\uf0b7 Develop web applications using C#, Azure DevOps, Git, ASP.NET MVC , JavaScript, \njQuery, Razor MVC . \n\uf0b7 Develop and maintain multiple customer web applications written in C# , JavaScript and \nWeb Forms.  \n\uf0b7 Participate in project meetings with other technical staff, business owners and subject \nmatter experts.  \n\uf0b7 Troubleshooting and debugging Defects  \n\uf0b7 Write automated UI test script and fix defects using Selenium Framework . \n\uf0b7 Write unit tests with NUnit and Moq  \n \nBoeing  Company  \u2013 USA                                                                              Feb. 2018  \u2013 Sept.2018  \nSenior Programmer/Analyst Consultant /Agile developer  \nTools : .NET, ASP.NET MVC ,C#, MVC,  Dependency Injection DI,  .Net Framework ver.4.6, \nJavaScript, Razor,  Angular  JS,  CSS3, jQuery, bootstrap , JSON, LINQ, HTML5 ,  Microsoft Visual Studio \nenterprise 201 7, PL/SQL, SQL D eveloper, Databases: Oracle 12C and SQL Server  , JIRA  Agile , Microsoft \nteam TSF development environment  \n\uf0b7 Develop se rver side C# pages, create entities in the relation object mapping to modernize \nBoeing data ERP application  using  ASP.NET MVC framework .  \n\uf0b7 Manage Agile task board .  \n\uf0b7 Design and develop back -end Database stored procedures, functions, triggers and views . \n\uf0b7 Code C# interfaces, Classes, view models, API controllers  and data services web resources.  \n\uf0b7 Develop server side XHML5 web pages leveraging angular JS  and jQuery. \n\uf0b7 Code C# Dependency Injection processes \u2013 DI Manager interfaces, DI Manager classes, \nDependency  Injection configuration and API Controllers .   \nHassan Mwase           Page 3 \nProudly presented by Hassan Mwase   \n \nCliffs Natural resources  - Cleveland , OH                                                    July 2016  \u2013 Dec. 2017  \nSenior Programmer/Analyst Consultant  \nTool s: .NET, C#, MVC,  .Net Framework ver.4.6, JavaScript, Angular JS, CSS, JSON, LINQ, HTML5,  \nMicrosoft Visual Studio enterprise 2015,  PL/SQL, Postman , SQL Developer , Toad,  Databases: Oracle  \n12C and SQL Server   \n\uf0b7 Re-designed the Oracle ERP application and convert oracle  forms and reports  web application \nusing  ASP.NET MVC framework . \n\uf0b7 Create d Technical specs based on user desired functionality changes.  \n\uf0b7 Design and develop back -end Database stored procedures, functions, triggers and views . \n\uf0b7 Coded  C# interfaces, Classes, view models, JavaScript controllers  and data services web \nresources.   \n\uf0b7 Develop front end web content XHML 5 web pages  leveraging angular  JS. \n\uf0b7 Code system enhancements, defect fixes  and production support .   \n\uf0b7 Commit and publish finished web application solutions.  \n\uf0b7 Support project and business users to Create  Unit Test, integration, and UAT test scenarios and \nscripts, as well as, performing system and integration testing.   \n\uf0b7 Design, build and implement client and server side applications  as needed , as well as \nsupporting and enhancing custom applications.  \n \nGap Inc. - Columbus , OH                                               July 2015 \u2013 Nov. 2015 \nSenior Programmer/Analyst Consultant /Agile developer  \nTools : Oracle 11G, PL/SQL, SQL Developer, Toad, JDeveloper,  Oracle 11G Web logic environment, \nEclipse, JavaScript,  Ruby , Eclipse, WebSphere, Tomcat,  JIRA Agile development environment.  \n\uf0b7 Onsite team lead working with product managers and business users to re-design the on -\nline order fulfillment process from batch processing to on -demand and transform oracle \ninterface based application to Web UI .  \n\uf0b7 Technical lead for on -site/offshore developers and QA.  \n\uf0b7 Convert legacy forms application to Web  UI using Java Script. \n\uf0b7 Coded supporting stored  procedure s, functions, packages  and views . \n\uf0b7 Assisted to test conver sion of  character based SSH screens for RF devices to a stateless \nHTML user interface, update to the tech stack from Oracle Forms to Java6/HTML5, \ndesigned to  extend the life of a legacy Warehouse Management System(RWMS)   \n\uf0b7 Create  test cases , run automated system tests and validate  output of Ruby automated testing \nfor process online customer orders.  \n\uf0b7 Support warehouse order processing and shipment message queues (MQ) .  \n\uf0b7 Create d Unit Test , integration, and UAT test scenarios and  scripts, as well as, performing \nsystem and integration testing. Write integration testing cases.   \nCliffs Natural Resources - Cleveland , OH  June 2011  \u2013 April 2015  \nSenior Programmer  Consultant  \nTools : Oracle 11G, SQL Server, Oracle Forms, Oracle Forms, .NET, C#, MVC,.Net Framework, \nJavaScript, HTML5,  Microsoft Visual Studio enterprise 2015,  PL/SQL, SQL Developer, Toad  \n\uf0b7 Support business functions through the development, implementation, and maintenance \nof applications systems.  \nHassan Mwase           Page 4 \nProudly presented by Hassan Mwase  \uf0b7 Responsible for Maintenance and support of Company ERP application, support various \nenterprise applications enhancements and code extensions, build and apply fixes.  \n\uf0b7 Maintained and coded database objects such as procedures, functions, packages and \ninterfac e that support ERP applications, ASP.NET MVC, .Net Framework and Object \nBusiness Intelligence  Enterprise Edition (OBIEE).  \n\uf0b7 Coded PL/SQL subprograms that were called by the front -end application written in C#  \nand ORM Entity framework .  \n\uf0b7 Worked with applicatio n managers to g ather requirements and build solutions based off of \nuser requirements and build enhancements . \n\uf0b7 Proactively assess opportunities, risks, challenges for technology and business, define \nscope, plan and schedule of custom enhancements.  \n\uf0b7 Consistent ly exceeded project requirements and expectations on -time delivery.  \n \nWalt Disney World  - Orlando , FL Feb.2008  \u2013 Aug.2010  \nLead  Senior Programmer/Analyst Consultant  \nTools:  Oracle 10G, Oracle Retail supply chain, Oracle Retail Merchandizing, Oracle Database, Oracle \nForms, Oracle Forms, PL/SQL, S QL Developer, Toad  \n\uf0b7 As project Stream lead, managed  full lifecycle implementation effort. Engaged client managers to \nreview project plans, timelines and deliverables.  \n\uf0b7 SME lead Oracle WMS/RMS implementation/integration contractor and client developer  team . \n\uf0b7 Responsible for analysis, design and final delivery of functioning and technical integrated multiple \nfacility warehouse. Setup and configure environments.  \n\uf0b7 Designed, wrote code  and tested application enhancements, mod ifications, and interfaces. \nSupported post go -live including system integration stabilization, inventory stock on hand \nimbalance resolution between RWMS13.x and RMS13.x issue resolution and knowledge transfer \nto Disney IT personnel.  \nCato Corporation, 8100 Denmark Road, Charlotte, NC   Dec. 2007 \u2013 Aug. 2008  \nProject  Lead - Senior Programmer/Analyst Consultant  \nLead technical consultant, to upgrade  RMS . Plan and recom mend most efficient upgrade strategy of all \ncurrent Oracle retail application modules  to be web -based.   \nTesco Central Europe Prague , Czech Republic  Aug.2007 \u2013 Oct.2007  \nLead Senior Programmer/Analyst Consultant  \nLead functional and technical RWMS Project lead consultant,  build and deploy Oracle Retail \nWarehouse Management System for both Prevov Fresh DC and Ambient DC . Review foundation and \ntransactional data to ensure successful build, test and implementation process  of Slovakian DC in \nPresov  \nIBM - Circuit City Richmond , VA Aug.2006 \u2013 July 2007  \nSenior Analyst Consultant  \nTools: RWMS 10.3 , UNIX, Pro*C, Oracle Database, SQL*Plus, PL/SQL, Oracle Reports, Oracle Forms, \nOracle, RIB  \nLead technical analyst to assist RMS11 implementation and integration . Worked on Purchase \nOrder , Cost and Deals team .  \n \nGAP Inc.  \u2013 Columbus , OH 2005 \u2013 2006  \nSenior Analyst Consultant  \nHassan Mwase           Page 5 \nProudly presented by Hassan Mwase  Tools: RWMS 10.3 , UNIX, Pro*C, Oracle Database, SQL*Plus, PL/SQL, Oracle Reports, Oracle Forms, \nOracle, RIB  \nDevelopment team lead developer on the WMS system - a highly customized version of Oracle \nRetail WMS.   \n \nRetek /Oracle  \u2013 Minneapoli s, MN  2003 \u2013 2005 \nSenior Developer  \nTools: RWMS 10.3 , UNIX, Pro*C, Oracle Database, SQL*Plus, PL/SQL, Oracle Reports, Oracle Forms, \nOracle, RIB  \n\uf0b7 Technical lead/supervisor of Retek WMS Developer and customer product support.  \n\uf0b7 Developed RWMS 10.3 /RMS 10.3 and RIB hospital application support interface. On -site DC \noperation s support and technical lead for RWMS/RIB  at the Navy Exchange Norfolk \nVirginia   .  \n \n \n \nEducation  \n \nBachelor of Commerce  \nUniversity of Calgary, Calgary, Alberta  \n \nComputer Programming  \nYork University, Toronto, Ontario  \n \nCertification  \nOracle Certified Professional \u2013 Certified Oracle DBA  \n \n \n",
+          "confidence": 1.0,
+          "method": "full_text",
+          "structured_data": null
+        },
+        "tax_term": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "source_by": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "designation": {
+          "value": "software developer",
+          "confidence": 0.9,
+          "method": "ner",
+          "structured_data": null
+        },
+        "experience": {
+          "value": "6+",
+          "confidence": 0.9,
+          "method": "regex_total_experience_summary",
+          "structured_data": null
+        }
+      }
+    },
+    {
+      "resume_path": "data\\input\\Affzal_SrDeveloperResumeS.pdf",
+      "confidence_score": 0.48500000000000004,
+      "used_ocr": false,
+      "extracted_fields": {
+        "skills": {},
+        "first_name": "AFFZAL",
+        "last_name": "ABDUL",
+        "primary_email": {
+          "value": "Affzal.sql@gmail.com",
+          "confidence": 0.9,
+          "method": "regex",
+          "structured_data": null
+        },
+        "secondary_email": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "phone": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "city": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "ner",
+          "structured_data": null
+        },
+        "state": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "zip": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "regex",
+          "structured_data": null
+        },
+        "work_authority": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "resume_link": {
+          "value": "data\\input\\Affzal_SrDeveloperResumeS.pdf",
+          "confidence": 1.0,
+          "method": "file_path",
+          "structured_data": null
+        },
+        "raw_resume": {
+          "value": " \nAFFZAL ABDUL  \nDeveloper  Sr. \nEmail:Affzal.sql@gmail.com  \nM: 361 -330-0666  \n \nPROFESSIONAL SUMMARY  \n \n\u2022 Over 9 years  of experience ranging software development, testing, assurance, and implementation and working in \ncomplex engagements.  Prominently has experience in data warehousing and Business Intelligence technologies using \nMS SQL Server 2000/2005/2008R2/2012/2014 &  2016 on Azure.  \n\u2022 Solid 8 years in depth experience  in MS SQL Server database development and administration  in enterprise \nenvironment including server installation, configuration, upgrade, maintenance, performance tuning , optimization, \nbackup/restore, recovery, migration, monitoring, security planning and trouble -shooting.  \n\u2022 Good understanding in database and data warehousing concepts (OLTP & OLAP)  and also data analysis  along with \nvisualizations using Tableau  and Sisense . \n\u2022 Experience in bo th building and utilizing DevOps  pipelines for the projects which started brand new and legacy systems .  \n\u2022 Leverage strong communication and interpersonal skills to cultivate strong working relationships with clients, vendors \nand offshore partners.  \n\u2022 Worked in dependent and as a team with strong critical thinking, time  management  and proven handling of \nresponsibilities and projects.  \n\u2022 Experience in Information Technology field as a n SQL server Developer with strong expertise in  SQL server \ndevelopment, Physical/Logical design, designing Stored -Procedures/T -SQL coding, Troubleshooting, Backups and \nRestore of databases,  SSIS/SSRS, OLTP and OLAP.  \n\u2022 Experience in creating visualizations on the data and created cosmetic clear dashboards  on top of the analyzed data  in \nboth Tableau and PowerBI . \n\u2022 Transformed data from one source  to other destinations  using tools like SSIS , Informatica  PowerCenter . \n\u2022 Experience in Optimizing  Code and Improving Efficiency in databases including  Re-indexing, Updating Statistics, \nRecompiling Stored Procedures  and performing other maintenance tasks and DBCC Commands.  \n\u2022 Good understanding of Microsoft Reporting  Service  (SSRS) with Report authoring , Report management , Report \nformatting, Report distribution, Report delivery and Report security.  \n\u2022 Extensive time spent on POC for Sisense  to be used in data visualization purposes and thereby  have to stick with using \ntableau for visualization purposes of the business data.  \n\u2022 Experience in enhancing and deploying the SSIS Packages from development server to production server.  Migrated  \nDTS packages into SSIS packages using upgrade advisor tool.  \n\u2022 Used Database Monitoring tools like profiler, performance monitor  and Event viewer.  Good understanding in SQL user \nlogins, database user accounts, server roles, database roles and its permissions . \n\u2022 Experience in integrating the SSRS reports into web applications using Report viewer control, URL methods and \ncreating data driven subscriptions to different users using Report Manager.  \n\u2022 Expertise in PowerShell  Scripting / Python  and making REST  API calls to pull data and also load it to databases.   \n\u2022 Expert ex perience in handling huge volume of data and transforming and cleansing of data and raw data.  Involved in \nhuge data migrations, transfers using BCP, SSIS and Informatica PowerCenter  from SQL Analysis server, Teradata, \nOracle . \n\u2022 Experience in Agile methodology in the SDLC process ( both scrum & Kanban).  \n \n \nEducation Background  \n \n\u2022 Bachelor of Engineering (Information Technology) - Osmania University, India. (2005 -2009)  \n\u2022 Master\u2019s in Information Technology and Management \u2013 IIT, Chicago. (2010 -2012)  \n \n \nTECHNICA L SKILLS  \n \nSQL Server Tools   : Enterprise Manager, Profiler, Query Analyser, Memory Optimization Advisor  \nExport & Import (SSIS), SSRS . \nRDBMS   : MS SQL Server 2005/2008 , 2012 , 2014 , 2016.MS  Access, Oracle  11g, Teradata . \nETL   : SSIS, Informatica  Power Center (9.5 & 10.2) . \nProgramming Languages  : SQL, T -SQL, PL-SQL, Core Java, C #, UNIX , PowerShell  and Vbs  \nInternet Technologies  : IIS, XML, HTML.  \nProductivity Applications  : MS Office Suite along with Outlook.  JIRA . \n \nOperating System  : Windows95/98, Windows 2000/NT/XP , 2003 , 7, MS DOS.  \nReporting Tools   : Crystal Reports 11, SSRS , ARMS reporting , Sisense, and Tableau . \nDesign Documentation              :           UML, MS Visio  \nOther  Tools    :            Tidal , Control -M, VSS, TFS, GIT,  SVN.  \n \n \nPROFESSIONAL EXPERIENCE  \n \nAnthem Inc. , Norfolk , VA                                                                         Mar 2017\u2013 Till date  \nDeveloper  Sr. \n \nAnthem Inc . is an American  health insurance company  founded in the 1940s, prior to 2014 known as  WellPoint, Inc. It is \nthe largest for -profit  managed health care  company in the  Blue Cross and Blue Shield Association . It covers 7 .7 million \nseniors, people with disabilities, low -income families and other state and federally sponsored beneficiaries, and federal \nemployees in 26 states, making it the nation\u2019s largest provider of health care for public programs . \n \nResponsibilities:  \n \n\u2022 Expertise in Provider  dealing with legacy system to load files from states into the FACETS application.  Expertise in \nProvider business domai n area and the flow of the FACETS  application. in-depth knowledge of both providers in \nFACETS.  \n\u2022 Apply the Business rules on the data coming from multiple operating markets. Maintain the business rules in a table for \nvisibility to all required processes.  \n\u2022 Actively worked in gathering requirements with SA and PO to convert them to technical documents for the deve lopment \nto initiate in Jira.  \n\u2022 Used JIRA, SVN Tortoise  & Bit bucket  for code repository and logged / tracked the activities in the team. Also CTU tool \nfor code deployments.  \n\u2022 Used  Splunk  for parsing complex files and  Splunk language ( SPQL ) to make the searches and created dashboards on \nthe data. Also configured notifications as requested by the business.  \n\u2022 Did POC  for DevOps tools and deeper research on both Sisense  and Tableau  tools for utilizing them as data \nvisualization purposes across the provider department.  \n\u2022 Have hands on experience in pulling data from JIRA using REST calls thru PowerShell scripting and load them to SQL \ndb. Also did dashboards on the loaded data and provi ded support for the created dashboards in tableau . \n\u2022 Used Python  to massage the data in REST calls using JIRA libraries and loading them to database. Built dashboards \non top the loaded data for project management team.  \n\u2022 Checked the configuration and performance of the existing databases including data file allocation, index, fill factor, \nfragmentation and the impact on system performance. Analyzed potential problems (response delay, locking, server \ndown time, etc.) to avo id and optimize.  \n\u2022 Actively involved  with production support ( 24*7) and Development environment.  \n\u2022 Used Premise  to trace the slow running queries and tried to Optimize SQL queries for improved performance and \navailability. Also used precise tool for reviewin g the performance.  \n\u2022 Actively involved in code reviews and mentoring the developers. And also involved in development activities.  \n\u2022 Excellent Team Building, Project Management, Analytical, Interpersonal & Communication Skills.  \n\u2022 Extensively worked and did resear ch on Redgate  suite tool belt and implemented them across the whole team.  \n\u2022 Have hands on experience in pulling data from JIRA using REST API calls thru PowerShell scripting and load them to \nSQL db. Also did dashboards on the loaded data and provided support for the created dashboards in tableau.  \n\u2022 Participated in Informatica  DVO  trainings and started extensive use of the tool as part of the DevOps roadmap.  Also \ndid POC  on icedq  and attended trainings.  \n\u2022 Built SQL pipelines using Redgate tool belt  in bamboo and deeper knowledge of branching strategy.  \n\u2022 Used both SonarQube  and Veracode  in the DevOps pipelines using Bamboo . \n\u2022 Built the automation framework for reducing the regression test cycle efforts.  \n\u2022 Used Informatica  PowerCenter  and SSIS  to both move and modify data from different environments and optimized \nworkflows.  \n\u2022 Proficient in SSIS ETL packages  & Informatica workflow  designing and development for various complex solutions \nincluding files processing, Incremental loads, historical data maintena nce. Extensively used Configurations, Logging, \nDebugging using breakpoints, Check points, Transactions, Error and Event Handling . \n\u2022 Assisted team in adding new data concepts and developing new data model development methodologies, principles, \nstandards and g overnance considering process optimization aspects.  \n\u2022 Worked on Tidal to schedule the jobs needed and configure them to receive the notifications on demand basis.  \n \n\u2022 Actively in Cloud  CoE trainings and completed AWS Cloud practitioner course.  \n\u2022 Creation of POC and doing architecture POC for upcoming AWS  engagements.  \n \n \n \nEnvironment : MS SQL Server 2016, 2014/2012/2008/2005/2000(SSMS), Visual Studio 2010/2012 ,2017 , TFS, VSS, \nReporting Services (SSRS), Integration Services (SSIS) , Informatica  PowerCenter , T-SQL,  PL-SQL,  .Net, Redgate tools, \nPowerShell Scripting,  python, Excel , Sisense, Tableau.  \n \n \n \n \nAccordant, A CVS Caremark Company, Greensboro, NC                                                                May 2015 \u2013 Mar 2017  \nSr. SQL  DBA  /Developer  \n \nAccordant Health Services , a CVS Caremark company, is a recognized leader in delivering disease management and case \nmanagement services for people with rare chronic conditions.  It has been providing value -added services on behalf of our \ncontracted clients such as health plans, emplo yers, and third -party  administrators (TPAs) for more than 14 years.  \n \nResponsibilities:  \n\u2022 Installation of MS SQL 2012  enterprise edition  on production, Test and Development environments . \n\u2022 Configured many alerts for sql server ongoing health checks and disk space alerts.  \n\u2022 Took part in design and implementation of Log shipping on few instances for the development and testing teams.  \n\u2022 Involved in Business requirement gathering, Technical Design Documents, Business use cases and Data mapping.  \n\u2022 Extensively worked on SSIS , designed and created mappings using various SSIS transformations like  \nOLEDB Command, Conditional Split, Lookup, Aggregator, Multicast, lookup and fuzzy logic.  \n\u2022 Developed SQL scripts to Insert/Update and Delete data in production Environment. Develop a nd implement policies \nand standards for preserving the integrity and security of data.  \n\u2022 Configure SSIS Package for run time Parameters and Configuration file.  Set the Standards for ETL development for the \nteam to follow on naming standards and best practice s for the meta -data, event handling and logging  \n\u2022 Strong expertise in writing stored procedures and performance optimization for the poor running queries. Good T -SQL \nProgramming skills.  \n\u2022 Worked with the development team to implement data strategies, build data flows and develop data models.  \n\u2022 Used Reporting Services (SSRS) to schedule reports to be generated on predetermined time.  \n\u2022 Generated on -demand and scheduled reports for business analysis or management decision using SQL Server \nReportin g Services (SSRS).  \n\u2022 Used Team Foundation Server and Visual Source Safe as a version control tool.  Migrated objects and solutions from \nvisual source safe to TFS. \n\u2022 Experience in deploying created reports in various sources like Web browser, XML and PDF.  \n\u2022 Used S QL Server Profiler to trace the slow running queries and tried to Optimize SQL queries for improved performance \nand availability.  Implement table partitioning  to avoid table level locking issues when different operating company\u2019s \ndata process is initiated at the same time by locking at partition level.  \n\u2022 Good understanding of Microsoft Reporting Service (SSRS) with Report authoring, Report management, Report \nformatting, Report distribution, Report delivery and Report security.  \n\u2022 Extensive experience in Capacity  planning, Performance Tuning, Disaster Recovery, Troubleshooting procedures . \nActively took part in disaster recovery planning and handled the real time issues.  \n\u2022 Also worked on ARMS  reporting application where I have hands -on experiencing in formatting reports, scheduling and \ndelivery of reports.  \n\u2022 Has good exposure to deploy the solutions in cloud platform and also storage usage.  \n\u2022 Involved in implementing business rules on client files  and membership files from the client and mock the data to \nrequired frequencies and also developed mechanism to alert when frequencies are not met on the fields in \nimplementation.  \n\u2022 Has hands -on experience in deploying the ssis packages to both file and serv er levels.  \n \n \nEnvironment : MS SQL Server 2014/2012/2008/2005/2000(SSMS), Visual Studio 2010/2012, TFS, VSS, Reporting \nServices (SSRS), Integration Services (SSIS), T -SQL, .Net, Excel.  \n \n \n \nFirstView Financial LLC, Atlanta, GA                                                         July 2011 \u2013 May 2015  \nSr. SQL DBA  /Developer  \n \nFirstView Financial LLC, Atlanta, GA provides prepaid debit card solutions enabling clients to enjoy all the benefits of \noperating a fully custom prepaid d ebit card program.  \n                                                                                                                                             \nResponsibilities  \n\u2022 Installation of MS SQL 2008 R2 servers on production, Test and Development boxes . \n\u2022 Developed ETL solutions using SQL Server Integration Services (SSIS) to import data based on requirements for \neasy/less maintenance and easy upgrade.  \n\u2022 Employed condition -based  notifications to let the user know the status of the Agent job s. \n\u2022 Developed complex SSIS packages  using proper control flow tasks  and data flow  transformations as per business \nrequirements.  \n\u2022 Migrated data from EXCEL and Flat files using SSIS packages to load data to the relational database in SQL Server \n2008R2 supporti ng BI solutions.  \n\u2022 Implemented Jaro -Winkler distance algorithm to calculate the similarity between strings in Sql server.  \n\u2022 Developed custom vb scripting for use in building custom functionality in job alerts.  \n\u2022 Developed dynamic SQL and dynamic store procedures, views, indexes, CTEs, cursors for business needs.  \n\u2022 Developed test scripts and environment of the developed SSIS solutions and the loaded data.  \n\u2022 Developed complex SQL scripts based on the business requirements in SQL Server databases.  \n\u2022 Implemented Disaster Recovery plans using Database Mirroring and Log Shipping.  Participated  in disaster recovery \ndrills and played important role in DR restoration.  \n\u2022 Controlling day to day activities of Production database and troubleshooting the issues.  \n\u2022 Researched and implemented SQL Server Auditing 2008 on SQL Servers for Auditing needs.  \n\u2022 Supported SSAS cubes as part of production support and monitored the loading process.  \n\u2022 Involved in requirement gathering, technical documentation Phases, supporting testing . \n\u2022 Created ETL jobs to load and clean gigabytes of data and also handled partitioning of the tables in ETL as a part of \nperformance tuning while handling huge volume of data.  \n\u2022 Provided production support and resolved production tickets.  \n\u2022 Handled  user requested issues through Service Tickets.  \n\u2022 Involved in Change Control Management is the discipline of systematically identifying and controlling change requests \nto a project from both internal and external sources.  \n\u2022 Migrated SQL Server 2005 database to  MS SQL Server 2008  \n\u2022 Designed and implemented comprehensive Backup plan and disaster recovery strategies Implemented.  \n\u2022 Created database objects like tables, views, indexes, stored -procedures, triggers, cursors   \n\u2022 Successfully implemented Database Mirroring in  SQL Server 2008  \n\u2022 Successfully Configured Snapshot, Transactional and Transactional with updatable subscription in Replication.  \n\u2022 Created Maintenance Plans for production servers (Full, Differential and Transactional Backups).  \n\u2022 Monitored and modified Performan ce using execution plans and Index tuning.  \n\u2022 Installation of 32 bit and 64 Oracle 10g client and applied DST Patches for Oracle Linked servers  \n\u2022 Co-coordinating with the programmer analyst for optimizing query, writing stored procedures.  \n\u2022 Conducting Root Cause Analysis of application availability and narrow down to issues related to coding practices, \ndatabase bottlenecks, or network latency  \n\u2022 Creating logins, groups, users, roles, database devices, databases, mirroring  devices, checking for database \nconsiste ncy, fixing DBCC errors, monitoring  error logs, database space allocations, transaction log space allocations , \nfine tuning SQL performance.  \n\u2022 Resolving Locking and Blocking issues by using various SQL  server internal commands  \n \nEnvironment  \nMS SQL Server 2008R2 Enterprise Edition, Oracle, SSMS, SSIS, SSRS , TOAD, SQL Plus, OLAP , OLTP, T -SQL, MS Excel, \nMS Access, Unix, MS Visual Studio.Net, VB, XP professional,2003, Crystal Reports XI.  \n",
+          "confidence": 1.0,
+          "method": "full_text",
+          "structured_data": null
+        },
+        "tax_term": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "source_by": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "designation": {
+          "value": "Developer",
+          "confidence": 0.8,
+          "method": "regex",
+          "structured_data": null
+        },
+        "experience": {
+          "value": "9",
+          "confidence": 0.9,
+          "method": "regex_total_experience_summary",
+          "structured_data": null
+        }
+      }
+    },
+    {
+      "resume_path": "data\\input\\Data Entry - NY - Lauren.pdf",
+      "confidence_score": 0.645,
+      "used_ocr": false,
+      "extracted_fields": {
+        "skills": {},
+        "first_name": "Lauren",
+        "last_name": "Dubin",
+        "primary_email": {
+          "value": "laurendbrnx2005@aol.com",
+          "confidence": 0.9,
+          "method": "regex",
+          "structured_data": null
+        },
+        "secondary_email": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "phone": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "city": {
+          "value": "Bronx",
+          "confidence": 0.7,
+          "method": "ner",
+          "structured_data": null
+        },
+        "state": {
+          "value": "NY",
+          "confidence": 0.9,
+          "method": "zip_database",
+          "structured_data": null
+        },
+        "zip": {
+          "value": "10468",
+          "confidence": 0.7,
+          "method": "regex",
+          "structured_data": null
+        },
+        "work_authority": {
+          "value": "S",
+          "confidence": 0.8,
+          "method": "regex",
+          "structured_data": null
+        },
+        "resume_link": {
+          "value": "data\\input\\Data Entry - NY - Lauren.pdf",
+          "confidence": 1.0,
+          "method": "file_path",
+          "structured_data": null
+        },
+        "raw_resume": {
+          "value": "Lauren Dubin  \n2835 WEBB AVENUE APT. 8G  \nBRONX, NY 10468  \nCELL:  917 -392-2569  \nPHONE/FAX (718) 549 -3568  \nlaurendbrnx2005@aol.com  \n \nPROFESSIONAL SUMMARY  \n \nA skille d and dedicated Administrative, Data Entry, and Customer Service professional with  10 years experience \ncoordinating, planning, and supporting daily operational functions. Excellent written and oral communication skills. \nExperience handling sensitive and confidential business. Superior organizational and multi -tasking skills. Ability to \nwork independently with minimal supervision, as well as in team environment. Highly motivated individual with \nprofessional demeanor.  \n \nSKILLS  \n \nData Entry, Typing (80+ WPM), Transcription, Medical Scribe, fast long -hand, familiarity with ICD -10 medical \ncoding, insurance, pre -certifications/authorizations, Windows 10, Microsoft Office 365 which includes Word  2019 , \nExcel  2019 , PowerPoint  2019 , Access  2019 , Outlook , and Publisher, Eudora, EPIC, NextGen, Athena, Mozilla \nFirefox & Thunderb ird, Adobe applications , Mac computers, electronic tablets, QuarkXPress, PC DOCS, medical \nterminology, Electronic Medical Records, most transcription systems including internet applications, and voice \nrecognition software such as PowerScribe, Legal word pr ocessing centers, recep tion including Call Centers, clerical, \nscanning, data entry, customer service, computer tech support/Help Desk (problem solving & troubleshooting  \nabilities) , maintaining filing and database systems . \n \nPROFESSIONAL EXPERIENCE  \n \nMetropol itan Transportation Authority     August 2017 -PRESENT  \nBronx, NY \nData Entry/Office assistant  \n\u2022 Comparing data entered with source documents.  \n\u2022 Correcting errors when appropriate.  \n\u2022 Maintaining required records of all completed work and compiling weekly reports.  \n\u2022 Assist in maintaining filing system by organizing, purging, maintaining and retrieving files.  \n\u2022 Clerical duties as assigned  \n \nAcacia Network, Bronx, NY       December 2016 \u2013 June 2017  \nMedical Scribe  \n\u2022 Anticipate physician needs to facilitate the flow of clinics.  \n\u2022 Accurately and thoroughly record patient medical history an d physical exam, procedures and treatments \nperformed by healthcare professionals, including nurses and physician assistants.  \n\u2022 Patient education and explanations of risks and benefits, physician -dictated diagnoses, prescriptions and \ninstructions for patient or family members for self -care and follow -up. \n\u2022 Prepare referral letters as directed by the physician.  \n\u2022 Collect, organize and catalog data for physician quality reporting system and other quality im provement \nefforts and format for submission.  \n\u2022 Attend training s on diverse subjects such as information technology, legal, HIPAA and regulatory \ncompliance, billing and coding.  Quickly assimilate new knowledge into process and procedures.  \n\u2022 Proofread and edit all the physician\u2019s medical documents for accuracy, spelling , punctuation and grammar.  \n\u2022 Utilizing NextGen E lectronic Medical Record system.  \n\u2022 Use of Microsoft Word 2016, Outlook 2016  \n \nTunstall Medical Alert \u2013 Long Island, NY      March 2016 \u2013 July 2016  \nData En try Operator, Customer Service Representative | Temporary As signm ent \n\u2022 Entering alphanumeric information into computer system in preparation for medical billing  \n\u2022 Assisting with authorizations for installation of medical alert equipment  \n\u2022 Electronic and paper filing \n\u2022 Customer service duties  \n\u2022 Clerical duties as assigned  \n \nMill Basin Radiology Services \u2013 New York, NY     October 2013 \u2013 November 2017  \nRemote Medical Transcriptionist /Medical data entry |Part-time and  Per Diem ) \n\u2022 Home based transcription utilizing Word 20 13 of time sensitive material in formatted medical radiology  \nreports, mainly sonograms on an as needed basis, often with deadlines  \n\u2022 Entry of medical data in radiology and medical procedures into Microsoft Word  \n\u2022 Use of Windows 10, medical terminology, Office  2013 including Outlook  \n \nPatient Care Associates \u2013 Mamaronec k, NY    November 2012 \u2013 June 2013  \nMedical Data Entry Operator and Transcriptionist, Office Assistant  \n\u2022 Entering of medical data of radiology and cardiology formats  for acute care facilities involvi ng deadlines and \ntime sensitive material, record keeping of same, projects and spreadsheets recording productivity  \n\u2022 Use of medical terminology, internet incorporated transcription and dictaphone applications  \n\u2022 Reception and clerical support as needed  \n \nMill B asin Radiology Services \u2013 New York, NY     November 2011 \u2013 October 2012  \nSenior In -House Medica l Transcriptionist, Secretary  \n\u2022 Entry of medical data in radiology and medical procedures into Microsoft Word 2003, often with deadlines , \ntime sensitive material fo rmatted  into medical radio logy reports, mainly sonograms  \n\u2022 Filing \n\u2022 Record keeping   \n\u2022 Problem solving and troubleshooting  \n\u2022 Reception  and clerical support as needed    \n\u2022 Use of medical terminology,  Windows XP, Mic rosoft Word 2003 and Excel 2003  \n \nWeill Cornell Medical  College \u2013 New York, NY     May 2009 \u2013 September 2011  \nMedical Administrative Assistant  \n\u2022 Performed administrative support services for the Director and Faculty of the Myeloproliferative Diseases \nprogram in the Department of Medicine/ Division of Hematology an d Medical Oncology.  Maintained \ncomputerized calendar   \n\u2022 Coord inated scheduling appointment process for long -term scheduling monthly, weekly, and daily views   \n\u2022 Coordinated all necessary paperwork for daily meetings and events  \n\u2022 Dealt with press and broadcast media to set up arrangements for the Director's public appear ances    \n\u2022 Handled travel arrangements including local, domestic, and foreign travel  \n\u2022 Handled confidential information and situations on a daily basis   \n\u2022 Screened all phone calls   \n\u2022 Assisted in prepa ration and typing of research grants and contract application s and protocol submissions  \n\u2022 Data entry of clinical material as dictated into Epic electronic medical record  \n\u2022 Performed other job -related duties as required. Use of medical terminology, Windows XP,  Microsoft Office \n2007, Eudora, Mozilla Firefox & Thunderbird , Adobe, Outlook, and Epic  \n \nJCW Enterprises Typing Service \u2013 New York, NY    November 2005 \u2013 December 2010  \nRemote Medical Transcriptionist  \n\u2022 Home based typing and transcription, work was on a contr act basis and commission and consisted of \nmedical transcripti on and data entry  of radiology and surgical reports  \n\u2022 Use of Windows XP, Microsoft Office 2003: Word and Excel, Centricity and internet applications; RTAS \ndictaphone  \n \nEDUCATION  \n \nThe Rhodes School \u2013 New York, NY  \nHigh School Diploma  \n \nMandl School \u2013 The Colleg e of Allied Health \u2013 New York, NY  \nMedical Secretary Science Certificate  \n",
+          "confidence": 1.0,
+          "method": "full_text",
+          "structured_data": null
+        },
+        "tax_term": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "source_by": {
+          "value": "",
+          "confidence": 0.0,
+          "method": "none",
+          "structured_data": null
+        },
+        "designation": {
+          "value": "Data",
+          "confidence": 0.8,
+          "method": "regex",
+          "structured_data": null
+        },
+        "experience": {
+          "value": "10",
+          "confidence": 0.9,
+          "method": "regex_total_experience_summary",
+          "structured_data": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+README.md
+setup.py
+resume_parser.egg-info/PKG-INFO
+resume_parser.egg-info/SOURCES.txt
+resume_parser.egg-info/dependency_links.txt
+resume_parser.egg-info/requires.txt
+resume_parser.egg-info/top_level.txt
+tests/test_document_reader.py
+tests/test_parser.py
