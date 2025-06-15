@@ -21,7 +21,7 @@ pytesseract>=0.3.10
 pdf2image==1.16.3
 opencv-python==4.8.1.78
 Pillow>=10.0.0
-layoutlmft>=0.1.0
+layoutparser
 
 # Data Processing
 pandas>=2.0.0

@@ -10,9 +10,13 @@ RUN apt-get update && apt-get install -y \
 # Set working directory
 WORKDIR /app
 
+# Upgrade pip
+RUN pip install --upgrade pip
+
 # Copy requirements and install
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
+RUN pip install layoutparser torchvision && pip install "git+https://github.com/facebookresearch/detectron2.git@v0.5#egg=detectron2"
 
 # Download spaCy models
 RUN python -m spacy download en_core_web_trf
