@@ -5,6 +5,7 @@ RUN apt-get update && apt-get install -y \
     tesseract-ocr \
     poppler-utils \
     libmagic1 \
+    git \
     && rm -rf /var/lib/apt/lists/*
 
 # Set working directory
