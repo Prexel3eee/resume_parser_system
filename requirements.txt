@@ -30,6 +30,7 @@ pydantic==2.5.2
 pydantic-settings==2.1.0
 python-dateutil==2.8.2
 phonenumbers==8.13.27
+email-validator==2.1.0.post1
 
 # Database and Storage
 sqlalchemy==2.0.23
