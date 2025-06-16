@@ -1,0 +1,30 @@
+2025-06-16 21:28:38,885 - src.core.resume_parser - INFO - Loading NLP models...
+2025-06-16 21:28:38,885 - src.core.resume_parser - INFO - Loading NLP models...
+2025-06-16 21:28:38,920 - src.core.resume_parser - INFO - Loading NLP models...
+2025-06-16 21:28:38,921 - src.core.resume_parser - INFO - Loading NLP models...
+2025-06-16 21:29:20,185 - src.core.resume_parser - INFO - Loaded transformer-based NER model
+2025-06-16 21:29:20,609 - src.core.resume_parser - INFO - Loaded transformer-based NER model
+2025-06-16 21:29:20,644 - src.core.resume_parser - INFO - Loaded transformer-based NER model
+2025-06-16 21:29:20,970 - src.core.resume_parser - INFO - Loaded transformer-based NER model
+2025-06-16 21:29:28,534 - src.core.resume_parser - INFO - Loaded job-specific model with custom patterns
+2025-06-16 21:29:28,865 - src.core.resume_parser - INFO - Loaded job-specific model with custom patterns
+2025-06-16 21:29:29,110 - src.core.resume_parser - INFO - Loaded job-specific model with custom patterns
+2025-06-16 21:29:29,641 - src.core.resume_parser - INFO - Loaded job-specific model with custom patterns
+2025-06-16 21:29:31,907 - src.core.resume_parser - INFO - Loaded 31183 cities
+2025-06-16 21:29:31,907 - src.core.resume_parser - INFO - Loaded 33385 ZIP codes
+2025-06-16 21:29:31,907 - src.core.resume_parser - INFO - Loaded 104 states
+2025-06-16 21:29:32,373 - src.core.resume_parser - INFO - Loaded 31183 cities
+2025-06-16 21:29:32,373 - src.core.resume_parser - INFO - Loaded 33385 ZIP codes
+2025-06-16 21:29:32,374 - src.core.resume_parser - INFO - Loaded 104 states
+2025-06-16 21:29:32,418 - src.core.resume_parser - INFO - Loaded 31183 cities
+2025-06-16 21:29:32,418 - src.core.resume_parser - INFO - Loaded 33385 ZIP codes
+2025-06-16 21:29:32,419 - src.core.resume_parser - INFO - Loaded 104 states
+2025-06-16 21:29:33,071 - src.core.resume_parser - INFO - Loaded 31183 cities
+2025-06-16 21:29:33,072 - src.core.resume_parser - INFO - Loaded 33385 ZIP codes
+2025-06-16 21:29:33,072 - src.core.resume_parser - INFO - Loaded 104 states
+2025-06-16 21:29:46,078 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-16 21:29:49,059 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-16 21:29:50,807 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-16 21:29:59,552 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-16 21:30:11,378 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-16 21:30:15,295 - src.core.resume_parser - ERROR - Error extracting government information: no such group

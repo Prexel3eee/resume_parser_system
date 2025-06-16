@@ -33,6 +33,10 @@ RUN mkdir -p data/input data/output data/logs data/errors
 # Set environment variables
 ENV PYTHONPATH=/app
 ENV PYTHONUNBUFFERED=1
+ENV PORT=8000
 
-# Run
-CMD ["python", "scripts/process_resumes.py"] 
+# Expose port
+EXPOSE 8000
+
+# Run the FastAPI server
+CMD ["uvicorn", "src.api.server:app", "--host", "0.0.0.0", "--port", "8000"] 

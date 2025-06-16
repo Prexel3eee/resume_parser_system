@@ -1,0 +1,25 @@
+2025-06-16 02:22:04,246 - __main__ - INFO - Starting resume processing at 2025-06-16 02:22:04.246797
+2025-06-16 02:22:04,251 - __main__ - INFO - Found 27 resume files
+2025-06-16 02:23:49,033 - src.processors.batch_processor - WARNING - High memory usage: 80.9%
+2025-06-16 02:23:52,287 - src.processors.batch_processor - WARNING - High memory usage: 83.5%
+2025-06-16 02:23:54,374 - src.processors.batch_processor - WARNING - High memory usage: 82.5%
+2025-06-16 02:23:56,626 - src.processors.batch_processor - WARNING - High memory usage: 82.0%
+2025-06-16 02:23:57,220 - src.processors.batch_processor - WARNING - High memory usage: 82.1%
+2025-06-16 02:24:02,454 - src.processors.batch_processor - WARNING - High memory usage: 82.4%
+2025-06-16 02:24:02,829 - src.processors.batch_processor - WARNING - High memory usage: 82.4%
+2025-06-16 02:24:06,764 - src.processors.batch_processor - WARNING - High memory usage: 83.1%
+2025-06-16 02:24:08,959 - src.processors.batch_processor - WARNING - High memory usage: 83.3%
+2025-06-16 02:24:09,379 - src.processors.batch_processor - WARNING - High memory usage: 83.6%
+2025-06-16 02:24:11,951 - src.processors.batch_processor - WARNING - High memory usage: 83.5%
+2025-06-16 02:24:13,686 - src.processors.batch_processor - WARNING - High memory usage: 83.4%
+2025-06-16 02:24:20,255 - src.processors.batch_processor - WARNING - High memory usage: 83.5%
+2025-06-16 02:24:20,615 - src.processors.batch_processor - WARNING - High memory usage: 84.0%
+2025-06-16 02:24:20,906 - src.processors.batch_processor - WARNING - High memory usage: 83.9%
+2025-06-16 02:24:21,167 - src.processors.batch_processor - WARNING - High memory usage: 84.0%
+2025-06-16 02:24:33,465 - src.processors.batch_processor - WARNING - High memory usage: 85.7%
+2025-06-16 02:24:36,527 - src.processors.batch_processor - WARNING - High memory usage: 85.7%
+2025-06-16 02:24:36,751 - src.processors.batch_processor - WARNING - High memory usage: 85.7%
+2025-06-16 02:24:40,867 - src.processors.batch_processor - WARNING - High memory usage: 84.8%
+2025-06-16 02:24:41,853 - src.processors.batch_processor - WARNING - High memory usage: 84.1%
+2025-06-16 02:24:49,312 - src.processors.batch_processor - INFO - Processing complete: {'total_files': 27, 'processed': 20, 'failed': 0, 'success_rate': 74.07407407407408, 'processing_time': 165.06066, 'files_per_second': 0.16357622706706734, 'output_file': 'data\\output\\resumes_20250616_022204.json', 'individual_files_dir': 'data\\output\\individual'}
+2025-06-16 02:24:49,322 - __main__ - INFO - Processing complete!

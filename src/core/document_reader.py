@@ -268,33 +268,61 @@ class DocumentReader:
                     import win32com.client
                     import os
                     import tempfile
+                    import pythoncom
+                    import time
+                    
+                    # Initialize COM for this thread
+                    pythoncom.CoInitialize()
                     
                     # Create a temporary file for the DOCX
-                    temp_dir = tempfile.gettempdir()
-                    temp_docx = os.path.join(temp_dir, 'temp.docx')
+                    with tempfile.NamedTemporaryFile(suffix='.docx', delete=False) as temp_file:
+                        temp_docx = temp_file.name
                     
-                    # Convert DOC to DOCX using Word
-                    word = win32com.client.Dispatch('Word.Application')
-                    doc = word.Documents.Open(os.path.abspath(file_path))
-                    doc.SaveAs(os.path.abspath(temp_docx), 16)  # 16 represents DOCX format
-                    doc.Close()
-                    word.Quit()
-                    
-                    # Read the converted DOCX
-                    text = self.read_docx(temp_docx)
-                    used_ocr = False
-                    
-                    # Clean up temporary file
                     try:
-                        os.remove(temp_docx)
-                    except:
-                        pass
+                        # Convert DOC to DOCX using Word
+                        word = None
+                        try:
+                            word = win32com.client.Dispatch('Word.Application')
+                            word.Visible = False
+                            word.DisplayAlerts = False
+                            
+                            doc = word.Documents.Open(os.path.abspath(file_path))
+                            doc.SaveAs(os.path.abspath(temp_docx), 16)  # 16 represents DOCX format
+                            doc.Close()
+                            
+                            # Give Word time to complete operations
+                            time.sleep(1)
+                            
+                        finally:
+                            if word:
+                                try:
+                                    word.Quit()
+                                except:
+                                    pass
+                                # Give Word time to quit
+                                time.sleep(1)
+                        
+                        # Read the converted DOCX
+                        text = self.read_docx(temp_docx)
+                        used_ocr = False
+                        
+                    finally:
+                        # Clean up temporary file
+                        try:
+                            os.unlink(temp_docx)
+                        except:
+                            pass
                         
                 except Exception as e:
                     logger.error(f"Error converting DOC to DOCX: {e}")
                     # Fall back to antiword if conversion fails
-                    text = self.read_doc(file_path)
-                    used_ocr = False
+                    try:
+                        text = self.read_doc(file_path)
+                        used_ocr = False
+                    except Exception as e:
+                        logger.error(f"Error reading DOC with antiword: {e}")
+                        text = ""
+                        used_ocr = False
             else:
                 logger.error(f"Unsupported file type: {file_type}")
                 return "", False
@@ -314,7 +342,13 @@ class DocumentReader:
         try:
             import subprocess
             antiword_path = r'C:\antiword\antiword.exe'
-            result = subprocess.run([antiword_path, file_path], capture_output=True, text=True)
+            result = subprocess.run(
+                [antiword_path, file_path], 
+                capture_output=True, 
+                text=True,
+                encoding='utf-8',
+                errors='replace'  # Handle encoding errors gracefully
+            )
             if result.returncode == 0:
                 return result.stdout
             else:

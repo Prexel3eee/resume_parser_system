@@ -34,8 +34,8 @@ class BatchProcessor:
     def _process_single(self, file_path: str) -> Optional[Dict]:
         """Process single resume in worker"""
         try:
-            result = parser.parse_resume(file_path)
-            return result.dict() if result else None
+            result = parser.parse_resume_file(file_path)
+            return result if result else None
         except Exception as e:
             logger.error(f"Error processing {file_path}: {e}")
             return None
@@ -91,10 +91,20 @@ class BatchProcessor:
                 # Force garbage collection after each batch
                 gc.collect()
                 
+    def _convert_extracted_values(self, obj):
+        """Convert ExtractedValue objects to their values for JSON serialization"""
+        if hasattr(obj, 'value'):
+            return obj.value
+        elif isinstance(obj, dict):
+            return {k: self._convert_extracted_values(v) for k, v in obj.items()}
+        elif isinstance(obj, list):
+            return [self._convert_extracted_values(item) for item in obj]
+        return obj
+
     def process_to_file(self, 
                        file_paths: List[str],
                        output_file: Path) -> Dict:
-        """Process files and save results to JSON file"""
+        """Process files and save results to JSON files"""
         start_time = datetime.now()
         total_files = len(file_paths)
         processed = 0
@@ -102,6 +112,10 @@ class BatchProcessor:
         
         # Create output directory if needed
         output_file.parent.mkdir(parents=True, exist_ok=True)
+        
+        # Create individual files directory
+        individual_dir = output_file.parent / "individual"
+        individual_dir.mkdir(exist_ok=True)
         
         # Ensure output file has .json extension
         if not output_file.suffix:
@@ -115,7 +129,36 @@ class BatchProcessor:
                 # Process in batches
                 for result in self.process_batch_generator(file_paths):
                     if result:
-                        # Write to file immediately to save memory
+                        # Convert ExtractedValue objects to their values
+                        result = self._convert_extracted_values(result)
+                        
+                        # Save individual file
+                        try:
+                            # Get filename from original file path
+                            original_filename = Path(result.get('file_path', 'unknown')).stem
+                            if original_filename == 'unknown':
+                                # Try to construct filename from name fields
+                                first_name = result.get('first_name', '').strip()
+                                last_name = result.get('last_name', '').strip()
+                                designation = result.get('designation', '').strip()
+                                if first_name and last_name:
+                                    original_filename = f"{first_name} {last_name}"
+                                    if designation:
+                                        original_filename += f" - {designation}"
+                                else:
+                                    original_filename = f"resume_{processed + 1}"
+                            
+                            # Clean filename to be safe for filesystem
+                            safe_filename = "".join(c for c in original_filename if c.isalnum() or c in (' ', '-', '_')).strip()
+                            individual_file = individual_dir / f"{safe_filename}.json"
+                            
+                            # Write individual file
+                            with open(individual_file, 'w', encoding='utf-8') as ind_f:
+                                json.dump(result, ind_f, indent=2)
+                        except Exception as e:
+                            logger.error(f"Error writing individual file for {result.get('file_path', 'unknown')}: {e}")
+                        
+                        # Write to combined file
                         if not first:
                             f.write(',\n')
                         json.dump(result, f, indent=2)
@@ -145,7 +188,8 @@ class BatchProcessor:
             "success_rate": processed / total_files * 100 if total_files > 0 else 0,
             "processing_time": duration,
             "files_per_second": total_files / duration if duration > 0 else 0,
-            "output_file": str(output_file)
+            "output_file": str(output_file),
+            "individual_files_dir": str(individual_dir)
         }
         
         logger.info(f"Processing complete: {metrics}")

@@ -1,0 +1,47 @@
+2025-06-16 21:08:18,728 - src.core.resume_parser - INFO - Loading NLP models...
+2025-06-16 21:08:18,751 - src.core.resume_parser - INFO - Loading NLP models...
+2025-06-16 21:08:18,751 - src.core.resume_parser - INFO - Loading NLP models...
+2025-06-16 21:08:18,808 - src.core.resume_parser - INFO - Loading NLP models...
+2025-06-16 21:08:23,873 - src.core.resume_parser - INFO - Loaded transformer-based NER model
+2025-06-16 21:08:24,206 - src.core.resume_parser - INFO - Loaded transformer-based NER model
+2025-06-16 21:08:24,208 - src.core.resume_parser - INFO - Loaded transformer-based NER model
+2025-06-16 21:08:24,463 - src.core.resume_parser - INFO - Loaded transformer-based NER model
+2025-06-16 21:08:32,480 - src.core.resume_parser - INFO - Loaded job-specific model with custom patterns
+2025-06-16 21:08:32,828 - src.core.resume_parser - INFO - Loaded job-specific model with custom patterns
+2025-06-16 21:08:32,888 - src.core.resume_parser - INFO - Loaded job-specific model with custom patterns
+2025-06-16 21:08:33,035 - src.core.resume_parser - INFO - Loaded job-specific model with custom patterns
+2025-06-16 21:08:35,547 - src.core.resume_parser - INFO - Loaded 31183 cities
+2025-06-16 21:08:35,547 - src.core.resume_parser - INFO - Loaded 33385 ZIP codes
+2025-06-16 21:08:35,547 - src.core.resume_parser - INFO - Loaded 104 states
+2025-06-16 21:08:35,935 - src.core.resume_parser - INFO - Loaded 31183 cities
+2025-06-16 21:08:35,935 - src.core.resume_parser - INFO - Loaded 33385 ZIP codes
+2025-06-16 21:08:35,935 - src.core.resume_parser - INFO - Loaded 104 states
+2025-06-16 21:08:36,178 - src.core.resume_parser - INFO - Loaded 31183 cities
+2025-06-16 21:08:36,178 - src.core.resume_parser - INFO - Loaded 33385 ZIP codes
+2025-06-16 21:08:36,179 - src.core.resume_parser - INFO - Loaded 104 states
+2025-06-16 21:08:36,443 - src.core.resume_parser - INFO - Loaded 31183 cities
+2025-06-16 21:08:36,443 - src.core.resume_parser - INFO - Loaded 33385 ZIP codes
+2025-06-16 21:08:36,444 - src.core.resume_parser - INFO - Loaded 104 states
+2025-06-16 21:08:36,732 - src.core.document_reader - INFO - Detected file type for data\input\Data Architect - CA - R Sharma.docx: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2025-06-16 21:08:36,949 - src.core.document_reader - INFO - Detected file type for data\input\Data Architect - FL - Frank.docx: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2025-06-16 21:08:37,205 - src.core.document_reader - INFO - Detected file type for data\input\Data Architect - NJ - Luberoff.docx: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2025-06-16 21:08:37,419 - src.core.document_reader - INFO - Detected file type for data\input\Data Architect - NY - Vladimir.docx: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2025-06-16 21:08:37,565 - src.core.document_reader - INFO - Successfully extracted 20528 characters from data\input\Data Architect - CA - R Sharma.docx
+2025-06-16 21:08:37,780 - src.core.document_reader - INFO - Successfully extracted 14647 characters from data\input\Data Architect - FL - Frank.docx
+2025-06-16 21:08:38,376 - src.core.document_reader - INFO - Successfully extracted 27125 characters from data\input\Data Architect - NJ - Luberoff.docx
+2025-06-16 21:08:38,727 - src.core.document_reader - INFO - Successfully extracted 22447 characters from data\input\Data Architect - NY - Vladimir.docx
+2025-06-16 21:08:43,667 - src.core.resume_parser - ERROR - Error parsing resume text: 'ResumeParser' object has no attribute '_extract_education'
+2025-06-16 21:08:43,673 - src.core.document_reader - INFO - Detected file type for data\input\Data Architect - TX - Paul.docx: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2025-06-16 21:08:44,229 - src.core.document_reader - INFO - Successfully extracted 25580 characters from data\input\Data Architect - TX - Paul.docx
+2025-06-16 21:08:44,319 - src.core.resume_parser - ERROR - Error parsing resume text: 'ResumeParser' object has no attribute '_extract_education'
+2025-06-16 21:08:44,323 - src.core.document_reader - INFO - Detected file type for data\input\Data Architect - NJ - Fakir.doc: application/msword
+2025-06-16 21:08:44,423 - src.core.document_reader - INFO - Attempting to convert DOC to DOCX for data\input\Data Architect - NJ - Fakir.doc
+2025-06-16 21:08:45,224 - src.core.resume_parser - ERROR - Error parsing resume text: 'ResumeParser' object has no attribute '_extract_education'
+2025-06-16 21:08:46,181 - src.core.resume_parser - ERROR - Error parsing resume text: 'ResumeParser' object has no attribute '_extract_education'
+2025-06-16 21:08:46,267 - src.core.document_reader - INFO - Opening document data\input\Data Architect - NJ - Fakir.doc in Word
+2025-06-16 21:08:47,268 - src.core.document_reader - INFO - Saving as DOCX to C:\Users\vivek\AppData\Local\Temp\tmpbssd1p0r.docx
+2025-06-16 21:08:47,501 - src.core.resume_parser - ERROR - Error parsing resume text: 'ResumeParser' object has no attribute '_extract_education'
+2025-06-16 21:08:49,681 - src.core.document_reader - INFO - Reading converted DOCX file C:\Users\vivek\AppData\Local\Temp\tmpbssd1p0r.docx
+2025-06-16 21:08:50,513 - src.core.document_reader - INFO - Cleaned up temporary file C:\Users\vivek\AppData\Local\Temp\tmpbssd1p0r.docx
+2025-06-16 21:08:50,513 - src.core.document_reader - INFO - Successfully extracted 23587 characters from data\input\Data Architect - NJ - Fakir.doc
+2025-06-16 21:08:53,970 - src.core.resume_parser - ERROR - Error parsing resume text: 'ResumeParser' object has no attribute '_extract_education'

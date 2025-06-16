@@ -1,0 +1,28 @@
+2025-06-16 12:49:22,246 - src.core.ml_skill_extractor - INFO - Successfully loaded ML models
+2025-06-16 12:49:22,297 - src.core.ml_skill_extractor - INFO - Successfully loaded ML models
+2025-06-16 12:49:22,307 - src.core.ml_skill_extractor - INFO - Successfully loaded ML models
+2025-06-16 12:49:24,478 - src.core.document_reader - INFO - Successfully extracted text using _extract_with_pdfplumber
+2025-06-16 12:49:24,480 - src.core.resume_parser - ERROR - Error parsing resume data\input\Data Entry - CA - Kristina.pdf: 'ResumeParser' object has no attribute '_extract_name'
+2025-06-16 12:49:24,943 - src.core.document_reader - INFO - Successfully extracted text using _extract_with_pdfplumber
+2025-06-16 12:49:24,953 - src.core.resume_parser - ERROR - Error parsing resume data\input\PM - OH - Daniel.pdf: 'ResumeParser' object has no attribute '_extract_name'
+2025-06-16 12:49:26,110 - src.core.document_reader - INFO - Successfully extracted text using _extract_with_pdfplumber
+2025-06-16 12:49:26,112 - src.core.resume_parser - ERROR - Error parsing resume data\input\Scrum Master - CSM - MD - Tolu.pdf: 'ResumeParser' object has no attribute '_extract_name'
+2025-06-16 12:49:26,271 - src.core.document_reader - INFO - Successfully extracted text using _extract_with_pdfplumber
+2025-06-16 12:49:26,276 - src.core.resume_parser - ERROR - Error parsing resume data\input\Administrative Assistant – MD – Andree.pdf: 'ResumeParser' object has no attribute '_extract_name'
+2025-06-16 12:49:26,803 - src.core.resume_parser - ERROR - Error parsing resume data\input\BigData, Spark, AWS - VA - Anirudh.docx: 'ResumeParser' object has no attribute '_extract_name'
+2025-06-16 12:49:26,943 - src.core.resume_parser - ERROR - Error parsing resume data\input\Disaster Recovery - TX - Russell.docx: 'ResumeParser' object has no attribute '_extract_name'
+2025-06-16 12:49:27,162 - src.core.resume_parser - ERROR - Error parsing resume data\input\HD - GA - Dale.docx: 'ResumeParser' object has no attribute '_extract_name'
+2025-06-16 12:49:27,177 - src.core.document_reader - INFO - Successfully extracted text using _extract_with_pdfplumber
+2025-06-16 12:49:27,184 - src.core.resume_parser - ERROR - Error parsing resume data\input\IT Security - SOC - MD - Paul.pdf: 'ResumeParser' object has no attribute '_extract_name'
+2025-06-16 12:49:27,400 - src.core.resume_parser - ERROR - Error parsing resume data\input\Data Architect - NJ - Rakhi.docx: 'ResumeParser' object has no attribute '_extract_name'
+2025-06-16 12:49:27,492 - src.core.resume_parser - ERROR - Error parsing resume data\input\IT Security - SOC - MD - Charles.docx: 'ResumeParser' object has no attribute '_extract_name'
+2025-06-16 12:49:27,639 - src.core.resume_parser - ERROR - Error parsing resume data\input\Technical Writer - NC – Lisa.docx: 'ResumeParser' object has no attribute '_extract_name'
+2025-06-16 12:49:27,737 - src.core.resume_parser - ERROR - Error parsing resume data\input\Scrum Master - CSM - VA - Peter.docx: 'ResumeParser' object has no attribute '_extract_name'
+2025-06-16 12:49:28,222 - src.core.resume_parser - ERROR - Error parsing resume data\input\IT Security - SOC - VA - Brian.docx: 'ResumeParser' object has no attribute '_extract_name'
+2025-06-16 12:49:33,860 - src.core.resume_parser - ERROR - Error parsing resume data\input\BI - PL-SQL - TX - Julius.doc: 'ResumeParser' object has no attribute '_extract_name'
+2025-06-16 12:49:34,917 - src.core.resume_parser - ERROR - Error parsing resume data\input\Disaster Recovery - NC - Sharon.doc: 'ResumeParser' object has no attribute '_extract_name'
+2025-06-16 12:49:35,451 - src.core.document_reader - ERROR - Error converting DOC to DOCX: Open.SaveAs
+2025-06-16 12:49:35,489 - src.core.resume_parser - ERROR - Error parsing resume data\input\PM - OH -  Sherry.doc: 'ResumeParser' object has no attribute '_extract_name'
+2025-06-16 12:49:36,209 - src.core.document_reader - ERROR - Error converting DOC to DOCX: Open.SaveAs
+2025-06-16 12:49:36,318 - src.core.resume_parser - ERROR - Error parsing resume data\input\Scrum Master - CSM - VA - Emily.doc: 'ResumeParser' object has no attribute '_extract_name'
+2025-06-16 12:49:38,552 - src.core.resume_parser - ERROR - Error parsing resume data\input\HD - NJ - Joseph.doc: 'ResumeParser' object has no attribute '_extract_name'

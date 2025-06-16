@@ -1,0 +1,2 @@
+2025-06-16 18:10:11,926 - src.core.ml_skill_extractor - INFO - Successfully loaded ML models
+2025-06-16 18:10:27,203 - src.processors.batch_processor - ERROR - Error processing data\input\BA - CA - Lather.docx: 'ResumeParser' object has no attribute 'parse_resume_text'

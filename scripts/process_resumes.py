@@ -89,7 +89,12 @@ def main(input_dir: str,
         "timestamp": timestamp
     }
     
-    summary_file = output_path / f"processing_summary_{timestamp}.json"
+    # Create processed directory if it doesn't exist
+    processed_dir = Path('data/processed')
+    processed_dir.mkdir(exist_ok=True, parents=True)
+    
+    # Save summary to processed directory
+    summary_file = processed_dir / f"processing_summary_{timestamp}.json"
     with open(summary_file, 'w', encoding='utf-8') as f:
         json.dump(summary, f, indent=2)
     

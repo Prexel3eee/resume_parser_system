@@ -1,0 +1,33 @@
+2025-06-16 12:41:37,896 - huggingface_hub.file_download - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-06-16 12:42:52,807 - huggingface_hub.file_download - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-06-16 12:42:58,703 - src.core.ml_skill_extractor - INFO - Successfully loaded ML models
+2025-06-16 12:42:58,705 - src.processors.batch_processor - ERROR - Error processing data\input\Administrative Assistant – MD – Andree.pdf: 'ResumeParser' object has no attribute 'parse_resume_file'
+2025-06-16 12:42:58,705 - src.processors.batch_processor - ERROR - Error processing data\input\Data Entry - CA - Kristina.pdf: 'ResumeParser' object has no attribute 'parse_resume_file'
+2025-06-16 12:42:58,706 - src.processors.batch_processor - ERROR - Error processing data\input\HD - MD - Tevin.pdf: 'ResumeParser' object has no attribute 'parse_resume_file'
+2025-06-16 12:42:58,706 - src.processors.batch_processor - ERROR - Error processing data\input\IT Security - SOC - MD - Paul.pdf: 'ResumeParser' object has no attribute 'parse_resume_file'
+2025-06-16 12:42:58,707 - src.processors.batch_processor - ERROR - Error processing data\input\Office Assistant – AZ – Lannette.pdf: 'ResumeParser' object has no attribute 'parse_resume_file'
+2025-06-16 12:42:58,713 - src.processors.batch_processor - ERROR - Error processing data\input\PM - OH - Daniel.pdf: 'ResumeParser' object has no attribute 'parse_resume_file'
+2025-06-16 12:42:58,713 - src.processors.batch_processor - ERROR - Error processing data\input\Scrum Master - CSM - MD - Tolu.pdf: 'ResumeParser' object has no attribute 'parse_resume_file'
+2025-06-16 12:42:58,714 - src.processors.batch_processor - ERROR - Error processing data\input\Ade Oladokun - Medicaid project Analyst - DC.docx: 'ResumeParser' object has no attribute 'parse_resume_file'
+2025-06-16 12:42:58,714 - src.processors.batch_processor - ERROR - Error processing data\input\BA - CA - Lather.docx: 'ResumeParser' object has no attribute 'parse_resume_file'
+2025-06-16 12:42:58,721 - src.processors.batch_processor - ERROR - Error processing data\input\BigData, Spark, AWS - MD - Olan.docx: 'ResumeParser' object has no attribute 'parse_resume_file'
+2025-06-16 12:42:58,721 - src.processors.batch_processor - ERROR - Error processing data\input\BigData, Spark, AWS - VA - Anirudh.docx: 'ResumeParser' object has no attribute 'parse_resume_file'
+2025-06-16 12:42:58,729 - src.processors.batch_processor - ERROR - Error processing data\input\Content Designers – WA – Marc.docx: 'ResumeParser' object has no attribute 'parse_resume_file'
+2025-06-16 12:42:58,730 - src.processors.batch_processor - ERROR - Error processing data\input\Data Architect - NJ - Rakhi.docx: 'ResumeParser' object has no attribute 'parse_resume_file'
+2025-06-16 12:42:58,730 - src.processors.batch_processor - ERROR - Error processing data\input\Data Entry - MD - Michelle.docx: 'ResumeParser' object has no attribute 'parse_resume_file'
+2025-06-16 12:42:58,731 - src.processors.batch_processor - ERROR - Error processing data\input\Data Entry - PA - Arun.docx: 'ResumeParser' object has no attribute 'parse_resume_file'
+2025-06-16 12:42:58,741 - src.processors.batch_processor - ERROR - Error processing data\input\Disaster Recovery - TX - Russell.docx: 'ResumeParser' object has no attribute 'parse_resume_file'
+2025-06-16 12:42:58,742 - src.processors.batch_processor - ERROR - Error processing data\input\HD - GA - Dale.docx: 'ResumeParser' object has no attribute 'parse_resume_file'
+2025-06-16 12:42:58,742 - src.processors.batch_processor - ERROR - Error processing data\input\IT Security - SOC - MD - Charles.docx: 'ResumeParser' object has no attribute 'parse_resume_file'
+2025-06-16 12:42:58,749 - src.processors.batch_processor - ERROR - Error processing data\input\IT Security - SOC - VA - Brian.docx: 'ResumeParser' object has no attribute 'parse_resume_file'
+2025-06-16 12:42:58,750 - src.processors.batch_processor - ERROR - Error processing data\input\Scrum Master - CSM - VA - Peter.docx: 'ResumeParser' object has no attribute 'parse_resume_file'
+2025-06-16 12:42:58,751 - src.processors.batch_processor - ERROR - Error processing data\input\Technical Writer - NC – Lisa.docx: 'ResumeParser' object has no attribute 'parse_resume_file'
+2025-06-16 12:42:58,759 - src.processors.batch_processor - ERROR - Error processing data\input\BI - PL-SQL - TX - Julius.doc: 'ResumeParser' object has no attribute 'parse_resume_file'
+2025-06-16 12:42:58,760 - src.processors.batch_processor - ERROR - Error processing data\input\Disaster Recovery - NC - Sharon.doc: 'ResumeParser' object has no attribute 'parse_resume_file'
+2025-06-16 12:42:58,760 - src.processors.batch_processor - ERROR - Error processing data\input\Harsharanjit Kamboj_672844.doc: 'ResumeParser' object has no attribute 'parse_resume_file'
+2025-06-16 12:42:58,761 - src.processors.batch_processor - ERROR - Error processing data\input\HD - NJ - Joseph.doc: 'ResumeParser' object has no attribute 'parse_resume_file'
+2025-06-16 12:42:58,761 - src.processors.batch_processor - ERROR - Error processing data\input\PM - OH -  Sherry.doc: 'ResumeParser' object has no attribute 'parse_resume_file'
+2025-06-16 12:42:58,761 - src.processors.batch_processor - ERROR - Error processing data\input\Scrum Master - CSM - VA - Emily.doc: 'ResumeParser' object has no attribute 'parse_resume_file'
+2025-06-16 12:44:10,485 - src.core.ml_skill_extractor - INFO - Successfully loaded ML models
+2025-06-16 12:44:10,524 - src.core.ml_skill_extractor - INFO - Successfully loaded ML models
+2025-06-16 12:44:10,524 - src.core.ml_skill_extractor - INFO - Successfully loaded ML models

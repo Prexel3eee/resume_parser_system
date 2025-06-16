@@ -1,0 +1,53 @@
+2025-06-16 02:22:24,461 - src.core.resume_parser - INFO - Loading NLP models...
+2025-06-16 02:22:24,465 - src.core.resume_parser - INFO - Loading NLP models...
+2025-06-16 02:22:24,470 - src.core.resume_parser - INFO - Loading NLP models...
+2025-06-16 02:22:24,479 - src.core.resume_parser - INFO - Loading NLP models...
+2025-06-16 02:23:09,232 - src.core.resume_parser - INFO - Loaded transformer-based NER model
+2025-06-16 02:23:12,931 - src.core.resume_parser - INFO - Loaded transformer-based NER model
+2025-06-16 02:23:13,272 - src.core.resume_parser - INFO - Loaded transformer-based NER model
+2025-06-16 02:23:13,909 - src.core.resume_parser - INFO - Loaded transformer-based NER model
+2025-06-16 02:23:15,467 - src.core.resume_parser - INFO - Loaded job-specific model with custom patterns
+2025-06-16 02:23:24,121 - src.core.resume_parser - INFO - Loaded 31183 cities
+2025-06-16 02:23:24,123 - src.core.resume_parser - INFO - Loaded 33385 ZIP codes
+2025-06-16 02:23:24,123 - src.core.resume_parser - INFO - Loaded 104 states
+2025-06-16 02:23:24,137 - src.core.resume_parser - INFO - Loaded job-specific model with custom patterns
+2025-06-16 02:23:24,599 - src.core.resume_parser - INFO - Loaded job-specific model with custom patterns
+2025-06-16 02:23:24,692 - src.core.resume_parser - INFO - Loaded job-specific model with custom patterns
+2025-06-16 02:23:28,015 - src.core.resume_parser - INFO - Loaded 31183 cities
+2025-06-16 02:23:28,015 - src.core.resume_parser - INFO - Loaded 33385 ZIP codes
+2025-06-16 02:23:28,016 - src.core.resume_parser - INFO - Loaded 104 states
+2025-06-16 02:23:28,396 - src.core.resume_parser - INFO - Loaded 31183 cities
+2025-06-16 02:23:28,397 - src.core.resume_parser - INFO - Loaded 33385 ZIP codes
+2025-06-16 02:23:28,397 - src.core.resume_parser - INFO - Loaded 104 states
+2025-06-16 02:23:28,433 - src.core.resume_parser - INFO - Loaded 31183 cities
+2025-06-16 02:23:28,434 - src.core.resume_parser - INFO - Loaded 33385 ZIP codes
+2025-06-16 02:23:28,434 - src.core.resume_parser - INFO - Loaded 104 states
+2025-06-16 02:23:29,698 - src.core.document_reader - INFO - Successfully extracted text using _extract_with_pdfplumber
+2025-06-16 02:23:31,839 - src.core.document_reader - INFO - Successfully extracted text using _extract_with_pdfplumber
+2025-06-16 02:23:31,946 - src.core.document_reader - INFO - Successfully extracted text using _extract_with_pdfplumber
+2025-06-16 02:23:34,857 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-16 02:23:35,919 - src.core.document_reader - INFO - Successfully extracted text using _extract_with_pdfplumber
+2025-06-16 02:23:36,396 - src.core.document_reader - INFO - Successfully extracted text using _extract_with_pdfplumber
+2025-06-16 02:23:38,726 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-16 02:23:39,573 - src.core.document_reader - INFO - Successfully extracted text using _extract_with_pdfplumber
+2025-06-16 02:23:41,287 - src.core.document_reader - INFO - Successfully extracted text using _extract_with_pdfplumber
+2025-06-16 02:23:42,269 - src.core.resume_parser - ERROR - Error parsing resume text: 'data_skills'
+2025-06-16 02:23:48,982 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-16 02:23:52,266 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-16 02:23:54,331 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-16 02:23:56,590 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-16 02:23:57,196 - src.core.resume_parser - ERROR - Error parsing resume text: 'data_skills'
+2025-06-16 02:24:02,424 - src.core.resume_parser - ERROR - Error parsing resume text: 'domain_specific'
+2025-06-16 02:24:02,805 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-16 02:24:09,112 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-16 02:24:13,664 - src.core.resume_parser - ERROR - Error parsing resume text: 'methodologies'
+2025-06-16 02:24:20,174 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-16 02:24:20,347 - src.core.resume_parser - ERROR - Error parsing resume text: 'domain_specific'
+2025-06-16 02:24:20,704 - src.core.resume_parser - ERROR - Error parsing resume text: 'sdlc'
+2025-06-16 02:24:20,834 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-16 02:24:33,415 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-16 02:24:36,487 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-16 02:24:36,536 - src.core.resume_parser - ERROR - Error parsing resume text: 'domain_specific'
+2025-06-16 02:24:40,832 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-16 02:24:41,825 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-16 02:24:46,487 - src.core.resume_parser - ERROR - Error extracting government information: no such group

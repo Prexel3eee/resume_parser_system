@@ -1,0 +1,4 @@
+2025-06-16 20:51:40,257 - __main__ - INFO - Starting resume processing at 2025-06-16 20:51:40.257297
+2025-06-16 20:51:40,258 - __main__ - INFO - Found 6 resume files
+2025-06-16 20:52:32,589 - src.processors.batch_processor - INFO - Processing complete: {'total_files': 6, 'processed': 0, 'failed': 0, 'success_rate': 0.0, 'processing_time': 52.329766, 'files_per_second': 0.1146574972263396, 'output_file': 'data\\output\\resumes_20250616_205140.json', 'individual_files_dir': 'data\\output\\individual'}
+2025-06-16 20:52:32,590 - __main__ - INFO - Processing complete!

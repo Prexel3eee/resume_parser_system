@@ -1,0 +1,9 @@
+2025-06-16 20:57:58,847 - __main__ - INFO - Starting resume processing at 2025-06-16 20:57:58.847150
+2025-06-16 20:57:58,848 - __main__ - INFO - Found 6 resume files
+2025-06-16 20:59:01,273 - src.processors.batch_processor - WARNING - High memory usage: 83.0%
+2025-06-16 20:59:02,393 - src.processors.batch_processor - WARNING - High memory usage: 84.1%
+2025-06-16 20:59:03,697 - src.processors.batch_processor - WARNING - High memory usage: 84.1%
+2025-06-16 20:59:07,187 - src.processors.batch_processor - WARNING - High memory usage: 85.3%
+2025-06-16 20:59:07,548 - src.processors.batch_processor - WARNING - High memory usage: 85.2%
+2025-06-16 20:59:17,365 - src.processors.batch_processor - INFO - Processing complete: {'total_files': 6, 'processed': 0, 'failed': 0, 'success_rate': 0.0, 'processing_time': 78.516358, 'files_per_second': 0.07641719703810002, 'output_file': 'data\\output\\resumes_20250616_205758.json', 'individual_files_dir': 'data\\output\\individual'}
+2025-06-16 20:59:17,368 - __main__ - INFO - Processing complete!

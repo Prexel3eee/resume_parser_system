@@ -1,0 +1,10 @@
+{
+  "processing_time": 40.235935,
+  "total_files": 27,
+  "processed": 0,
+  "failed": 0,
+  "success_rate": 0.0,
+  "files_per_second": 0.6710419429795779,
+  "output_file": "data\\output\\resumes_20250616_124632.json",
+  "timestamp": "20250616_124632"
+}

@@ -1,0 +1,40 @@
+2025-06-16 18:13:24,844 - src.core.resume_parser - INFO - Loading NLP models...
+2025-06-16 18:13:24,851 - src.core.resume_parser - INFO - Loading NLP models...
+2025-06-16 18:13:24,982 - src.core.resume_parser - INFO - Loading NLP models...
+2025-06-16 18:13:51,917 - src.core.resume_parser - INFO - Loaded transformer-based NER model
+2025-06-16 18:13:51,960 - src.core.resume_parser - INFO - Loaded transformer-based NER model
+2025-06-16 18:13:51,983 - src.core.resume_parser - INFO - Loaded transformer-based NER model
+2025-06-16 18:14:12,333 - src.core.resume_parser - INFO - Loaded job-specific model with custom patterns
+2025-06-16 18:14:12,680 - src.core.resume_parser - INFO - Loaded job-specific model with custom patterns
+2025-06-16 18:14:12,697 - src.core.resume_parser - INFO - Loaded job-specific model with custom patterns
+2025-06-16 18:14:16,457 - src.core.resume_parser - INFO - Loaded 31183 cities
+2025-06-16 18:14:16,458 - src.core.resume_parser - INFO - Loaded 33385 ZIP codes
+2025-06-16 18:14:16,458 - src.core.resume_parser - INFO - Loaded 104 states
+2025-06-16 18:14:16,561 - src.core.resume_parser - INFO - Loaded 31183 cities
+2025-06-16 18:14:16,562 - src.core.resume_parser - INFO - Loaded 33385 ZIP codes
+2025-06-16 18:14:16,562 - src.core.resume_parser - INFO - Loaded 104 states
+2025-06-16 18:14:16,624 - src.core.resume_parser - INFO - Loaded 31183 cities
+2025-06-16 18:14:16,625 - src.core.resume_parser - INFO - Loaded 33385 ZIP codes
+2025-06-16 18:14:16,625 - src.core.resume_parser - INFO - Loaded 104 states
+2025-06-16 18:14:19,679 - src.core.document_reader - INFO - Successfully extracted text using _extract_with_pdfplumber
+2025-06-16 18:14:19,718 - src.core.document_reader - INFO - Successfully extracted text using _extract_with_pdfplumber
+2025-06-16 18:14:24,644 - src.core.document_reader - INFO - Successfully extracted text using _extract_with_pdfplumber
+2025-06-16 18:14:31,300 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-16 18:14:32,006 - src.core.document_reader - INFO - Successfully extracted text using _extract_with_pdfplumber
+2025-06-16 18:14:32,529 - src.core.document_reader - INFO - Successfully extracted text using _extract_with_pdfplumber
+2025-06-16 18:14:41,079 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-16 18:14:42,557 - src.core.document_reader - INFO - Successfully extracted text using _extract_with_pdfplumber
+2025-06-16 18:14:53,456 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-16 18:14:54,984 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-16 18:15:08,728 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-16 18:15:14,846 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-16 18:15:14,979 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-16 18:15:32,519 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-16 18:15:40,773 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-16 18:15:41,323 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-16 18:16:01,048 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-16 18:16:03,934 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-16 18:16:13,041 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-16 18:16:18,590 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-16 18:16:28,344 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-16 18:16:29,689 - src.core.resume_parser - ERROR - Error extracting government information: no such group

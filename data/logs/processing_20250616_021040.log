@@ -1,0 +1,59 @@
+2025-06-16 02:10:40,273 - src.core.resume_parser - INFO - Loading NLP models...
+2025-06-16 02:10:40,359 - src.core.resume_parser - INFO - Loading NLP models...
+2025-06-16 02:10:40,366 - src.core.resume_parser - INFO - Loading NLP models...
+2025-06-16 02:10:40,453 - src.core.resume_parser - INFO - Loading NLP models...
+2025-06-16 02:11:46,815 - src.core.resume_parser - INFO - Loaded transformer-based NER model
+2025-06-16 02:11:46,956 - src.core.resume_parser - INFO - Loaded transformer-based NER model
+2025-06-16 02:11:46,993 - src.core.resume_parser - INFO - Loaded transformer-based NER model
+2025-06-16 02:11:47,008 - src.core.resume_parser - INFO - Loaded transformer-based NER model
+2025-06-16 02:12:09,332 - src.core.resume_parser - INFO - Loaded job-specific model with custom patterns
+2025-06-16 02:12:09,993 - src.core.resume_parser - INFO - Loaded job-specific model with custom patterns
+2025-06-16 02:12:10,087 - src.core.resume_parser - INFO - Loaded job-specific model with custom patterns
+2025-06-16 02:12:10,190 - src.core.resume_parser - INFO - Loaded job-specific model with custom patterns
+2025-06-16 02:12:14,139 - src.core.resume_parser - INFO - Loaded 31183 cities
+2025-06-16 02:12:14,140 - src.core.resume_parser - INFO - Loaded 33385 ZIP codes
+2025-06-16 02:12:14,140 - src.core.resume_parser - INFO - Loaded 104 states
+2025-06-16 02:12:14,520 - src.core.resume_parser - INFO - Loaded 31183 cities
+2025-06-16 02:12:14,520 - src.core.resume_parser - INFO - Loaded 33385 ZIP codes
+2025-06-16 02:12:14,521 - src.core.resume_parser - INFO - Loaded 104 states
+2025-06-16 02:12:14,702 - src.core.resume_parser - INFO - Loaded 31183 cities
+2025-06-16 02:12:14,703 - src.core.resume_parser - INFO - Loaded 33385 ZIP codes
+2025-06-16 02:12:14,703 - src.core.resume_parser - INFO - Loaded 104 states
+2025-06-16 02:12:14,780 - src.core.resume_parser - INFO - Loaded 31183 cities
+2025-06-16 02:12:14,780 - src.core.resume_parser - INFO - Loaded 33385 ZIP codes
+2025-06-16 02:12:14,781 - src.core.resume_parser - INFO - Loaded 104 states
+2025-06-16 02:12:18,922 - src.core.document_reader - INFO - Successfully extracted text using _extract_with_pdfplumber
+2025-06-16 02:12:19,182 - src.core.document_reader - INFO - Successfully extracted text using _extract_with_pdfplumber
+2025-06-16 02:12:21,197 - src.core.document_reader - INFO - Successfully extracted text using _extract_with_pdfplumber
+2025-06-16 02:12:22,410 - src.core.document_reader - INFO - Successfully extracted text using _extract_with_pdfplumber
+2025-06-16 02:12:22,629 - src.core.resume_parser - ERROR - Error parsing resume text: 'ResumeParser' object has no attribute '_extract_section'
+2025-06-16 02:12:23,096 - src.core.resume_parser - ERROR - Error parsing resume text: 'ResumeParser' object has no attribute '_extract_section'
+2025-06-16 02:12:23,730 - src.core.document_reader - INFO - Successfully extracted text using _extract_with_pdfplumber
+2025-06-16 02:12:23,774 - src.core.document_reader - INFO - Successfully extracted text using _extract_with_pdfplumber
+2025-06-16 02:12:25,717 - src.core.resume_parser - ERROR - Error parsing resume text: 'ResumeParser' object has no attribute '_extract_section'
+2025-06-16 02:12:27,152 - src.core.document_reader - INFO - Successfully extracted text using _extract_with_pdfplumber
+2025-06-16 02:12:27,548 - src.core.resume_parser - ERROR - Error parsing resume text: 'ResumeParser' object has no attribute '_extract_section'
+2025-06-16 02:12:28,992 - src.core.resume_parser - ERROR - Error parsing resume text: 'ResumeParser' object has no attribute '_extract_section'
+2025-06-16 02:12:29,034 - src.core.resume_parser - ERROR - Error parsing resume text: 'ResumeParser' object has no attribute '_extract_section'
+2025-06-16 02:12:32,176 - src.core.resume_parser - ERROR - Error parsing resume text: 'ResumeParser' object has no attribute '_extract_section'
+2025-06-16 02:12:33,027 - src.core.resume_parser - ERROR - Error parsing resume text: 'ResumeParser' object has no attribute '_extract_section'
+2025-06-16 02:12:33,913 - src.core.resume_parser - ERROR - Error parsing resume text: 'ResumeParser' object has no attribute '_extract_section'
+2025-06-16 02:12:33,931 - src.core.resume_parser - ERROR - Error parsing resume text: 'ResumeParser' object has no attribute '_extract_section'
+2025-06-16 02:12:39,311 - src.core.resume_parser - ERROR - Error parsing resume text: 'ResumeParser' object has no attribute '_extract_section'
+2025-06-16 02:12:41,093 - src.core.resume_parser - ERROR - Error parsing resume text: 'ResumeParser' object has no attribute '_extract_section'
+2025-06-16 02:12:41,694 - src.core.resume_parser - ERROR - Error parsing resume text: 'ResumeParser' object has no attribute '_extract_section'
+2025-06-16 02:12:43,502 - src.core.resume_parser - ERROR - Error parsing resume text: 'ResumeParser' object has no attribute '_extract_section'
+2025-06-16 02:12:45,809 - src.core.resume_parser - ERROR - Error parsing resume text: 'ResumeParser' object has no attribute '_extract_section'
+2025-06-16 02:12:50,145 - src.core.resume_parser - ERROR - Error parsing resume text: 'ResumeParser' object has no attribute '_extract_section'
+2025-06-16 02:12:52,149 - src.core.resume_parser - ERROR - Error parsing resume text: 'ResumeParser' object has no attribute '_extract_section'
+2025-06-16 02:12:59,406 - src.core.resume_parser - ERROR - Error parsing resume text: 'ResumeParser' object has no attribute '_extract_section'
+2025-06-16 02:13:01,178 - src.core.resume_parser - ERROR - Error parsing resume text: 'ResumeParser' object has no attribute '_extract_section'
+2025-06-16 02:13:03,135 - src.core.resume_parser - ERROR - Error parsing resume text: 'ResumeParser' object has no attribute '_extract_section'
+2025-06-16 02:13:03,428 - src.core.resume_parser - ERROR - Error parsing resume text: 'ResumeParser' object has no attribute '_extract_section'
+2025-06-16 02:13:15,428 - src.core.resume_parser - ERROR - Error parsing resume text: 'ResumeParser' object has no attribute '_extract_section'
+2025-06-16 02:13:16,395 - src.core.resume_parser - ERROR - Error parsing resume text: 'ResumeParser' object has no attribute '_extract_section'
+2025-06-16 02:13:18,707 - src.core.resume_parser - ERROR - Error parsing resume text: 'ResumeParser' object has no attribute '_extract_section'
+2025-06-16 02:13:20,968 - src.core.document_reader - ERROR - Error converting DOC to DOCX: (-2147417848, 'The object invoked has disconnected from its clients.', None, None)
+2025-06-16 02:13:22,437 - src.core.resume_parser - ERROR - Error parsing resume text: 'ResumeParser' object has no attribute '_extract_section'
+2025-06-16 02:13:23,407 - src.core.resume_parser - ERROR - Error parsing resume text: 'ResumeParser' object has no attribute '_extract_section'
+2025-06-16 02:13:24,720 - src.core.resume_parser - ERROR - Error parsing resume text: 'ResumeParser' object has no attribute '_extract_section'

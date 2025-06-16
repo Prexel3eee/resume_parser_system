@@ -1,0 +1,41 @@
+2025-06-16 12:46:50,857 - src.core.ml_skill_extractor - INFO - Successfully loaded ML models
+2025-06-16 12:46:50,871 - src.core.ml_skill_extractor - INFO - Successfully loaded ML models
+2025-06-16 12:46:50,889 - src.core.ml_skill_extractor - INFO - Successfully loaded ML models
+2025-06-16 12:46:50,936 - src.core.ml_skill_extractor - INFO - Successfully loaded ML models
+2025-06-16 12:46:52,997 - src.core.document_reader - INFO - Successfully extracted text using _extract_with_pdfplumber
+2025-06-16 12:46:52,998 - src.core.resume_parser - ERROR - Error parsing resume data\input\HD - MD - Tevin.pdf: expected string or bytes-like object, got 'tuple'
+2025-06-16 12:46:53,022 - src.core.document_reader - INFO - Successfully extracted text using _extract_with_pdfplumber
+2025-06-16 12:46:53,032 - src.core.resume_parser - ERROR - Error parsing resume data\input\Data Entry - CA - Kristina.pdf: expected string or bytes-like object, got 'tuple'
+2025-06-16 12:46:53,455 - src.core.document_reader - INFO - Successfully extracted text using _extract_with_pdfplumber
+2025-06-16 12:46:53,455 - src.core.resume_parser - ERROR - Error parsing resume data\input\PM - OH - Daniel.pdf: expected string or bytes-like object, got 'tuple'
+2025-06-16 12:46:53,801 - src.core.document_reader - INFO - Successfully extracted text using _extract_with_pdfplumber
+2025-06-16 12:46:53,802 - src.core.resume_parser - ERROR - Error parsing resume data\input\Office Assistant – AZ – Lannette.pdf: expected string or bytes-like object, got 'tuple'
+2025-06-16 12:46:54,019 - src.core.resume_parser - ERROR - Error parsing resume data\input\Ade Oladokun - Medicaid project Analyst - DC.docx: expected string or bytes-like object, got 'tuple'
+2025-06-16 12:46:54,446 - src.core.document_reader - INFO - Successfully extracted text using _extract_with_pdfplumber
+2025-06-16 12:46:54,447 - src.core.resume_parser - ERROR - Error parsing resume data\input\Scrum Master - CSM - MD - Tolu.pdf: expected string or bytes-like object, got 'tuple'
+2025-06-16 12:46:54,586 - src.core.resume_parser - ERROR - Error parsing resume data\input\BA - CA - Lather.docx: expected string or bytes-like object, got 'tuple'
+2025-06-16 12:46:54,630 - src.core.resume_parser - ERROR - Error parsing resume data\input\BigData, Spark, AWS - MD - Olan.docx: expected string or bytes-like object, got 'tuple'
+2025-06-16 12:46:54,809 - src.core.document_reader - INFO - Successfully extracted text using _extract_with_pdfplumber
+2025-06-16 12:46:54,810 - src.core.resume_parser - ERROR - Error parsing resume data\input\Administrative Assistant – MD – Andree.pdf: expected string or bytes-like object, got 'tuple'
+2025-06-16 12:46:54,892 - src.core.resume_parser - ERROR - Error parsing resume data\input\BigData, Spark, AWS - VA - Anirudh.docx: expected string or bytes-like object, got 'tuple'
+2025-06-16 12:46:55,030 - src.core.resume_parser - ERROR - Error parsing resume data\input\Data Entry - MD - Michelle.docx: expected string or bytes-like object, got 'tuple'
+2025-06-16 12:46:55,427 - src.core.resume_parser - ERROR - Error parsing resume data\input\Content Designers – WA – Marc.docx: expected string or bytes-like object, got 'tuple'
+2025-06-16 12:46:55,570 - src.core.resume_parser - ERROR - Error parsing resume data\input\Disaster Recovery - TX - Russell.docx: expected string or bytes-like object, got 'tuple'
+2025-06-16 12:46:55,751 - src.core.resume_parser - ERROR - Error parsing resume data\input\HD - GA - Dale.docx: expected string or bytes-like object, got 'tuple'
+2025-06-16 12:46:55,828 - src.core.resume_parser - ERROR - Error parsing resume data\input\Data Architect - NJ - Rakhi.docx: expected string or bytes-like object, got 'tuple'
+2025-06-16 12:46:55,860 - src.core.document_reader - INFO - Successfully extracted text using _extract_with_pdfplumber
+2025-06-16 12:46:55,861 - src.core.resume_parser - ERROR - Error parsing resume data\input\IT Security - SOC - MD - Paul.pdf: expected string or bytes-like object, got 'tuple'
+2025-06-16 12:46:56,048 - src.core.resume_parser - ERROR - Error parsing resume data\input\IT Security - SOC - MD - Charles.docx: expected string or bytes-like object, got 'tuple'
+2025-06-16 12:46:56,196 - src.core.resume_parser - ERROR - Error parsing resume data\input\Data Entry - PA - Arun.docx: expected string or bytes-like object, got 'tuple'
+2025-06-16 12:46:56,561 - src.core.resume_parser - ERROR - Error parsing resume data\input\Scrum Master - CSM - VA - Peter.docx: expected string or bytes-like object, got 'tuple'
+2025-06-16 12:46:56,585 - src.core.resume_parser - ERROR - Error parsing resume data\input\Technical Writer - NC – Lisa.docx: expected string or bytes-like object, got 'tuple'
+2025-06-16 12:46:56,757 - src.core.resume_parser - ERROR - Error parsing resume data\input\IT Security - SOC - VA - Brian.docx: expected string or bytes-like object, got 'tuple'
+2025-06-16 12:47:02,421 - src.core.resume_parser - ERROR - Error parsing resume data\input\BI - PL-SQL - TX - Julius.doc: expected string or bytes-like object, got 'tuple'
+2025-06-16 12:47:03,621 - src.core.resume_parser - ERROR - Error parsing resume data\input\Disaster Recovery - NC - Sharon.doc: expected string or bytes-like object, got 'tuple'
+2025-06-16 12:47:03,940 - src.core.document_reader - ERROR - Error converting DOC to DOCX: Open.SaveAs
+2025-06-16 12:47:04,014 - src.core.resume_parser - ERROR - Error parsing resume data\input\PM - OH -  Sherry.doc: expected string or bytes-like object, got 'tuple'
+2025-06-16 12:47:04,976 - src.core.document_reader - ERROR - Error converting DOC to DOCX: Open.SaveAs
+2025-06-16 12:47:05,024 - src.core.resume_parser - ERROR - Error parsing resume data\input\Scrum Master - CSM - VA - Emily.doc: expected string or bytes-like object, got 'tuple'
+2025-06-16 12:47:05,840 - src.core.resume_parser - ERROR - Error parsing resume data\input\HD - NJ - Joseph.doc: expected string or bytes-like object, got 'tuple'
+2025-06-16 12:47:09,706 - src.core.document_reader - ERROR - Error converting DOC to DOCX: Open.SaveAs
+2025-06-16 12:47:09,759 - src.core.resume_parser - ERROR - Error parsing resume data\input\Harsharanjit Kamboj_672844.doc: expected string or bytes-like object, got 'tuple'

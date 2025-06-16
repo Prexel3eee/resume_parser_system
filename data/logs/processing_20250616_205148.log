@@ -1,0 +1,29 @@
+2025-06-16 20:51:48,276 - src.core.resume_parser - INFO - Loading NLP models...
+2025-06-16 20:51:48,277 - src.core.resume_parser - INFO - Loading NLP models...
+2025-06-16 20:51:48,278 - src.core.resume_parser - INFO - Loading NLP models...
+2025-06-16 20:51:48,279 - src.core.resume_parser - INFO - Loading NLP models...
+2025-06-16 20:52:06,575 - src.core.resume_parser - INFO - Loaded transformer-based NER model
+2025-06-16 20:52:06,966 - src.core.resume_parser - INFO - Loaded transformer-based NER model
+2025-06-16 20:52:07,101 - src.core.resume_parser - INFO - Loaded transformer-based NER model
+2025-06-16 20:52:07,188 - src.core.resume_parser - INFO - Loaded transformer-based NER model
+2025-06-16 20:52:10,741 - src.core.resume_parser - INFO - Loaded job-specific model with custom patterns
+2025-06-16 20:52:10,990 - src.core.resume_parser - INFO - Loaded job-specific model with custom patterns
+2025-06-16 20:52:11,247 - src.core.resume_parser - INFO - Loaded job-specific model with custom patterns
+2025-06-16 20:52:11,441 - src.core.resume_parser - INFO - Loaded job-specific model with custom patterns
+2025-06-16 20:52:13,342 - src.core.resume_parser - INFO - Loaded 31183 cities
+2025-06-16 20:52:13,342 - src.core.resume_parser - INFO - Loaded 33385 ZIP codes
+2025-06-16 20:52:13,343 - src.core.resume_parser - INFO - Loaded 104 states
+2025-06-16 20:52:13,431 - src.core.resume_parser - INFO - Loaded 31183 cities
+2025-06-16 20:52:13,431 - src.core.resume_parser - INFO - Loaded 33385 ZIP codes
+2025-06-16 20:52:13,431 - src.core.resume_parser - INFO - Loaded 104 states
+2025-06-16 20:52:13,493 - src.core.resume_parser - INFO - Loaded 31183 cities
+2025-06-16 20:52:13,493 - src.core.resume_parser - INFO - Loaded 33385 ZIP codes
+2025-06-16 20:52:13,494 - src.core.resume_parser - INFO - Loaded 104 states
+2025-06-16 20:52:13,610 - src.core.resume_parser - INFO - Loaded 31183 cities
+2025-06-16 20:52:13,610 - src.core.resume_parser - INFO - Loaded 33385 ZIP codes
+2025-06-16 20:52:13,610 - src.core.resume_parser - INFO - Loaded 104 states
+2025-06-16 20:52:19,647 - src.core.resume_parser - ERROR - Error parsing resume text: 'ResumeParser' object has no attribute '_extract_skills_from_sentence'
+2025-06-16 20:52:19,744 - src.core.resume_parser - ERROR - Error parsing resume text: 'ResumeParser' object has no attribute '_extract_skills_from_sentence'
+2025-06-16 20:52:20,826 - src.core.resume_parser - ERROR - Error parsing resume text: 'ResumeParser' object has no attribute '_extract_skills_from_sentence'
+2025-06-16 20:52:21,939 - src.core.resume_parser - ERROR - Error parsing resume text: 'ResumeParser' object has no attribute '_extract_skills_from_sentence'
+2025-06-16 20:52:30,030 - src.core.resume_parser - ERROR - Error parsing resume text: 'ResumeParser' object has no attribute '_extract_skills_from_sentence'

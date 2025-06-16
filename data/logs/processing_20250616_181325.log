@@ -1,0 +1,14 @@
+2025-06-16 18:13:25,033 - src.core.resume_parser - INFO - Loading NLP models...
+2025-06-16 18:13:51,264 - src.core.resume_parser - INFO - Loaded transformer-based NER model
+2025-06-16 18:14:11,366 - src.core.resume_parser - INFO - Loaded job-specific model with custom patterns
+2025-06-16 18:14:15,930 - src.core.resume_parser - INFO - Loaded 31183 cities
+2025-06-16 18:14:15,931 - src.core.resume_parser - INFO - Loaded 33385 ZIP codes
+2025-06-16 18:14:15,932 - src.core.resume_parser - INFO - Loaded 104 states
+2025-06-16 18:14:22,135 - src.core.document_reader - INFO - Successfully extracted text using _extract_with_pdfplumber
+2025-06-16 18:14:44,873 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-16 18:14:58,600 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-16 18:15:08,395 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-16 18:15:31,826 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-16 18:15:44,323 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-16 18:15:54,388 - src.core.document_reader - ERROR - Error converting DOC to DOCX: Open.SaveAs
+2025-06-16 18:16:16,408 - src.core.resume_parser - ERROR - Error extracting government information: no such group

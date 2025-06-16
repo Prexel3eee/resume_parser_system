@@ -1,0 +1,13 @@
+2025-06-16 12:49:22,360 - src.core.ml_skill_extractor - INFO - Successfully loaded ML models
+2025-06-16 12:49:24,337 - src.core.document_reader - INFO - Successfully extracted text using _extract_with_pdfplumber
+2025-06-16 12:49:24,341 - src.core.resume_parser - ERROR - Error parsing resume data\input\HD - MD - Tevin.pdf: 'ResumeParser' object has no attribute '_extract_name'
+2025-06-16 12:49:25,178 - src.core.document_reader - INFO - Successfully extracted text using _extract_with_pdfplumber
+2025-06-16 12:49:25,179 - src.core.resume_parser - ERROR - Error parsing resume data\input\Office Assistant – AZ – Lannette.pdf: 'ResumeParser' object has no attribute '_extract_name'
+2025-06-16 12:49:25,380 - src.core.resume_parser - ERROR - Error parsing resume data\input\Ade Oladokun - Medicaid project Analyst - DC.docx: 'ResumeParser' object has no attribute '_extract_name'
+2025-06-16 12:49:25,976 - src.core.resume_parser - ERROR - Error parsing resume data\input\BA - CA - Lather.docx: 'ResumeParser' object has no attribute '_extract_name'
+2025-06-16 12:49:26,125 - src.core.resume_parser - ERROR - Error parsing resume data\input\BigData, Spark, AWS - MD - Olan.docx: 'ResumeParser' object has no attribute '_extract_name'
+2025-06-16 12:49:26,587 - src.core.resume_parser - ERROR - Error parsing resume data\input\Content Designers – WA – Marc.docx: 'ResumeParser' object has no attribute '_extract_name'
+2025-06-16 12:49:26,751 - src.core.resume_parser - ERROR - Error parsing resume data\input\Data Entry - MD - Michelle.docx: 'ResumeParser' object has no attribute '_extract_name'
+2025-06-16 12:49:28,017 - src.core.resume_parser - ERROR - Error parsing resume data\input\Data Entry - PA - Arun.docx: 'ResumeParser' object has no attribute '_extract_name'
+2025-06-16 12:49:42,165 - src.core.document_reader - ERROR - Error converting DOC to DOCX: Open.SaveAs
+2025-06-16 12:49:42,243 - src.core.resume_parser - ERROR - Error parsing resume data\input\Harsharanjit Kamboj_672844.doc: 'ResumeParser' object has no attribute '_extract_name'

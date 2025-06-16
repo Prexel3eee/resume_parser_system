@@ -1,0 +1,29 @@
+services:
+  - type: web
+    name: resume-parser-api
+    env: docker
+    plan: standard
+    region: oregon
+    healthCheckPath: /
+    envVars:
+      - key: PYTHONPATH
+        value: /app
+      - key: PYTHONUNBUFFERED
+        value: "1"
+      - key: PORT
+        value: "8000"
+      - key: MAX_WORKERS
+        value: "4"
+      - key: BATCH_SIZE
+        value: "50"
+      - key: ENABLE_OCR
+        value: "true"
+      - key: ENABLE_NLP
+        value: "true"
+      - key: ENABLE_SKILL_EXTRACTION
+        value: "true"
+      - key: ENABLE_EXPERIENCE_CALCULATION
+        value: "true"
+      - key: ENABLE_CONFIDENCE_SCORING
+        value: "true"
+    autoDeploy: true 

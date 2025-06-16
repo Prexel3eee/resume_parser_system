@@ -1,0 +1,53 @@
+2025-06-15 22:48:38,117 - src.core.resume_parser - INFO - Loading NLP models...
+2025-06-15 22:48:38,117 - src.core.resume_parser - INFO - Loading NLP models...
+2025-06-15 22:48:38,117 - src.core.resume_parser - INFO - Loading NLP models...
+2025-06-15 22:49:17,279 - src.core.resume_parser - INFO - Loaded transformer-based NER model
+2025-06-15 22:49:19,357 - src.core.resume_parser - INFO - Loaded transformer-based NER model
+2025-06-15 22:49:19,908 - src.core.resume_parser - INFO - Loaded transformer-based NER model
+2025-06-15 22:49:19,922 - src.core.resume_parser - INFO - Loaded transformer-based NER model
+2025-06-15 22:49:20,643 - src.core.resume_parser - INFO - Loaded job-specific model with custom patterns
+2025-06-15 22:49:22,429 - src.core.resume_parser - INFO - Loaded job-specific model with custom patterns
+2025-06-15 22:49:22,770 - src.core.resume_parser - INFO - Loaded job-specific model with custom patterns
+2025-06-15 22:49:22,991 - src.core.resume_parser - INFO - Loaded 31183 cities
+2025-06-15 22:49:22,992 - src.core.resume_parser - INFO - Loaded 33385 ZIP codes
+2025-06-15 22:49:22,992 - src.core.resume_parser - INFO - Loaded 104 states
+2025-06-15 22:49:23,267 - src.core.resume_parser - INFO - Loaded job-specific model with custom patterns
+2025-06-15 22:49:24,701 - src.core.resume_parser - INFO - Loaded 31183 cities
+2025-06-15 22:49:24,702 - src.core.resume_parser - INFO - Loaded 33385 ZIP codes
+2025-06-15 22:49:24,703 - src.core.resume_parser - INFO - Loaded 104 states
+2025-06-15 22:49:24,925 - src.core.resume_parser - INFO - Loaded 31183 cities
+2025-06-15 22:49:24,926 - src.core.resume_parser - INFO - Loaded 33385 ZIP codes
+2025-06-15 22:49:24,926 - src.core.resume_parser - INFO - Loaded 104 states
+2025-06-15 22:49:25,270 - src.core.resume_parser - INFO - Loaded 31183 cities
+2025-06-15 22:49:25,271 - src.core.resume_parser - INFO - Loaded 33385 ZIP codes
+2025-06-15 22:49:25,271 - src.core.resume_parser - INFO - Loaded 104 states
+2025-06-15 22:49:26,209 - src.core.document_reader - INFO - Successfully extracted text using _extract_with_pdfplumber
+2025-06-15 22:49:27,295 - src.core.document_reader - INFO - Successfully extracted text using _extract_with_pdfplumber
+2025-06-15 22:49:27,435 - src.core.document_reader - INFO - Successfully extracted text using _extract_with_pdfplumber
+2025-06-15 22:49:30,571 - src.core.document_reader - INFO - Successfully extracted text using _extract_with_pdfplumber
+2025-06-15 22:49:34,119 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-15 22:49:34,417 - src.core.document_reader - INFO - Successfully extracted text using _extract_with_pdfplumber
+2025-06-15 22:49:34,748 - src.core.document_reader - INFO - Successfully extracted text using _extract_with_pdfplumber
+2025-06-15 22:49:39,206 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-15 22:49:39,555 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-15 22:49:40,475 - src.core.document_reader - INFO - Successfully extracted text using _extract_with_pdfplumber
+2025-06-15 22:49:44,419 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-15 22:49:48,003 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-15 22:49:49,219 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-15 22:49:53,774 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-15 22:49:55,883 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-15 22:49:56,346 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-15 22:50:00,002 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-15 22:50:09,471 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-15 22:50:15,467 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-15 22:50:21,950 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-15 22:50:28,398 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-15 22:50:29,420 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-15 22:50:31,829 - src.core.document_reader - ERROR - Error converting DOC to DOCX: Property 'Word.Application.Visible' can not be set.
+2025-06-15 22:50:50,016 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-15 22:50:53,172 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-15 22:50:59,022 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-15 22:51:02,308 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-15 22:51:05,506 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-15 22:51:07,075 - src.core.resume_parser - ERROR - Error extracting government information: no such group
+2025-06-15 22:51:17,857 - src.core.resume_parser - ERROR - Error extracting government information: no such group

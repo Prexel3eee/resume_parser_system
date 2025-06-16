@@ -1,0 +1,7 @@
+2025-06-16 19:51:47,813 - src.core.resume_parser - INFO - Loading NLP models...
+2025-06-16 19:51:50,912 - src.core.resume_parser - INFO - Loaded transformer-based NER model
+2025-06-16 19:51:52,745 - src.core.resume_parser - INFO - Loaded job-specific model with custom patterns
+2025-06-16 19:51:54,390 - src.core.resume_parser - INFO - Loaded 31183 cities
+2025-06-16 19:51:54,390 - src.core.resume_parser - INFO - Loaded 33385 ZIP codes
+2025-06-16 19:51:54,390 - src.core.resume_parser - INFO - Loaded 104 states
+2025-06-16 19:51:59,104 - src.core.resume_parser - ERROR - Error extracting government information: no such group
